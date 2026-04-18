@@ -8,8 +8,7 @@ QGIS, ArcGIS, Kepler.gl, Tableau, PowerBI, Google Earth, o cualquier
 herramienta de análisis y georreferenciación.
 
 > **No oficial.** Esta compilación es un esfuerzo de apertura de datos
-> públicos realizado por el **Gobierno del Estado de Campeche — Subsecretaría
-> de Planeación, SAFIN**. La titularidad de los datos originales corresponde
+> públicos. La titularidad de los datos originales corresponde
 > a SICT/IMT.
 
 ---
@@ -281,17 +280,13 @@ puede replicar la descarga.
 
 ### Cita sugerida
 
-> Gobierno del Estado de Campeche — Subsecretaría de Planeación, SAFIN (2026).
-> *Datos Viales México 2025 — Dataset Geoestadístico*. Compilación a partir
-> del portal Datos Viales 2025 de SICT/IMT.
+> *Datos Viales México 2025 — Dataset Geoestadístico* (2026). Compilación a
+> partir del portal Datos Viales 2025 de SICT/IMT.
 > https://github.com/iChocko/Datos-Viales-SICT
 
 ---
 
 ## Créditos
-
-**Compilación y publicación:**
-Gobierno del Estado de Campeche — Subsecretaría de Planeación, SAFIN.
 
 **Datos originales:**
 Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) · Instituto
