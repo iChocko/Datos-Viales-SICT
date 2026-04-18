@@ -1,0 +1,4 @@
+state_slug,tipo,pdf_url,pdf_path
+campeche,NS,https://datosviales2020.routedev.mx/resMapaNS?state=campeche,u3/pdfs/campeche_mapa_niveles_servicio.pdf
+campeche,VKABC,https://datosviales2020.routedev.mx/resMapaVKABC?state=campeche,u3/pdfs/campeche_mapa_vehiculos_km.pdf
+campeche,RVV,https://datosviales2020.routedev.mx/resMapaRVV?state=campeche,u3/pdfs/campeche_mapa_rangos_volumen.pdf

@@ -1,0 +1,402 @@
+caseta_mongo_id,state_slug,caseta_name,cve,carretera,ruta,movimiento,tdpa_2024,lat,lon,rubro
+68798c739b36b04cf0b7bfcc,aguascalientes,Zacatecas,049,Cuauhtémoc-Osiris,MEX-045D,Ent. Cuauhtémoc-Ent. Osiris,9160,22.710742,-102.448827,casetas
+68798c739b36b04cf0b7c2c1,aguascalientes,El Chichimeco,335-01,Libramiento Poniente de Aguascalientes,MEX-045D,Ent. Montoro-Ent. La Escondida,6317,22.005847,-102.357752,casetas
+68798c739b36b04cf0b7c054,baja california,Puente Colorado,136,Sonoita-Mexicali (LIBRE),MEX-002,San Luis Río Colorado-Ejido Monterrey,15632,32.491682,-114.808719,casetas
+68798c739b36b04cf0b7c211,baja california,Mexicali A1,246,Libramiento de Mexicali,MEX-D,Ent. Cuernavaca-Ent. San Felipe,2430,32.532859,-115.409847,casetas
+68798c739b36b04cf0b7c212,baja california,Mexicali A2,247,Libramiento de Mexicali,MEX-D,Ent. Cuernavaca-Ent. Centinela,3882,32.533452,-115.420732,casetas
+68798c739b36b04cf0b7c234,baja california,Puente Inter. San Luis Río Colorado II (Cucapá),263,Sonoita - Mexicali,MEX-002,San Luis Río Colorado-Yuma,787,32.485401,-114.782192,casetas
+68798c739b36b04cf0b7c2cf,baja california,Playas de Tijuana,011,Tijuana-San Miguel,MEX-001D,Tijuana-Rosarito,20862,32.514051,-117.109566,casetas
+68798c739b36b04cf0b7c2d0,baja california,Rosarito,012,Tijuana-San Miguel,MEX-001D,Rosarito-La Misión,13790,32.311096,-117.044403,casetas
+68798c739b36b04cf0b7c2d1,baja california,Nodo Popotla,013,Tijuana-San Miguel,MEX-001D,La Misión-Corredor 2000,3151,32.283815,-117.029678,casetas
+68798c739b36b04cf0b7c2d2,baja california,Ensenada,014,Tijuana-San Miguel,MEX-001D,La Misión-Ensenada,16063,31.903097,-116.732777,casetas
+68798c739b36b04cf0b7c2f5,baja california,Centinela,043,Mexicali-Tijuana,MEX-002D,Centinela-Rumorosa,12858,32.56266,-116.047948,casetas
+68798c739b36b04cf0b7c2f6,baja california,El Hongo,044-01,Mexicali-Tijuana,MEX-002D,Rumorosa-Tecate,9587,32.521843,-116.32001,casetas
+68798c739b36b04cf0b7c2f9,baja california,Tijuana,045-01,Mexicali-Tijuana,MEX-002D,Tecate-Tijuana,10806,32.545717,-116.852059,casetas
+68798c739b36b04cf0b7bfc7,baja california sur,Aeropuerto los Cabos,047-02,Aeropuerto los Cabos-San José del Cabo,MEX-001D,Cabo San Lucas-Aeropuerto los Cabos,1044,23.150478,-109.740558,casetas
+68798c739b36b04cf0b7bfc9,baja california sur,San José del Cabo,048-01,Aeropuerto los Cabos-San José del Cabo,MEX-001D,Aeropuerto los Cabos-San José del Cabo,2513,23.049876,-109.719565,casetas
+68798c739b36b04cf0b7c261,baja california sur,Cabo San Lucas,293-01,San José del Cabo - Cabo San Lucas,MEX-001D,San José del Cabo-Cabo San Lucas,218,22.924285,-109.917251,casetas
+68798c739b36b04cf0b7c264,baja california sur,El Mangle,294-01,Ramal a el Mangle,MEX-001D,San José del Cabo-El Mangle,535,22.953954,-109.973941,casetas
+68798c739b36b04cf0b7c045,campeche,Seybaplaya,130-01,Champotón-Campeche,MEX-180D,Villa Madero-Campeche,7809,19.636235,-90.671582,casetas
+68798c739b36b04cf0b7c101,campeche,Puente Zacatal,191,Villahermosa-Cd. Del Carmen (LIBRE),MEX-180,Zacatal-Cd. Del Carmen,4931,18.641814,-92.460301,casetas
+68798c739b36b04cf0b7c245,campeche,Puente de la Unidad,272,Cd. Del Carmen-Campeche,MEX-180,Cd. Del Carmen-Isla Aguada,6144,18.785471,-91.494877,casetas
+68798c739b36b04cf0b7c2d5,campeche,Puente Grijalva,017,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,Villahermosa-Aquiles Serdán,16817,17.947602,-92.785235,casetas
+68798c739b36b04cf0b7c2d6,campeche,Puente Usumacinta,018,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,Ent. Emiliano Zapata-San Marcos,4975,17.859905,-91.783654,casetas
+68798c739b36b04cf0b7bfcd,chiapas,Chiapa de Corzo,050,Tuxtla Gutiérrez-San Cristóbal de las Casas,MEX-190D,Tuxtla Gutiérrez-San Cristóbal de las Casas,12089,16.730567,-93.009544,casetas
+68798c739b36b04cf0b7c121,chiapas,Las Choapas,206-01,Las Choapas-Ocozocoautla,MEX-187D,Ent. Las Choapas-Nvo. Sacrificio,2829,17.944832,-94.172395,casetas
+68798c739b36b04cf0b7c124,chiapas,Malpasito,207-01,Las Choapas-Ocozocoautla,MEX-187D,Nvo. Sacrificio-Raudales,4423,17.34907,-93.586472,casetas
+68798c739b36b04cf0b7c127,chiapas,Ocozocoautla,208,Las Choapas-Ocozocoautla,MEX-187D,Ent. Raudales-Ocozocoautla,4897,16.863183,-93.406856,casetas
+68798c739b36b04cf0b7c235,chiapas,Arriaga,264,Arriaga-Ocozocoautla,MEX-187D,Arriaga-Tierra y Libertad,5383,16.257485,-93.875377,casetas
+68798c739b36b04cf0b7c236,chiapas,Jiquipilas,265,Arriaga-Ocozocoautla,MEX-187D,Tierra y Libertad-Jiquipilas,4625,16.620512,-93.602104,casetas
+68798c739b36b04cf0b7c237,chiapas,Montes Azules,266,Arriaga-Ocozocoautla,MEX-187D,Jiquipilas-Montes Azules,4918,16.620609,-93.600526,casetas
+68798c739b36b04cf0b7c238,chiapas,Ocozocoautla ,267,Arriaga-Ocozocoautla,MEX-187D,Montes Azules-Ocozacoautla,7496,16.738487,-93.400346,casetas
+68798c739b36b04cf0b7c2e5,chiapas,Puente Inter. Rodolfo Robles,029,Ramal A Cd.Hidalgo (LIBRE),MEX,Cd. Hidalgo-Tecún Umán,2049,14.702151,-92.151378,casetas
+68798c739b36b04cf0b7c2fe,chiapas,Puente Inter. Shuchiate II (Ing. Luis Cabrera),046,T. C. (Tapachula-Pto. Madero)-Cd. Hidalgo,MEX,Hidalgo-Tecún Umán,496,14.67701,-92.149716,casetas
+68798c739b36b04cf0b7bfe3,chihuahua,Villa Ahumada,063,El Sueco-Cd. Juárez,MEX-045,El Sueco-Villa Ahumada,8162,30.437059,-106.521897,casetas
+68798c739b36b04cf0b7bff4,chihuahua,Puente Inter. Zaragoza-Ysleta,075,El Sueco-Cd. Juárez (LIBRE),MEX-045,Zaragoza-Ysleta,6912,31.670809,-106.340673,casetas
+68798c739b36b04cf0b7bffd,chihuahua,Camargo,080,Jiménez-Chihuahua,MEX-045D,Jiménez-Camargo,6557,27.24496,-104.933154,casetas
+68798c739b36b04cf0b7bffe,chihuahua,Altavista,081,Jiménez-Chihuahua,MEX-045D,Camargo-Conchos,7456,27.730871,-105.197567,casetas
+68798c739b36b04cf0b7bfff,chihuahua,Saucillo,082,Jiménez-Chihuahua,MEX-045D,Conchos-Delicias,9398,28.046417,-105.329309,casetas
+68798c739b36b04cf0b7c0ff,chihuahua,Bermejillo,189,Gómez Palacio-Corralitos,MEX-049D,Gómez Palacio-Est.Banderas,5615,25.923705,-103.622079,casetas
+68798c739b36b04cf0b7c100,chihuahua,Ceballos,190,Gómez Palacio-Corralitos,MEX-049D,Est. Banderas-Corralitos,5692,26.586801,-104.057535,casetas
+68798c739b36b04cf0b7c271,chihuahua,Puente Inter. Guadalupe - Tornillo,302,Porvenir - Cd. Juárez,MEX-002,Guadalupe-Tornillo,1996,31.431005,-106.151683,casetas
+68798c739b36b04cf0b7c2ad,chihuahua,Jiménez,324,Libramiento Oriente de Chihuahua,MEX-045D,Ent. Jiménez-Ent. Aldama,3932,28.603444,-105.95144,casetas
+68798c739b36b04cf0b7c2ae,chihuahua,Sacramento,325,Libramiento Oriente de Chihuahua,MEX-045D,Ent. Aldama-Ent. Sacramento,4865,28.790516,-106.139354,casetas
+68798c739b36b04cf0b7c2c4,chihuahua,Guadalupe,336,Libramiento Oriente de Ciudad Juárez,CHIH-048D,Ent. Villa Ahumada-Ent. Guadalupe,495,31.411868,-106.195543,casetas
+68798c739b36b04cf0b7c2e2,chihuahua,Puente Inter. Ojinaga,026,Chihuahua-Ojinaga (LIBRE),MEX-016,Ojinaga-Presidio,2033,29.560735,-104.397589,casetas
+68798c739b36b04cf0b7c2e3,chihuahua,Puente Inter. Paso del Norte,027,El Sueco-Cd. Juárez (LIBRE),MEX-045,Cd. Juárez-El Paso,5958,31.7459,-106.486424,casetas
+68798c739b36b04cf0b7c079,coahuila,Los Chorros,158,Puerto  México-Ent. Ojo Caliente,MEX-057D,Puerto México-Ent. Carbonera,14727,25.186696,-100.731988,casetas
+68798c739b36b04cf0b7c07a,coahuila,La Carbonera (Ojo Caliente),159,Puerto  México-Ent. Ojo Caliente,MEX-057D,Ent. La Carbonera-Ojo Caliente,16481,25.510948,-100.868249,casetas
+68798c739b36b04cf0b7c07b,coahuila,Huachichil,160,Puerto  México-Ent. Ojo Caliente,MEX-057D,Huachichil-Ent. Carbonera,3259,25.245555,-100.801531,casetas
+68798c739b36b04cf0b7c07e,coahuila,La Cuchilla,163,Torreón-Saltillo,MEX-040D,Matamoros-El Porvenir,7773,25.627052,-102.878352,casetas
+68798c739b36b04cf0b7c07f,coahuila,Plan de Ayala,164,Torreón-Saltillo,MEX-040D,Loma Bonita-Plan de Ayala,8017,25.444203,-101.303908,casetas
+68798c739b36b04cf0b7c10c,coahuila,Puente Inter. Piedras Negras II (Coahuila 2000),197,Monclova-Piedras Negras,MEX-057,Piedras Negras-Eagle Pass,5263,28.698227,-100.506523,casetas
+68798c739b36b04cf0b7c23a,coahuila,Playa 1,269-01,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,Zacatecas-Monclova (Libramiento de Saltillo),5247,25.448326,-101.067032,casetas
+68798c739b36b04cf0b7c23d,coahuila,Playa 2,270-01,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,Monclova-Ojo Caliente II,9373,25.612269,-100.913518,casetas
+68798c739b36b04cf0b7c240,coahuila,Playa 3,271-01,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,Ojo Caliente II-Morones Prieto,10517,25.696117,-100.577324,casetas
+68798c739b36b04cf0b7c25b,coahuila,San Pedro,289-01,Libramiento de la Laguna,MEX-040D,El Vergel-Matamoros,3485,25.650547,-103.369237,casetas
+68798c739b36b04cf0b7c2e6,coahuila,Puente Inter. Piedras Negras,030,Monclova-Piedras Negras (LIBRE),MEX-057,Piedras Negras-Eagle Pass,3455,28.705197,-100.512983,casetas
+68798c739b36b04cf0b7c2e8,coahuila,Puente Inter. Acuña,032,Piedras Negras-Cd. Acuña (LIBRE),MEX-002,Cd. Acuña-Del Río,4774,29.325657,-100.929015,casetas
+68798c739b36b04cf0b7bfd2,colima,Acatlán de Juárez,053,Acatlán de Juaréz-El Trapiche,MEX-054D,Acatlán-Atoyac,14971,20.373443,-103.576317,casetas
+68798c739b36b04cf0b7bfd3,colima,Sayula,054,Acatlán de Juaréz-El Trapiche,MEX-054D,Atoyac-Cd. Guzmán,16199,19.933235,-103.530027,casetas
+68798c739b36b04cf0b7bfd4,colima,Sayula Remota,055,Acatlán de Juaréz-El Trapiche,MEX-054D,Sayula-Cd. Guzmán,2048,19.879111,-103.519314,casetas
+68798c739b36b04cf0b7bfd5,colima,San Marcos,056,Acatlán de Juaréz-El Trapiche,MEX-054D,Cd. Guzmán-El Trapiche,13280,19.409129,-103.527882,casetas
+68798c739b36b04cf0b7c013,colima,Cuyutlán,095,Armería-Manzanillo,MEX-200D,Armería-Manzanillo,13344,18.927852,-104.081512,casetas
+68798c739b36b04cf0b7bfe4,distrito federal,Santa Fe,064,Constituyentes-La Marquesa,MEX-015D,Constituyentes-Santa Fe,19951,19.36337,-99.267326,casetas
+68798c739b36b04cf0b7bfe5,distrito federal,Contadero,065,Constituyentes-La Marquesa,MEX-015D,Constituyentes-Contadero,2208,19.335797,-99.311029,casetas
+68798c739b36b04cf0b7bfe6,distrito federal,La Venta,066-01,Constituyentes-La Marquesa,MEX-015D,Constituyentes-La Marquesa,44418,19.332816,-99.314301,casetas
+68798c739b36b04cf0b7c085,distrito federal,Tlalpan,170,México-Cuernavaca,MEX-095D,México-Cuernavaca,29049,19.242519,-99.148716,casetas
+68798c739b36b04cf0b7c0f7,distrito federal,La Venta (GOB.EDO.),188-01,Lechería-La Venta,MEX-057D,Lechería-La Venta,528,19.348946,-99.306623,casetas
+68798c739b36b04cf0b7c01c,durango,Durango,104,Durango-Gómez Palacio,MEX-040D,Durango-Guadalupe Victoria,3954,24.131646,-104.534037,casetas
+68798c739b36b04cf0b7c01d,durango,Yerbanis,105,Durango-Gómez Palacio,MEX-040D,Guadalupe Victoria-Yerbanís,3256,24.730819,-103.861843,casetas
+68798c739b36b04cf0b7c01e,durango,Cuencamé III,106-01,Durango-Gómez Palacio,MEX-040D,Yerbanís-Pedriceña,3220,24.981714,-103.735206,casetas
+68798c739b36b04cf0b7c021,durango,León Guzmán,107-01,Durango-Gómez Palacio,MEX-040D,Pedriceña-Gómez Palacio,5171,25.520645,-103.639471,casetas
+68798c739b36b04cf0b7c0ff,durango,Bermejillo,189,Gómez Palacio-Corralitos,MEX-049D,Gómez Palacio-Est.Banderas,5615,25.923705,-103.622079,casetas
+68798c739b36b04cf0b7c100,durango,Ceballos,190,Gómez Palacio-Corralitos,MEX-049D,Est. Banderas-Corralitos,5692,26.586801,-104.057535,casetas
+68798c739b36b04cf0b7c22b,durango,Llano Grande,258,Durango-Villa Unión,MEX-040D,Ent.Otinapa-Llano Grande,3968,23.864514,-105.233202,casetas
+68798c739b36b04cf0b7c22c,durango,Coscomate,259,Durango-Villa Unión,MEX-040D,Ent. Piloncillo-Santa Lucía,2366,23.706192,-105.571282,casetas
+68798c739b36b04cf0b7c22d,durango,Mesillas,260-01,Durango-Villa Unión,MEX-040D,Santa Lucía-Villa Unión,3056,23.254997,-106.053989,casetas
+68798c739b36b04cf0b7c037,guanajuato,León II,118,León-Aguascalientes,MEX-045D,Salamanca-León,1451,21.046573,-101.628786,casetas
+68798c739b36b04cf0b7c038,guanajuato,Cuerámaro,119,León-Aguascalientes,MEX-045D,León-Central de Abastos,6094,21.069659,-101.67916,casetas
+68798c739b36b04cf0b7c039,guanajuato,Plan de Ayala,120,León-Aguascalientes,MEX-045D,León-Plan de Ayala,1844,21.076925,-101.709948,casetas
+68798c739b36b04cf0b7c03a,guanajuato,San Francisco del Rincón (Remotas),121,León-Aguascalientes,MEX-045D,León-Ent. San Francisco,4195,21.082338,-101.745597,casetas
+68798c739b36b04cf0b7c03b,guanajuato,Las Joyas,122,León-Aguascalientes,MEX-045D,León-Las Joyas,1876,21.09754,-101.777066,casetas
+68798c739b36b04cf0b7c03c,guanajuato,León,123,León-Aguascalientes,MEX-045D,León-Lagos de Moreno,15213,21.102764,-101.784576,casetas
+68798c739b36b04cf0b7c03d,guanajuato,Unión de San Antonio,124,León-Aguascalientes,MEX-045D,Unión de San Antonio-Lagos de Moreno,587,21.255167,-101.949515,casetas
+68798c739b36b04cf0b7c03e,guanajuato,Encarnación,125-01,León-Aguascalientes,MEX-045D,Lagos de Moreno-Aguascalientes,14063,21.489631,-102.243232,casetas
+68798c739b36b04cf0b7c133,guanajuato,Querétaro,218,Querétaro-Irapuato,MEX-045D,Querétaro-Celaya,15370,20.572203,-100.472827,casetas
+68798c739b36b04cf0b7c134,guanajuato,Querétaro Bis,219-01,Querétaro-Irapuato,MEX-045D,Querétaro-Ent. Lib. Suroeste de Querétaro,18707,20.572359,-100.480865,casetas
+68798c739b36b04cf0b7c136,guanajuato,Apaseo,220,Querétaro-Irapuato,MEX-045D,Apaseo-Celaya,13207,20.533622,-100.627793,casetas
+68798c739b36b04cf0b7c137,guanajuato,Villagrán,221,Querétaro-Irapuato,MEX-045D,Celaya-Villagrán,989,20.582194,-100.99215,casetas
+68798c739b36b04cf0b7c138,guanajuato,Salamanca,222-01,Querétaro-Irapuato,MEX-045D,Celaya-Irapuato,12259,20.598482,-101.180975,casetas
+68798c739b36b04cf0b7c13b,guanajuato,Cerro Gordo,223-01,Querétaro-Irapuato,MEX-045D,Celaya-Ent. Cerro Gordo,14733,20.591986,-101.137269,casetas
+68798c739b36b04cf0b7c214,guanajuato,Cuitzeo,249,Morelia-Salamanca,MEX-043D,Copándaro-Cuitzeo,1930,19.968367,-101.162077,casetas
+68798c739b36b04cf0b7c215,guanajuato,La Cinta,250-01,Morelia-Salamanca,MEX-043D,Uriangato-La Cinta,23,20.076227,-101.135702,casetas
+68798c739b36b04cf0b7c218,guanajuato,Ent. La Cinta,251-01,Morelia-Salamanca,MEX-043D,Uriangato-Copándaro,312,20.073451,-101.136793,casetas
+68798c739b36b04cf0b7c21c,guanajuato,Uriangato,252-01,Morelia-Salamanca,MEX-043D,Copándado-Uriangato,301,20.182954,-101.157296,casetas
+68798c739b36b04cf0b7c220,guanajuato,Valle de Santiago,253-01,Morelia-Salamanca,MEX-043D,Copándaro-Valle de Santiago,150,20.372589,-101.147346,casetas
+68798c739b36b04cf0b7c224,guanajuato,Valtierrilla,254,Morelia-Salamanca,MEX-043D,Cerro Gordo-Valtierrilla,3252,20.547577,-101.138127,casetas
+68798c739b36b04cf0b7c225,guanajuato,Ent. Valtierrilla,255-01,Morelia-Salamanca,MEX-043D,Copándaro-Cerro Gordo,2282,20.542634,-101.137635,casetas
+68798c739b36b04cf0b7c230,guanajuato,Arandas,261-01,Libramiento Norponiente de Irapuato (Cuota),MEX-IRA-020D,Ent. ITESI - San Cristóbal,1417,20.737556,-101.37993,casetas
+68798c739b36b04cf0b7c233,guanajuato,Yostiro,262,Libramiento Norponiente de Irapuato (Cuota),MEX-IRA-020D,San Cristóbal-Yostiro,1919,20.60107,-101.438526,casetas
+68798c739b36b04cf0b7c24a,guanajuato,El Saucillo,277,Lagos de Moreno - Villa de Arriaga,SLP-080D,Lagos de Moreno - Villa de Arriaga,5863,21.490204,-101.763301,casetas
+68798c739b36b04cf0b7c24d,guanajuato,La Calera,280-01,Libramiento de la Piedad,MEX-110D,Laguna Larga-Patti,6645,20.395639,-101.993375,casetas
+68798c739b36b04cf0b7c272,guanajuato,Mendoza,303,Salamanca - Léon,MEX-D,Ent. Cerro Gordo-Ent. ITESI,17190,20.673077,-101.21354,casetas
+68798c739b36b04cf0b7c273,guanajuato,Romita,304,Salamanca - Léon,MEX-D,Ent. Cerro Gordo-Ent. Romita,1269,20.909165,-101.493592,casetas
+68798c739b36b04cf0b7c274,guanajuato,Puerto Interior Gto.,305,Salamanca - Léon,MEX-D,Ent. ITESI-Ent. León,12516,20.983902,-101.542303,casetas
+68798c739b36b04cf0b7c281,guanajuato,Huichapan,312-01,Palmillas-Apaseo,MEX-045D,Huimilpan-Huichapan,196,20.290097,-99.949733,casetas
+68798c739b36b04cf0b7c286,guanajuato,Amealco,313-01,Palmillas-Apaseo,MEX-045D,Huichapan-Amealco,332,20.277737,-100.059149,casetas
+68798c739b36b04cf0b7c290,guanajuato,Huimilpan,315-01,Palmillas-Apaseo,MEX-045D,Huichapan-Huimilpan,416,20.348261,-100.277524,casetas
+68798c739b36b04cf0b7c295,guanajuato,Apaseo el Alto,316-01,Palmillas-Apaseo,MEX-045D,Huichapan-Apaseo el Alto,1183,20.497515,-100.588177,casetas
+68798c739b36b04cf0b7c29a,guanajuato,Apaseo el Grande,317-01,Palmillas-Apaseo,MEX-045D,Huichapan-Apaseo el Grande,6567,20.511282,-100.599341,casetas
+68798c739b36b04cf0b7c2de,guanajuato,Puente La Piedad,022,Irapuato-Guadalajara (LIBRE),MEX-090,Irapuato-Guadalajara,3608,20.352798,-102.025149,casetas
+68798c739b36b04cf0b7bfe9,guerrero,Central de Abastos,067,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Central de Abastos,19171,18.838355,-99.217512,casetas
+68798c739b36b04cf0b7bfea,guerrero,Aeropuerto,068,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Aereopuerto,17185,18.802317,-99.221271,casetas
+68798c739b36b04cf0b7bfeb,guerrero,Xochitepec,069,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Xochitepec,3514,18.774989,-99.22532,casetas
+68798c739b36b04cf0b7bfec,guerrero,Ing. Francisco Velasco Durán,070,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Puente de Ixtla,15564,18.698498,-99.278028,casetas
+68798c739b36b04cf0b7bfed,guerrero,Alpuyeca,071-01,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Alpuyeca,4398,18.723832,-99.260221,casetas
+68798c739b36b04cf0b7bfef,guerrero,Paso Morelos,072-01,Cuernavaca-Acapulco,MEX-095D,Puente de Ixtla-Chilpancingo,7807,18.231462,-99.215446,casetas
+68798c739b36b04cf0b7bff2,guerrero,Palo Blanco,073,Cuernavaca-Acapulco,MEX-095D,Chilpancingo-Tierra Colorada,8445,17.423983,-99.466911,casetas
+68798c739b36b04cf0b7bff3,guerrero,La Venta,074,Cuernavaca-Acapulco,MEX-095D,Tierra Colorada-Acapulco,8730,16.928232,-99.801857,casetas
+68798c739b36b04cf0b7c08b,guerrero,Iguala,174,Puente de Ixtla-Iguala,MEX-D,Puente de Ixtla-Iguala,3872,18.336191,-99.508296,casetas
+68798c739b36b04cf0b7c08c,guerrero,Zacapalco,175,Zacapalco-Taxco,MEX-D,Zacapalco-RanchoViejo,1758,18.537999,-99.447424,casetas
+68798c739b36b04cf0b7c08d,guerrero,Taxco,176,Zacapalco-Taxco,MEX-D,Rancho Viejo-Taxco,2870,18.588609,-99.559993,casetas
+68798c739b36b04cf0b7c116,guerrero,Feliciano,201-01,Nueva Italia-Lázaro Cárdenas,MEX-037D,Las Cañas-Feliciano,1962,18.00409,-101.961847,casetas
+68798c739b36b04cf0b7c229,guerrero,Técpan,256,Libramiento de Técpan,MEX-200D,Libramiento de Técpan,2071,17.197071,-100.626751,casetas
+68798c739b36b04cf0b7bfb5,hidalgo,Sahagún,242-03,Arco Norte Cd. México,MEX-M40D,Jilotepec-Sahagún,3,19.756052,-98.630506,casetas
+68798c739b36b04cf0b7bfc1,hidalgo,Calpulalpan,243-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Calpulalpan,34,19.619447,-98.549587,casetas
+68798c739b36b04cf0b7c11d,hidalgo,San Alejo (Tejocotal),204-01,Ent. Tulancingo-Venta Grande,MEX-132D,Ent. Tulancingo-Venta Grande,10206,20.147472,-98.285748,casetas
+68798c739b36b04cf0b7c14c,hidalgo,Atlacomulco,230-01,Arco Norte Cd. México,MEX-M40D,Acambay-Atlacomulco,610,19.91186,-99.852669,casetas
+68798c739b36b04cf0b7c15b,hidalgo,Acambay,231-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Acambay,705,19.923426,-99.844231,casetas
+68798c739b36b04cf0b7c16d,hidalgo,Jilotepec,233-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Jilotepec,385,19.976583,-99.531517,casetas
+68798c739b36b04cf0b7c17b,hidalgo,Querétaro,234-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Querétaro,3417,19.998714,-99.487788,casetas
+68798c739b36b04cf0b7c189,hidalgo,Tula II,235-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Tula II,56,20.070334,-99.368273,casetas
+68798c739b36b04cf0b7c197,hidalgo,Tula I,236-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Tula I,240,20.09811,-99.286109,casetas
+68798c739b36b04cf0b7c1a5,hidalgo,Atitalaquia,237-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Atitalaquia,24,20.065051,-99.218685,casetas
+68798c739b36b04cf0b7c1b3,hidalgo,Apaxco,238-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Apaxco,41,19.998913,-99.139612,casetas
+68798c739b36b04cf0b7c1c1,hidalgo,Ajoloapan,239-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Ajoloapan,27,19.955851,-99.055385,casetas
+68798c739b36b04cf0b7c1cf,hidalgo,Pachuca,240-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Pachuca,360,19.927508,-98.891426,casetas
+68798c739b36b04cf0b7c1dd,hidalgo,Tulancingo,241-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Tulancingo,213,19.832525,-98.700135,casetas
+68798c739b36b04cf0b7c1f5,hidalgo,Sanctórum,244-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Sanctórum,240,19.518577,-98.471678,casetas
+68798c739b36b04cf0b7c203,hidalgo,San Martín Texmelucan,245-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-San Martín Texmelucan,768,19.301809,-98.409588,casetas
+68798c739b36b04cf0b7c213,hidalgo,Nuevo Necaxa,248,Tejocotal-Nuevo Necaxa,MEX-130D,Tejocotal-Nuevo Necaxa,2024,20.186559,-98.029829,casetas
+68798c739b36b04cf0b7bfd2,jalisco,Acatlán de Juárez,053,Acatlán de Juaréz-El Trapiche,MEX-054D,Acatlán-Atoyac,14971,20.373443,-103.576317,casetas
+68798c739b36b04cf0b7bfd3,jalisco,Sayula,054,Acatlán de Juaréz-El Trapiche,MEX-054D,Atoyac-Cd. Guzmán,16199,19.933235,-103.530027,casetas
+68798c739b36b04cf0b7bfd4,jalisco,Sayula Remota,055,Acatlán de Juaréz-El Trapiche,MEX-054D,Sayula-Cd. Guzmán,2048,19.879111,-103.519314,casetas
+68798c739b36b04cf0b7bfd5,jalisco,San Marcos,056,Acatlán de Juaréz-El Trapiche,MEX-054D,Cd. Guzmán-El Trapiche,13280,19.409129,-103.527882,casetas
+68798c739b36b04cf0b7bff5,jalisco,Arenal,076-01,Guadalajara-Tepic,MEX-015D,Ent. Ameca-Magdalena,11058,20.778775,-103.662396,casetas
+68798c739b36b04cf0b7bff8,jalisco,Tequila,077,Guadalajara-Tepic,MEX-015D,Tequila-Magdalena,377,20.854262,-103.860959,casetas
+68798c739b36b04cf0b7bff9,jalisco,Plan de Barrancas,078,Guadalajara-Tepic,MEX-015D,Magdalena-Ixtlán del Río,14699,21.005434,-104.144062,casetas
+68798c739b36b04cf0b7bffa,jalisco,Santa Ma. Del Oro,079-01,Guadalajara-Tepic,MEX-015D,Ixtlán del Río-Tepic,8728,21.328301,-104.664437,casetas
+68798c739b36b04cf0b7c000,jalisco,Acatic,083,Zapotlanejo-Lagos de Moreno,MEX-080D,Zapotlanejo-Acatic,685,20.738993,-102.909695,casetas
+68798c739b36b04cf0b7c001,jalisco,Tepatitlán,084-01,Zapotlanejo-Lagos de Moreno,MEX-080D,Zapotlanejo-Ent. Arandas,17769,20.824642,-102.79495,casetas
+68798c739b36b04cf0b7c004,jalisco,San Miguel el Alto,085,Zapotlanejo-Lagos de Moreno,MEX-080D,Ent. Arandas-San Miguel el Alto,1074,21.031053,-102.554543,casetas
+68798c739b36b04cf0b7c005,jalisco,Jalostotitlán,086-01,Zapotlanejo-Lagos de Moreno,MEX-080D,Ent. Arandas-Desperdicio,15963,21.117508,-102.458071,casetas
+68798c739b36b04cf0b7c008,jalisco,San Juan de los Lagos,087,Zapotlanejo-Lagos de Moreno,MEX-080D,Ent. San Juan de los Lagos-El Desperdicio,849,21.225685,-102.313646,casetas
+68798c739b36b04cf0b7c03d,jalisco,Unión de San Antonio,124,León-Aguascalientes,MEX-045D,Unión de San Antonio-Lagos de Moreno,587,21.255167,-101.949515,casetas
+68798c739b36b04cf0b7c03e,jalisco,Encarnación,125-01,León-Aguascalientes,MEX-045D,Lagos de Moreno-Aguascalientes,14063,21.489631,-102.243232,casetas
+68798c739b36b04cf0b7c05d,jalisco,Jeráhuaro,141,Maravatío-Zapotlanejo,MEX-015D,Maravatío-Jeráhuaro,520,19.894536,-100.646728,casetas
+68798c739b36b04cf0b7c05e,jalisco,Zinapécuaro,142-01,Maravatío-Zapotlanejo,MEX-015D,Maravatío-Morelia,13431,19.901884,-100.788535,casetas
+68798c739b36b04cf0b7c061,jalisco,Copándaro,143,Maravatío-Zapotlanejo,MEX-015D,Morelia-Copándaro,4673,19.880394,-101.203354,casetas
+68798c739b36b04cf0b7c062,jalisco,Huaniqueo,144,Maravatío-Zapotlanejo,MEX-015D,Huaniqueo-Morelia,630,19.884157,-101.510491,casetas
+68798c739b36b04cf0b7c063,jalisco,Panindícuaro,145-01,Maravatío-Zapotlanejo,MEX-015D,Morelia-Churintzio,10478,19.97224,-101.756949,casetas
+68798c739b36b04cf0b7c067,jalisco,Ecuandureo,147-01,Maravatío-Zapotlanejo,MEX-015D,Churintzio-La Barca,11706,20.175023,-102.191288,casetas
+68798c739b36b04cf0b7c06a,jalisco,Vista Hermosa,148,Maravatío-Zapotlanejo,MEX-015D,Vista Hermosa-La Barca,7871,20.269378,-102.441809,casetas
+68798c739b36b04cf0b7c06b,jalisco,San Francisco de Rivas,149,Maravatío-Zapotlanejo,MEX-015D,La Barca - San Francisco de Rivas,3030,20.323974,-102.567978,casetas
+68798c739b36b04cf0b7c06c,jalisco,Ocotlán,150-01,Maravatío-Zapotlanejo,MEX-015D,La Barca-Zapotlanejo,16914,20.405976,-102.738837,casetas
+68798c739b36b04cf0b7c070,jalisco,La Suceda,151,Maravatío-Zapotlanejo,MEX-015D,La Sauceda - Zapotlanejo,141,20.548025,-103.034334,casetas
+68798c739b36b04cf0b7c080,jalisco,Zapotlanejo (La Joya),165,Zapotlanejo-Guadalajara,MEX-015D,Zapotlanejo-Guadalajara,48445,20.604907,-103.138973,casetas
+68798c739b36b04cf0b7c081,jalisco,Vado,166,Zapotlanejo-Guadalajara,MEX-015D,El Vado-Guadalajara,5516,20.60475,-103.158676,casetas
+68798c739b36b04cf0b7c082,jalisco,Cortijo,167,Zapotlanejo-Guadalajara,MEX-015D,Cortijo-Guadalajara,2963,20.620145,-103.205073,casetas
+68798c739b36b04cf0b7c083,jalisco,Periférico,168,Zapotlanejo-Guadalajara,MEX-015D,Periférico-Guadalajara,4667,20.619383,-103.216219,casetas
+68798c739b36b04cf0b7c084,jalisco,Arroyo,169,Zapotlanejo-Guadalajara,MEX-015D,Tonalá-Guadalajara,2546,20.615827,-103.242808,casetas
+68798c739b36b04cf0b7c24a,jalisco,El Saucillo,277,Lagos de Moreno - Villa de Arriaga,SLP-080D,Lagos de Moreno - Villa de Arriaga,5863,21.490204,-101.763301,casetas
+68798c739b36b04cf0b7c26d,jalisco,La Laja,299-01,Libramiento Sur de Guadalajara,MEX-D,Zapotlanejo-Ent. Zapotlanejo,835,20.585952,-103.10064,casetas
+68798c739b36b04cf0b7c26f,jalisco,Chapala,300,Libramiento Sur de Guadalajara,MEX-D,Chapala-Santa Cecilia,11640,20.406358,-103.235669,casetas
+68798c739b36b04cf0b7c270,jalisco,Santa Cecilia,301,Libramiento Sur de Guadalajara,MEX-D,Santa Cecilia-El Arenal,4447,20.441306,-103.544696,casetas
+68798c739b36b04cf0b7bfb5,mexico,Sahagún,242-03,Arco Norte Cd. México,MEX-M40D,Jilotepec-Sahagún,3,19.756052,-98.630506,casetas
+68798c739b36b04cf0b7c02a,mexico,Ecatepec,111,Ecatepec-Pirámides,MEX-132D,Ecatepec-Pirámides,21234,19.611647,-99.025666,casetas
+68798c739b36b04cf0b7c02b,mexico,Tepexpan,112,Ecatepec-Pirámides,MEX-132D,Tepexpan-Pirámides,5264,19.616183,-98.948237,casetas
+68798c739b36b04cf0b7c05b,mexico,San Juanico,139,Atlácomulco-Maravatío,MEX-015D,Atlacomulco-Venta de Bravo,16562,19.837801,-99.945463,casetas
+68798c739b36b04cf0b7c05c,mexico,Contepec,140,Atlácomulco-Maravatío,MEX-015D,Venta de Bravo-Maravatío,14862,19.875682,-100.188079,casetas
+68798c739b36b04cf0b7c073,mexico,San Cristóbal,153,México-Tizayuca,MEX-085D,Indios Verdes-San Cristóbal Ecatepec,32462,19.587776,-99.042009,casetas
+68798c739b36b04cf0b7c074,mexico,Revolución,154-01,México-Tizayuca,MEX-085D,Derivador López Portillo,31532,19.60281,-99.038101,casetas
+68798c739b36b04cf0b7c076,mexico,Ojo de Agua,155,México-Tizayuca,MEX-085D,Indios Verdes-Tizayuca,64125,19.618737,-99.029315,casetas
+68798c739b36b04cf0b7c077,mexico,Ent. Ojo de Agua,156,México-Tizayuca,MEX-085D,Ent. Ojo de Agua-Tizayuca,5737,19.665194,-99.001896,casetas
+68798c739b36b04cf0b7c078,mexico,Peñón y Texcoco,157,Peñón-Texcoco,MEX-136D,Peñón-Texcoco,41105,19.458466,-99.033653,casetas
+68798c739b36b04cf0b7c08e,mexico,Lechería,177-01,Lechería-La Venta,MEX-057D,Ent. San Miguel-Lechería,3,19.604809,-99.205832,casetas
+68798c739b36b04cf0b7c099,mexico,Ent. San Miguel,178-01,Lechería-La Venta,MEX-057D,Lago de Guadalupe-Ent. San Miguel,2326,19.635393,-99.205101,casetas
+68798c739b36b04cf0b7c0a2,mexico,Lago de Guadalupe,179-01,Lechería-La Venta,MEX-057D,Lechería-Lago de Guadalupe,5932,19.610019,-99.236505,casetas
+68798c739b36b04cf0b7c0ae,mexico,Atizapán,180-01,Lechería-La Venta,MEX-057D,Lechería-Atizapán,1808,19.582544,-99.271109,casetas
+68798c739b36b04cf0b7c0b9,mexico,Madín,181-01,Lechería-La Venta,MEX-057D,Chamapa-Madín,747,19.544714,-99.277052,casetas
+68798c739b36b04cf0b7c0c3,mexico,San Mateo Nopala,182-01,Lechería-La Venta,MEX-057D,Lechería-San Mateo Nopala,126,19.48819,-99.311035,casetas
+68798c739b36b04cf0b7c0cd,mexico,Cipreses,183-01,Lechería-La Venta,MEX-057D,Lechería-Cipreses,190,19.468824,-99.311362,casetas
+68798c739b36b04cf0b7c0d4,mexico,Chamapa,184-01,Lechería-La Venta,MEX-057D,Lechería-Chamapa,2740,19.431704,-99.296743,casetas
+68798c739b36b04cf0b7c0dc,mexico,Huixquilucan,185-01,Lechería-La Venta,MEX-057D,Lechería-Huixquilucan,117,19.414395,-99.299694,casetas
+68798c739b36b04cf0b7c0e4,mexico,Interlomas,186-01,Lechería-La Venta,MEX-057D,Lechería-Interlomas,151,19.395495,-99.294426,casetas
+68798c739b36b04cf0b7c0ec,mexico,Lomas Verdes,187-01,Lechería-La Venta,MEX-057D,Lago de Guadalupe-Lomas Verdes,658,19.519139,-99.286364,casetas
+68798c739b36b04cf0b7c0f7,mexico,La Venta (GOB.EDO.),188-01,Lechería-La Venta,MEX-057D,Lechería-La Venta,528,19.348946,-99.306623,casetas
+68798c739b36b04cf0b7c128,mexico,Tepotzotlán,209,México-Querétaro,MEX-057D,Tepalcapa-Tepeji del Río,57657,19.715361,-99.207448,casetas
+68798c739b36b04cf0b7c129,mexico,Jorobas,210-01,México-Querétaro,MEX-057D,Jorobas-Tepeji del Río,2086,19.826197,-99.249918,casetas
+68798c739b36b04cf0b7c12b,mexico,Polotitlán,211,México-Querétaro,MEX-057D,Tepeji-Polotitlán,609,20.225323,-99.8107,casetas
+68798c739b36b04cf0b7c12e,mexico,Ixtapaluca,213,México-Puebla,MEX-150D,Chalco (Panasonic)-México,12853,19.293147,-98.883499,casetas
+68798c739b36b04cf0b7c12f,mexico,Chalco,214,México-Puebla,MEX-150D,México-Chalco,34743,19.291989,-98.881711,casetas
+68798c739b36b04cf0b7c130,mexico,San Marcos,215,México-Puebla,MEX-150D,México-Río Frío,32457,19.296272,-98.870712,casetas
+68798c739b36b04cf0b7c131,mexico,San Marcos Bis,216,México-Puebla,MEX-150D,México-Circuito Exterior Mexiquense,8227,19.29337,-98.87602,casetas
+68798c739b36b04cf0b7c14c,mexico,Atlacomulco,230-01,Arco Norte Cd. México,MEX-M40D,Acambay-Atlacomulco,610,19.91186,-99.852669,casetas
+68798c739b36b04cf0b7c15b,mexico,Acambay,231-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Acambay,705,19.923426,-99.844231,casetas
+68798c739b36b04cf0b7c169,mexico,Liverpool,232-01,Arco Norte Cd. México,MEX-M40D,Querétaro-Liverpool,52,19.978601,-99.522991,casetas
+68798c739b36b04cf0b7c16d,mexico,Jilotepec,233-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Jilotepec,385,19.976583,-99.531517,casetas
+68798c739b36b04cf0b7c17b,mexico,Querétaro,234-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Querétaro,3417,19.998714,-99.487788,casetas
+68798c739b36b04cf0b7c1b3,mexico,Apaxco,238-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Apaxco,41,19.998913,-99.139612,casetas
+68798c739b36b04cf0b7c1c1,mexico,Ajoloapan,239-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Ajoloapan,27,19.955851,-99.055385,casetas
+68798c739b36b04cf0b7c1dd,mexico,Tulancingo,241-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Tulancingo,213,19.832525,-98.700135,casetas
+68798c739b36b04cf0b7c253,mexico,Tepetlixpa,284,Libramiento Amecameca-Nepantla,MEX-115D,Amecameca-Nepantla,10061,19.046112,-98.828394,casetas
+68798c739b36b04cf0b7c26c,mexico,La Marquesa T2,298,La Marquesa - Lerma,MEX-D,La Marquesa-Lerma,19042,19.290514,-99.434406,casetas
+68798c739b36b04cf0b7c275,mexico,Nabor Carrillo,306,Texcoco - Pirámides,MEX-D,Texcoco-Tequisitlán,6870,19.495945,-98.947329,casetas
+68798c739b36b04cf0b7c276,mexico,Tezoyuca,307,Texcoco - Pirámides,MEX-D,Texcoco-Acolman,17750,19.600686,-98.925619,casetas
+68798c739b36b04cf0b7c05c,michoacan,Contepec,140,Atlácomulco-Maravatío,MEX-015D,Venta de Bravo-Maravatío,14862,19.875682,-100.188079,casetas
+68798c739b36b04cf0b7c05d,michoacan,Jeráhuaro,141,Maravatío-Zapotlanejo,MEX-015D,Maravatío-Jeráhuaro,520,19.894536,-100.646728,casetas
+68798c739b36b04cf0b7c05e,michoacan,Zinapécuaro,142-01,Maravatío-Zapotlanejo,MEX-015D,Maravatío-Morelia,13431,19.901884,-100.788535,casetas
+68798c739b36b04cf0b7c061,michoacan,Copándaro,143,Maravatío-Zapotlanejo,MEX-015D,Morelia-Copándaro,4673,19.880394,-101.203354,casetas
+68798c739b36b04cf0b7c062,michoacan,Huaniqueo,144,Maravatío-Zapotlanejo,MEX-015D,Huaniqueo-Morelia,630,19.884157,-101.510491,casetas
+68798c739b36b04cf0b7c063,michoacan,Panindícuaro,145-01,Maravatío-Zapotlanejo,MEX-015D,Morelia-Churintzio,10478,19.97224,-101.756949,casetas
+68798c739b36b04cf0b7c066,michoacan,Ent. Zamora-Ecuandureo,146,Maravatío-Zapotlanejo,MEX-015D,Zamora-La Barca,2580,20.173654,-102.243866,casetas
+68798c739b36b04cf0b7c067,michoacan,Ecuandureo,147-01,Maravatío-Zapotlanejo,MEX-015D,Churintzio-La Barca,11706,20.175023,-102.191288,casetas
+68798c739b36b04cf0b7c06a,michoacan,Vista Hermosa,148,Maravatío-Zapotlanejo,MEX-015D,Vista Hermosa-La Barca,7871,20.269378,-102.441809,casetas
+68798c739b36b04cf0b7c103,michoacan,Zirahuén,193-01,Pátzcuaro-Uruapan,MEX-126D,Pátzcuaro-Uruapan,11208,19.505635,-101.659359,casetas
+68798c739b36b04cf0b7c106,michoacan,Zurumucapio,194-01,Pátzcuaro-Uruapan,MEX-126D,Zirahuén-Zurumucapio,577,19.441903,-101.883747,casetas
+68798c739b36b04cf0b7c10d,michoacan,Taretán,198-01,Uruapan-Nueva Italia,MEX-037D,Ent. Zirimícuaro-Taretán,2047,19.355375,-101.918026,casetas
+68798c739b36b04cf0b7c110,michoacan,Santa Casilda,199-01,Uruapan-Nueva Italia,MEX-037D,Ent. Cajones-Ent. Cuatro Caminos,8013,19.152947,-101.978122,casetas
+68798c739b36b04cf0b7c113,michoacan,Las Cañas,200-01,Nueva Italia-Lázaro Cárdenas,MEX-037D,Nueva Italia-Lázaro Cárdenas,5328,18.554183,-101.970404,casetas
+68798c739b36b04cf0b7c116,michoacan,Feliciano,201-01,Nueva Italia-Lázaro Cárdenas,MEX-037D,Las Cañas-Feliciano,1962,18.00409,-101.961847,casetas
+68798c739b36b04cf0b7c214,michoacan,Cuitzeo,249,Morelia-Salamanca,MEX-043D,Copándaro-Cuitzeo,1930,19.968367,-101.162077,casetas
+68798c739b36b04cf0b7c25f,michoacan,Cuto,291,Cuitzeo - Pátzcuaro,MEX-014D,Copándaro-Capula,5290,19.710788,-101.337207,casetas
+68798c739b36b04cf0b7c260,michoacan,Chapultepec,292,Cuitzeo - Pátzcuaro,MEX-014D,Capula-Patzcuaro,6292,19.545486,-101.535897,casetas
+68798c739b36b04cf0b7bfe9,morelos,Central de Abastos,067,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Central de Abastos,19171,18.838355,-99.217512,casetas
+68798c739b36b04cf0b7bfea,morelos,Aeropuerto,068,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Aereopuerto,17185,18.802317,-99.221271,casetas
+68798c739b36b04cf0b7bfeb,morelos,Xochitepec,069,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Xochitepec,3514,18.774989,-99.22532,casetas
+68798c739b36b04cf0b7bfec,morelos,Ing. Francisco Velasco Durán,070,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Puente de Ixtla,15564,18.698498,-99.278028,casetas
+68798c739b36b04cf0b7bfed,morelos,Alpuyeca,071-01,Cuernavaca-Acapulco,MEX-095D,Cuernavaca-Alpuyeca,4398,18.723832,-99.260221,casetas
+68798c739b36b04cf0b7c086,morelos,Tres Marías,171,México-Cuernavaca,MEX-095D,Tres Marías-Cuernavaca,1534,19.056337,-99.2411,casetas
+68798c739b36b04cf0b7c087,morelos,Tepoztlán,172-01,La Pera-Cuautla,MEX-160D,La Pera-Oacalco,14360,18.986981,-99.112476,casetas
+68798c739b36b04cf0b7c089,morelos,Oacalco,173-01,La Pera-Cuautla,MEX-160D,Oacalco-Cuautla,14052,18.931082,-99.025645,casetas
+68798c739b36b04cf0b7c2b0,morelos,Tlaltizapán,327-01,Jantetelco-El Higuerón,MEX-094D,Jantetelco-Xicatlacotla,2540,18.652761,-99.008771,casetas
+68798c739b36b04cf0b7bfd6,nayarit,Ent. Trapichillo,057,Tepic-Mazatlán,MEX-015D,Tepic-Ent. Trapichillo,2913,21.560658,-104.97101,casetas
+68798c739b36b04cf0b7bfd7,nayarit,Trapichillo,058,Tepic-Mazatlán,MEX-015D,Tepic-San Blas,10131,21.571789,-104.987394,casetas
+68798c739b36b04cf0b7bfd8,nayarit,Yago,059-01,Tepic-Mazatlán,MEX-015D,Ent. San Blas-Yago,556,21.844682,-105.084876,casetas
+68798c739b36b04cf0b7bfda,nayarit,Estación Ruíz,060-01,Tepic-Mazatlán,MEX-015D,Yago-Rosa Morada,5519,21.95179,-105.116064,casetas
+68798c739b36b04cf0b7bfdd,nayarit,Acaponeta,061-01,Tepic-Mazatlán,MEX-015D,Acaponeta-Escuinapa,282,22.454065,-105.418726,casetas
+68798c739b36b04cf0b7bfe0,nayarit,Rosario,062-01,Tepic-Mazatlán,MEX-015D,Escuinapa-Villa Unión,5344,22.98469,-105.878103,casetas
+68798c739b36b04cf0b7bffa,nayarit,Santa Ma. Del Oro,079-01,Guadalajara-Tepic,MEX-015D,Ixtlán del Río-Tepic,8728,21.328301,-104.664437,casetas
+68798c739b36b04cf0b7c25e,nayarit,La Cantera,290,Libramiento de Tepic,MEX-015D,San Cayetano-Trapichillo,2992,21.498477,-104.813387,casetas
+68798c739b36b04cf0b7c267,nayarit,Amado Nervo,295,Jala - Las Caleras,MEX-070D,Jala-El Capomo,5368,21.089054,-104.717268,casetas
+68798c739b36b04cf0b7c268,nayarit,Compostela II,296,Tepic - Puerto Vallarta,MEX-200D,Compostela-El Capomo,1515,21.204909,-104.886344,casetas
+68798c739b36b04cf0b7c269,nayarit,La Peñita,297-01,Tepic - Puerto Vallarta,MEX-200D,El Capomo-Florida,4241,21.066134,-105.218341,casetas
+68798c739b36b04cf0b7c2a7,nayarit,San Blas,322,Tepic-San Blas,MEX-D,Tepic-San Blas,3643,21.507258,-105.201086,casetas
+68798c739b36b04cf0b7c2c0,nayarit,Bucerías,334,Ramal a Bucerías,MEX-200D,Vallarta-Bucerías,5384,20.775072,-105.374132,casetas
+68798c739b36b04cf0b7c2e4,nayarit,Compostela,028,Chapalilla-Compostela,MEX-D,Chapalilla-Compostela,3958,21.229532,-104.887408,casetas
+68798c739b36b04cf0b7c009,nuevo leon,Agualeguas,088-01,Monterrey-Nuevo Laredo,MEX-085D,Agualeguas-Paras,2,26.342367,-100.070265,casetas
+68798c739b36b04cf0b7c00b,nuevo leon,Sabinas,089-01,Monterrey-Nuevo Laredo,MEX-085D,Monterrey-La Gloria,14894,26.5121,-100.007195,casetas
+68798c739b36b04cf0b7c00d,nuevo leon,Sabinas Parás,090,Monterrey-Nuevo Laredo,MEX-085D,Monterrey-Sabinas,73,26.508374,-100.008136,casetas
+68798c739b36b04cf0b7c00e,nuevo leon,Entronque Ex-Garita,091,Monterrey-Nuevo Laredo,MEX-085D,La Gloria-San Fernando,11755,27.270497,-99.613956,casetas
+68798c739b36b04cf0b7c00f,nuevo leon,Puente Inter. Solidaridad en Colombia,092,Monterrey-Colombia (LIBRE),NL-001,Colombia-Dolores,3171,27.697352,-99.747859,casetas
+68798c739b36b04cf0b7c049,nuevo leon,Los Ramones,132-01,Cadereyta-La Sierrita,MEX-040D,Cadereyta-Los Ramones,104,25.655959,-99.631053,casetas
+68798c739b36b04cf0b7c04d,nuevo leon,Los Herrera,133-01,Cadereyta-La Sierrita,MEX-040D,Los Herrera-General Bravo,12,25.757253,-99.373854,casetas
+68798c739b36b04cf0b7c051,nuevo leon,General Bravo,134,Cadereyta-La Sierrita,MEX-040D,Cadereyta-La Sierrita,7250,25.813517,-99.169575,casetas
+68798c739b36b04cf0b7c052,nuevo leon,Dr. Coss,135-01,Cadereyta-La Sierrita,MEX-040D,Cadereyta-General Bravo,179,25.811833,-99.173615,casetas
+68798c739b36b04cf0b7c079,nuevo leon,Los Chorros,158,Puerto  México-Ent. Ojo Caliente,MEX-057D,Puerto México-Ent. Carbonera,14727,25.186696,-100.731988,casetas
+68798c739b36b04cf0b7c102,nuevo leon,Puente Inter. Nuevo Amanecer,192,Monterrey-Reynosa (LIBRE),MEX-040,Reynosa-Pharr,3341,26.041815,-98.208793,casetas
+68798c739b36b04cf0b7c108,nuevo leon,Puente Inter. Ignacio Zaragoza (Los Tomates),195,Monterrey-Reynosa (LIBRE),MEX-040,Progreso-Los Tomates,5071,25.868471,-97.475799,casetas
+68798c739b36b04cf0b7c240,nuevo leon,Playa 3,271-01,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,Ojo Caliente II-Morones Prieto,10517,25.696117,-100.577324,casetas
+68798c739b36b04cf0b7c251,nuevo leon,"Puente Inter. Reynosa - McAllen ""Anzalduas""",282,Monterrey-Reynosa (LIBRE),MEX-040,Reynosa-McAllen,4832,26.109466,-98.349059,casetas
+68798c739b36b04cf0b7c2d4,nuevo leon,Puente Inter. Reynosa,016,Monterrey-Reynosa (LIBRE),MEX-040,Reynosa-Hidalgo,7186,26.093192,-98.27097,casetas
+68798c739b36b04cf0b7c2d7,nuevo leon,Puente Cadereyta,019,Monterrey-Reynosa (LIBRE),MEX-040,Monterrey-Reynosa,6247,25.601114,-100.005696,casetas
+68798c739b36b04cf0b7c2e9,nuevo leon,Puente Inter. Laredo (Las Américas),033,Monterrey-Nuevo Laredo (LIBRE),MEX-085,Nuevo Laredo-Laredo,3990,27.498094,-99.507389,casetas
+68798c739b36b04cf0b7c2ea,nuevo leon,Puente Inter. Juárez-Lincoln,034,Monterrey-Nuevo Laredo (LIBRE),MEX-085,Nuevo Laredo-Laredo,8539,27.498075,-99.50178,casetas
+68798c739b36b04cf0b7bfce,oaxaca,Tehuantepec,051,La Ventosa-Salina Cruz,MEX-185D,Tehuantepec-Salina Cruz,1105,16.162185,-95.28928,casetas
+68798c739b36b04cf0b7bfcf,oaxaca,Ixtepec,052-01,La Ventosa-Salina Cruz,MEX-185D,Ixtepec-La Ventosa,671,16.561479,-95.134267,casetas
+68798c739b36b04cf0b7c2cb,oaxaca,Puente Papaloapan,007,Cd. Alemán-Sayula (LIBRE),MEX-145,Tierra Blanca-Loma Bonita,3391,18.159601,-96.096694,casetas
+68798c739b36b04cf0b7c2cc,oaxaca,Puente Caracol,008,Buenavista-Tuxtepec (LIBRE),MEX-175,Tuxtepec-Cosamaloapan,5864,18.133084,-96.136714,casetas
+68798c739b36b04cf0b7c2e7,oaxaca,Puente Tlacotalpan,031,Buenavista-Tuxtepec (LIBRE),MEX-175,Alvarado-Tlacotalpan,1749,18.704579,-95.64136,casetas
+68798c739b36b04cf0b7c2ee,oaxaca,Tehuacán,038,Cuacnopalan-Oaxaca,MEX-135D,Cuacnopalan-Tehuacán,12107,18.487088,-97.456196,casetas
+68798c739b36b04cf0b7c2ef,oaxaca,Miahuatlán,039,Cuacnopalan-Oaxaca,MEX-135D,Tehuacán-Miahuatlán,6395,18.264632,-97.315617,casetas
+68798c739b36b04cf0b7c2f0,oaxaca,Coixtlahuaca,040-01,Cuacnopalan-Oaxaca,MEX-135D,Miahuatlán-Coixtlahuaca,590,17.726021,-97.353781,casetas
+68798c739b36b04cf0b7c2f2,oaxaca,Huitzo,041-01,Cuacnopalan-Oaxaca,MEX-135D,Nochixtlan-Oaxaca,7446,17.275031,-96.915296,casetas
+68798c739b36b04cf0b7c2f4,oaxaca,Huitzo Bis,042,Cuacnopalan-Oaxaca,MEX-135D,Huitzo-Oaxaca,1548,17.278722,-96.914651,casetas
+68798c739b36b04cf0b7c132,puebla,San Martín Texmelucan,217,México-Puebla,MEX-150D,Río Frío-Puebla,51563,19.24119,-98.385786,casetas
+68798c739b36b04cf0b7c13e,puebla,Ixtenco,224,Amozoc-Perote,MEX-140D,Amozoc-Ixtenco,12186,19.063641,-98.069094,casetas
+68798c739b36b04cf0b7c13f,puebla,Audi,225-01,Amozoc-Perote,MEX-140D,Ixtenco-Audi,2020,19.274538,-97.826386,casetas
+68798c739b36b04cf0b7c142,puebla,Cuapiaxtla,226-01,Amozoc-Perote,MEX-140D,Ixtenco-Oriental,6976,19.310369,-97.797544,casetas
+68798c739b36b04cf0b7c145,puebla,Cantona,227-01,Amozoc-Perote,MEX-140D,Oriental-Perote,8531,19.507504,-97.497748,casetas
+68798c739b36b04cf0b7c213,puebla,Nuevo Necaxa,248,Tejocotal-Nuevo Necaxa,MEX-130D,Tejocotal-Nuevo Necaxa,2024,20.186559,-98.029829,casetas
+68798c739b36b04cf0b7c2d8,puebla,Amozoc,020-01,Puebla-Acatzingo,MEX-150D,Puebla-Acatzingo,31577,19.049719,-98.032372,casetas
+68798c739b36b04cf0b7c2db,puebla,Esperanza,021-01,Acatzingo-Cd. Mendoza,MEX-150D,Acatzingo-Cd. Mendoza,12693,18.870672,-97.386004,casetas
+68798c739b36b04cf0b7c2ee,puebla,Tehuacán,038,Cuacnopalan-Oaxaca,MEX-135D,Cuacnopalan-Tehuacán,12107,18.487088,-97.456196,casetas
+68798c739b36b04cf0b7c2ef,puebla,Miahuatlán,039,Cuacnopalan-Oaxaca,MEX-135D,Tehuacán-Miahuatlán,6395,18.264632,-97.315617,casetas
+68798c739b36b04cf0b7c030,queretaro,Chichimequillas,115,Libramiento Nororiente de Querétaro,MEX-057D,T. C.(Aut. Méx-Qro)-T. C.(Qro-SLP),17471,20.705589,-100.343736,casetas
+68798c739b36b04cf0b7c12c,queretaro,Palmillas,212-01,México-Querétaro,MEX-057D,Tepeji del Río-Palmillas,39768,20.296112,-99.929069,casetas
+68798c739b36b04cf0b7c133,queretaro,Querétaro,218,Querétaro-Irapuato,MEX-045D,Querétaro-Celaya,15370,20.572203,-100.472827,casetas
+68798c739b36b04cf0b7c135,queretaro,Querétaro Bis,219-02,Querétaro-Irapuato,MEX-045D,Ent. Lib. Suroeste de Querétaro-Celaya,6090,20.572035,-100.480724,casetas
+68798c739b36b04cf0b7c281,queretaro,Huichapan,312-01,Palmillas-Apaseo,MEX-045D,Huimilpan-Huichapan,196,20.290097,-99.949733,casetas
+68798c739b36b04cf0b7c286,queretaro,Amealco,313-01,Palmillas-Apaseo,MEX-045D,Huichapan-Amealco,332,20.277737,-100.059149,casetas
+68798c739b36b04cf0b7c28b,queretaro,Coroneo,314-01,Palmillas-Apaseo,MEX-045D,Huichapan-Coroneo,1132,20.415474,-100.429004,casetas
+68798c739b36b04cf0b7c290,queretaro,Huimilpan,315-01,Palmillas-Apaseo,MEX-045D,Huichapan-Huimilpan,416,20.348261,-100.277524,casetas
+68798c739b36b04cf0b7c02c,quintana roo,Chichén Itza,113-01,Kantunil-Cancún,MEX-180D,Kantunil-Valladolid,5851,20.728893,-88.58327,casetas
+68798c739b36b04cf0b7c02f,quintana roo,Tintal,114,Kantunil-Cancún,MEX-180D,Valladolid-Cancún,3810,20.90014,-87.434783,casetas
+68798c739b36b04cf0b7c27b,quintana roo,Felipe Carrillo Puerto,310-01,Libramiento de Felipe Carrillo Puerto,MEX-307D,Ent. Chetumal-Ent. Cancún,1153,19.590397,-88.071289,casetas
+68798c739b36b04cf0b7c024,san luis potosi,San Nicolás de los Jassos,108-01,Libramiento Oriente de San Luis Potosí,MEX-057D,Libramiento Oriente de San Luis Potosí,19964,22.12978,-100.825002,casetas
+68798c739b36b04cf0b7c149,san luis potosi,Matehuala,229-01,Libramiento de Matehuala,MEX-D,San Luis Potosí-Saltillo,15361,23.664125,-100.60723,casetas
+68798c739b36b04cf0b7c254,san luis potosi,Vicente Rangel Lozano,285,Libramiento Norte de San Luis Potosí,MEX-057D,Enrique Estrada-Mexquitic,5249,22.299904,-100.971154,casetas
+68798c739b36b04cf0b7c255,san luis potosi,Poniente SLP,286-01,Libramiento Poniente de San Luis Potosí,MEX-057D,Mexquitic-Villa de Arriaga,3099,22.163607,-101.079219,casetas
+68798c739b36b04cf0b7c256,san luis potosi,Horizontes,286-02,Libramiento Poniente de San Luis Potosí,MEX-057D,Mexquitic-Horizontes,35,22.156375,-101.072056,casetas
+68798c739b36b04cf0b7c277,san luis potosi,La Calera,308-01,Libramiento Cd. Valles-Tamuin,MEX-070D,La Pitahaya-San Juan,1598,21.904164,-98.955523,casetas
+68798c739b36b04cf0b7c29f,san luis potosi,Rayón,318,Rioverde-Cd. Valles,MEX-070D,Rayón-Vicente Guerrero,3693,21.863597,-99.623291,casetas
+68798c739b36b04cf0b7c2a0,san luis potosi,Tamasopo,319-01,Rioverde-Cd. Valles,MEX-070D,Vicente Guerrero-Tamasopo,515,21.904189,-99.384701,casetas
+68798c739b36b04cf0b7c2a2,san luis potosi,Tambaca,320-01,Rioverde-Cd. Valles,MEX-070D,Vicente Guerreo-Tambaca,100,21.940188,-99.273755,casetas
+68798c739b36b04cf0b7c2a4,san luis potosi,La Pitahaya,321-01,Rioverde-Cd. Valles,MEX-070D,Vicente Guerrero-La Pitahaya,3177,21.967581,-99.174618,casetas
+68798c739b36b04cf0b7bfe0,sinaloa,Rosario,062-01,Tepic-Mazatlán,MEX-015D,Escuinapa-Villa Unión,5344,22.98469,-105.878103,casetas
+68798c739b36b04cf0b7c014,sinaloa,Puente San Miguel,096,Los Mochis-Cd.Obregón,MEX-015D,Los Mochis-Estación Don,9866,25.97635,-109.033593,casetas
+68798c739b36b04cf0b7c015,sinaloa,Estación Don (La Jaula),097,Los Mochis-Cd.Obregón,MEX-015D,Estación Don-Navojoa,5969,26.849735,-109.373267,casetas
+68798c739b36b04cf0b7c016,sinaloa,Fundición,098,Los Mochis-Cd.Obregón,MEX-015D,Navojoa-Cd. Obregón,7868,27.320494,-109.719697,casetas
+68798c739b36b04cf0b7c040,sinaloa,Mármol,126,Mazatlán-Culiacán,MEX-015D,El Venadillo-Ent. La Cruz,8600,23.471231,-106.569551,casetas
+68798c739b36b04cf0b7c041,sinaloa,Quilá,127-01,Mazatlán-Culiacán,MEX-015D,Ent. La Cruz-Quilá,198,24.39759,-107.269979,casetas
+68798c739b36b04cf0b7c043,sinaloa,Costa Rica,128,Mazatlán-Culiacán,MEX-015D,Ent. La Cruz-Costa Rica,8187,24.570274,-107.430173,casetas
+68798c739b36b04cf0b7c22d,sinaloa,Mesillas,260-01,Durango-Villa Unión,MEX-040D,Santa Lucía-Villa Unión,3056,23.254997,-106.053989,casetas
+68798c739b36b04cf0b7c252,sinaloa,San Pedro,283,Libramiento de Culiacán,MEX-015D,Libramiento de Culiacán,3858,24.693361,-107.525419,casetas
+68798c739b36b04cf0b7c259,sinaloa,El Vainillo,288-01,Libramiento de Mazatlán,MEX-015D,Villa Unión-Mazatlán,8051,23.216186,-106.260339,casetas
+68798c739b36b04cf0b7c2c5,sinaloa,Puente Sinaloa,001,Culiacán-Los Mochis (LIBRE),MEX-015,Guamúchil-Guasave,13355,25.512854,-108.347613,casetas
+68798c739b36b04cf0b7c2c8,sinaloa,Puente Culiacán,004,Culiacán-Los Mochis (LIBRE),MEX-015,Culiacán-El Limón,8476,24.948949,-107.545695,casetas
+68798c739b36b04cf0b7c015,sonora,Estación Don (La Jaula),097,Los Mochis-Cd.Obregón,MEX-015D,Estación Don-Navojoa,5969,26.849735,-109.373267,casetas
+68798c739b36b04cf0b7c016,sonora,Fundición,098,Los Mochis-Cd.Obregón,MEX-015D,Navojoa-Cd. Obregón,7868,27.320494,-109.719697,casetas
+68798c739b36b04cf0b7c017,sonora,Esperanza,099,Cd. Obregón-Hermosillo,MEX-015D-015,Cd.Obregón-Ent.Libramiento Guaymas,3610,27.603754,-109.939057,casetas
+68798c739b36b04cf0b7c018,sonora,Guaymas,100,Cd. Obregón-Hermosillo,MEX-015D-015,Libramiento de Guaymas,8346,28.036447,-110.924141,casetas
+68798c739b36b04cf0b7c019,sonora,Hermosillo,101,Hermosillo-Nogales,MEX-015D-015,Hermosillo-Ent.Libramiento Magdalena,12811,29.220685,-110.930258,casetas
+68798c739b36b04cf0b7c01a,sonora,Magdalena,102,Libramiento de Magdalena,MEX-015D,Libramiento de Magdalena,9365,30.629279,-110.948746,casetas
+68798c739b36b04cf0b7c01b,sonora,Nogales,103,Libramiento de Nogales,MEX-15D,Libramiento de Nogales,3276,31.247675,-110.97237,casetas
+68798c739b36b04cf0b7c054,sonora,Puente Colorado,136,Sonoita-Mexicali (LIBRE),MEX-002,San Luis Río Colorado-Ejido Monterrey,15632,32.491682,-114.808719,casetas
+68798c739b36b04cf0b7c234,sonora,Puente Inter. San Luis Río Colorado II (Cucapá),263,Sonoita - Mexicali,MEX-002,San Luis Río Colorado-Yuma,787,32.485401,-114.782192,casetas
+68798c739b36b04cf0b7c239,sonora,Santa Ana,268,Santa Ana-Altar,MEX-002D-MEX,Santa Ana-Altar,5199,30.593541,-111.518469,casetas
+68798c739b36b04cf0b7c258,sonora,Estación Doctor,287,San Luis Río Colorado - Golfo de Santa Clara,MEX-D,San Luis Río Colorado - Golfo de Santa Clara,551,32.375135,-114.760664,casetas
+68798c739b36b04cf0b7c27a,sonora,Esperanza-Hornos,309,Libramiento de Ciudad Obregón,MEX-015D,Ent. Henequén-Ent. Esperanza,3468,27.604518,-109.898767,casetas
+68798c739b36b04cf0b7c2b3,sonora,Sahuaripa,328-01,Libramiento de Hermosillo,MEX-015D,Guaymas-Nogales,3163,29.029713,-110.854236,casetas
+68798c739b36b04cf0b7c11a,tabasco,La Venta (Sánchez Magallanes),203-01,Agua Dulce-Cárdenas,MEX-184D,Agua Dulce-Cárdenas,9575,18.030572,-93.812914,casetas
+68798c739b36b04cf0b7c124,tabasco,Malpasito,207-01,Las Choapas-Ocozocoautla,MEX-187D,Nvo. Sacrificio-Raudales,4423,17.34907,-93.586472,casetas
+68798c739b36b04cf0b7c27e,tabasco,Nacajuca,311-01,Libramiento de Villahermosa,MEX-180D,Ent. Loma de Caballo-Frontera,7101,18.076079,-92.930568,casetas
+68798c739b36b04cf0b7c2c7,tabasco,Puente Coatzacoalcos,003,Coatzacoalcos-Villahermosa (LIBRE),MEX-180,Coatzacoalcos-Nuevo Teapa,11526,18.115163,-94.410828,casetas
+68798c739b36b04cf0b7c2d5,tabasco,Puente Grijalva,017,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,Villahermosa-Aquiles Serdán,16817,17.947602,-92.785235,casetas
+68798c739b36b04cf0b7c2d6,tabasco,Puente Usumacinta,018,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,Ent. Emiliano Zapata-San Marcos,4975,17.859905,-91.783654,casetas
+68798c739b36b04cf0b7c00e,tamaulipas,Entronque Ex-Garita,091,Monterrey-Nuevo Laredo,MEX-085D,La Gloria-San Fernando,11755,27.270497,-99.613956,casetas
+68798c739b36b04cf0b7c010,tamaulipas,Tampico,093,Libramiento Poniente de Tampico,MEX-184D,Cd. Valles-Altamira,6907,22.27533,-97.893426,casetas
+68798c739b36b04cf0b7c011,tamaulipas,Loma Real,094-01,Libramiento Poniente de Tampico,MEX-184D,Cd. Valles-Loma Real,1942,22.276476,-97.893283,casetas
+68798c739b36b04cf0b7c044,tamaulipas,Puente Inter. Libre Comercio,129,Matamoros-Reynosa (LIBRE),MEX-002,Lucio Blanco-Los Yndios,2087,26.021616,-97.738827,casetas
+68798c739b36b04cf0b7c102,tamaulipas,Puente Inter. Nuevo Amanecer,192,Monterrey-Reynosa (LIBRE),MEX-040,Reynosa-Pharr,3341,26.041815,-98.208793,casetas
+68798c739b36b04cf0b7c108,tamaulipas,Puente Inter. Ignacio Zaragoza (Los Tomates),195,Monterrey-Reynosa (LIBRE),MEX-040,Progreso-Los Tomates,5071,25.868471,-97.475799,casetas
+68798c739b36b04cf0b7c109,tamaulipas,Nuevo Progreso,196-01,Reynosa-Matamoros,MEX-002D,Reynosa-Matamoros,4760,26.036283,-97.954508,casetas
+68798c739b36b04cf0b7c119,tamaulipas,Puente Inter. Laredo III,202,Ramal de Acceso al Puente Internacional Laredo III,MEX-085,Nuevo Laredo-Laredo,6281,27.595078,-99.541522,casetas
+68798c739b36b04cf0b7c24b,tamaulipas,San Fernando,278,Libramiento Sur II de Reynosa,MEX-040D,Providencias-T. C. (Reynosa-San Fernando),2330,25.931669,-98.260707,casetas
+68798c739b36b04cf0b7c24c,tamaulipas,Lucio Blanco,279,Libramiento Sur II de Reynosa,MEX-040D,Ent. San Fernando - Ent. Monterrey,4646,25.987719,-98.431581,casetas
+68798c739b36b04cf0b7c250,tamaulipas,Puente Inter. Río Bravo-Donna,281,Matamoros-Reynosa (LIBRE),MEX-002,Río Bravo-Donna,2475,26.059395,-98.080202,casetas
+68798c739b36b04cf0b7c251,tamaulipas,"Puente Inter. Reynosa - McAllen ""Anzalduas""",282,Monterrey-Reynosa (LIBRE),MEX-040,Reynosa-McAllen,4832,26.109466,-98.349059,casetas
+68798c739b36b04cf0b7c2ca,tamaulipas,Puente Inter. Matamoros,006,Cd. Victoria-Matamoros (LIBRE),MEX-101-180,Matamoros-Brownsville,3064,25.896956,-97.498026,casetas
+68798c739b36b04cf0b7c2cd,tamaulipas,Puente Inter. Camargo,009,Reynosa-Nuevo Laredo (LIBRE),MEX-002,Camargo-Río Grande,1307,26.362407,-98.806294,casetas
+68798c739b36b04cf0b7c2d3,tamaulipas,Puente Inter. Miguel Alemán,015,Reynosa-Nuevo Laredo (LIBRE),MEX-002,Cd. Alemán-Roma,2034,26.402874,-99.020712,casetas
+68798c739b36b04cf0b7c2d4,tamaulipas,Puente Inter. Reynosa,016,Monterrey-Reynosa (LIBRE),MEX-040,Reynosa-Hidalgo,7186,26.093192,-98.27097,casetas
+68798c739b36b04cf0b7c2e0,tamaulipas,Puente Inter. Las Flores,024,Matamoros-Reynosa (LIBRE),MEX-002,Nuevo Progreso-Progreso,1686,26.060532,-97.950364,casetas
+68798c739b36b04cf0b7c2e1,tamaulipas,Puente San Juan,025,Reynosa-Nuevo Laredo (LIBRE),MEX-002,Reynosa-Nuevo Laredo,2194,26.561167,-99.200829,casetas
+68798c739b36b04cf0b7c2e9,tamaulipas,Puente Inter. Laredo (Las Américas),033,Monterrey-Nuevo Laredo (LIBRE),MEX-085,Nuevo Laredo-Laredo,3990,27.498094,-99.507389,casetas
+68798c739b36b04cf0b7c2ea,tamaulipas,Puente Inter. Juárez-Lincoln,034,Monterrey-Nuevo Laredo (LIBRE),MEX-085,Nuevo Laredo-Laredo,8539,27.498075,-99.50178,casetas
+68798c739b36b04cf0b7c2ed,tamaulipas,Puente Tampico,037,Túxpam-Tampico (LIBRE),MEX-180,Tampico El Alto-Tampico,10145,22.203364,-97.937427,casetas
+68798c739b36b04cf0b7bfc1,tlaxcala,Calpulalpan,243-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Calpulalpan,34,19.619447,-98.549587,casetas
+68798c739b36b04cf0b7c027,tlaxcala,San Martín Texmelucan,110-01,San Martín Texmelucan-Tlaxcala,MEX-117D,San Martín Texmelucan-Tlaxcala,5937,19.301602,-98.404063,casetas
+68798c739b36b04cf0b7c142,tlaxcala,Cuapiaxtla,226-01,Amozoc-Perote,MEX-140D,Ixtenco-Oriental,6976,19.310369,-97.797544,casetas
+68798c739b36b04cf0b7c1f5,tlaxcala,Sanctórum,244-01,Arco Norte Cd. México,MEX-M40D,Atlacomulco-Sanctórum,240,19.518577,-98.471678,casetas
+68798c739b36b04cf0b7c031,veracruz,Cuitláhuac,116-01,Córdoba-Veracruz,MEX-150D,Córdoba-La Tinaja,14578,18.839476,-96.746939,casetas
+68798c739b36b04cf0b7c034,veracruz,Paso del Toro,117-01,Córdoba-Veracruz,MEX-150D,La Tinaja-Veracruz,5843,19.081722,-96.198448,casetas
+68798c739b36b04cf0b7c055,veracruz,Cosamaloapan,137-01,La Tinaja-Cosoleacaque,MEX-145D,La Tinaja-Isla,12020,18.33505,-95.82229,casetas
+68798c739b36b04cf0b7c058,veracruz,Acayucan (Sayula),138-01,La Tinaja-Cosoleacaque,MEX-145D,Isla-Cosoleacaque,9410,17.910092,-94.937264,casetas
+68798c739b36b04cf0b7c071,veracruz,Puente Túxpam,152-01,Tihuatlán-Túxpam,MEX-132D,Tihuatlán-Ent. Tihuatlán II,2750,20.688722,-97.494226,casetas
+68798c739b36b04cf0b7c07c,veracruz,La Antigua,161,Cardel-Veracruz,MEX-180,Cardel-Veracruz,21561,19.32036,-96.310801,casetas
+68798c739b36b04cf0b7c07d,veracruz,San Julián,162,Cardel-Veracruz,MEX-180,San Julián-Veracruz,2286,19.239249,-96.257905,casetas
+68798c739b36b04cf0b7c120,veracruz,Totomoxtle,205,Gutiérrez Zamora-Tihuatlán,VER-D,Totomoxtle-Ent. El Pital,2495,20.461955,-97.246087,casetas
+68798c739b36b04cf0b7c121,veracruz,Las Choapas,206-01,Las Choapas-Ocozocoautla,MEX-187D,Ent. Las Choapas-Nvo. Sacrificio,2829,17.944832,-94.172395,casetas
+68798c739b36b04cf0b7c148,veracruz,Perote,228,Libramiento de Perote,MEX-140D,Libramiento de Perote,2183,19.551701,-97.289441,casetas
+68798c739b36b04cf0b7c246,veracruz,Puente Pantepec José López Portillo,273,Tihuatlán - Potrero del Llano,MEX-127,Álamo-Potrero del Llano,9716,20.930064,-97.680691,casetas
+68798c739b36b04cf0b7c247,veracruz,Puente Refinería Lázaro Cárdenas,274,Nuevo Teapa - Cosoleacaque,MEX-180D,Acceso a Refinería Lázaro Cárdenas,86,18.01502,-94.453772,casetas
+68798c739b36b04cf0b7c248,veracruz,Las Vigas,275,Perote - Banderilla,MEX-140D,Perote-Banderilla,9031,19.630405,-97.127902,casetas
+68798c739b36b04cf0b7c249,veracruz,Miradores,276,Libramiento de Xalapa,MEX-140D,Banderilla-Corral Falso,6262,19.474365,-96.775339,casetas
+68798c739b36b04cf0b7c2b6,veracruz,Los Gil,329,Tuxpam-Tampico,MEX-180D,Los Gil-Buenos Aires,5487,20.886151,-97.466796,casetas
+68798c739b36b04cf0b7c2b7,veracruz,Naranjos,330-01,Tuxpam-Tampico,MEX-180D,Buenos Aires-Ozuluama,4726,21.327071,-97.627309,casetas
+68798c739b36b04cf0b7c2bc,veracruz,Vega de Alatorre,332-01,Poza Rica-Cardel,MEX-180D,Nautla-Laguna Verde,3117,20.044017,-96.684357,casetas
+68798c739b36b04cf0b7c2c6,veracruz,Puente Pánuco,002,Alazán-Canoas,MEX-127,Alazán-Canoas,5439,22.148796,-98.144935,casetas
+68798c739b36b04cf0b7c2c7,veracruz,Puente Coatzacoalcos,003,Coatzacoalcos-Villahermosa (LIBRE),MEX-180,Coatzacoalcos-Nuevo Teapa,11526,18.115163,-94.410828,casetas
+68798c739b36b04cf0b7c2c9,veracruz,Puente Alvarado,005,Paso del Toro-Acayucan (LIBRE),MEX-180,Paso del Toro-San Andrés Tuxtla,5358,18.769942,-95.744584,casetas
+68798c739b36b04cf0b7c2ce,veracruz,Puente Nautla,010,Poza Rica-Veracruz (LIBRE),MEX-180,Nautla-Cardel,3124,20.210202,-96.778742,casetas
+68798c739b36b04cf0b7c2df,veracruz,Puente Tecolutla,023,Poza Rica-Nautla (LIBRE),MEX-180,Veracruz-Poza Rica,4201,20.437751,-97.086545,casetas
+68798c739b36b04cf0b7c2e7,veracruz,Puente Tlacotalpan,031,Buenavista-Tuxtepec (LIBRE),MEX-175,Alvarado-Tlacotalpan,1749,18.704579,-95.64136,casetas
+68798c739b36b04cf0b7c2eb,veracruz,Puente Antonio Dovalí Jaime,035,Minatitlán-Nuevo Teapa,MEX-145D,Cosoleacaque-Nuevo Teapa,12673,18.013445,-94.396773,casetas
+68798c739b36b04cf0b7c2ec,veracruz,Puente Antonio Dovalí Jaime Bis,036,Minatitlán-Nuevo Teapa,MEX-145D,Puente Dovalí Jaime-Nuevo Teapa,571,18.014043,-94.443283,casetas
+68798c739b36b04cf0b7c2ed,veracruz,Puente Tampico,037,Túxpam-Tampico (LIBRE),MEX-180,Tampico El Alto-Tampico,10145,22.203364,-97.937427,casetas
+68798c739b36b04cf0b7c02c,yucatan,Chichén Itza,113-01,Kantunil-Cancún,MEX-180D,Kantunil-Valladolid,5851,20.728893,-88.58327,casetas
+68798c739b36b04cf0b7bfcc,zacatecas,Zacatecas,049,Cuauhtémoc-Osiris,MEX-045D,Ent. Cuauhtémoc-Ent. Osiris,9160,22.710742,-102.448827,casetas
+68798c739b36b04cf0b7c026,zacatecas,Calera Víctor Rosales,109,Libramiento Calera Víctor Rosales,MEX-045D,Víctor Rosales-Enrique Estrada,18069,22.94186,-102.689827,casetas
+68798c739b36b04cf0b7c048,zacatecas,Morfín Chávez,131,Libramiento de Fresnillo,MEX-045D,La Providencia-San Isidro,7962,23.177904,-102.828678,casetas

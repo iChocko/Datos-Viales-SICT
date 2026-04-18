@@ -1,0 +1,402 @@
+plaza_id,state_slug,u1_carretera_id,u2_caseta_name,u2_carretera_raw,ruta,match_method
+68798c739b36b04cf0b7bfcc,aguascalientes,,Zacatecas,Cuauhtémoc-Osiris,MEX-045D,unmatched
+68798c739b36b04cf0b7c2c1,aguascalientes,31,El Chichimeco,Libramiento Poniente de Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c054,baja california,72,Puente Colorado,Sonoita-Mexicali (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c211,baja california,69,Mexicali A1,Libramiento de Mexicali,MEX-D,tematico_parent
+68798c739b36b04cf0b7c212,baja california,64,Mexicali A2,Libramiento de Mexicali,MEX-D,tematico_parent
+68798c739b36b04cf0b7c234,baja california,72,Puente Inter. San Luis Río Colorado II (Cucapá),Sonoita - Mexicali,MEX-002,tematico_parent
+68798c739b36b04cf0b7c2cf,baja california,82,Playas de Tijuana,Tijuana-San Miguel,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c2d0,baja california,82,Rosarito,Tijuana-San Miguel,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c2d1,baja california,82,Nodo Popotla,Tijuana-San Miguel,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c2d2,baja california,82,Ensenada,Tijuana-San Miguel,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c2f5,baja california,71,Centinela,Mexicali-Tijuana,MEX-002D,tematico_parent
+68798c739b36b04cf0b7c2f6,baja california,77,El Hongo,Mexicali-Tijuana,MEX-002D,tematico_parent
+68798c739b36b04cf0b7c2f9,baja california,75,Tijuana,Mexicali-Tijuana,MEX-002D,tematico_parent
+68798c739b36b04cf0b7bfc7,baja california sur,104,Aeropuerto los Cabos,Aeropuerto los Cabos-San José del Cabo,MEX-001D,tematico_parent
+68798c739b36b04cf0b7bfc9,baja california sur,104,San José del Cabo,Aeropuerto los Cabos-San José del Cabo,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c261,baja california sur,116,Cabo San Lucas,San José del Cabo - Cabo San Lucas,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c264,baja california sur,113,El Mangle,Ramal a el Mangle,MEX-001D,tematico_parent
+68798c739b36b04cf0b7c045,campeche,124,Seybaplaya,Champotón-Campeche,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c101,campeche,141,Puente Zacatal,Villahermosa-Cd. Del Carmen (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c245,campeche,127,Puente de la Unidad,Cd. Del Carmen-Campeche,MEX-180,tematico_parent
+68798c739b36b04cf0b7c2d5,campeche,142,Puente Grijalva,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,tematico_parent
+68798c739b36b04cf0b7c2d6,campeche,142,Puente Usumacinta,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,tematico_parent
+68798c739b36b04cf0b7bfcd,chiapas,192,Chiapa de Corzo,Tuxtla Gutiérrez-San Cristóbal de las Casas,MEX-190D,tematico_parent
+68798c739b36b04cf0b7c121,chiapas,153,Las Choapas,Las Choapas-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c124,chiapas,153,Malpasito,Las Choapas-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c127,chiapas,153,Ocozocoautla,Las Choapas-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c235,chiapas,143,Arriaga,Arriaga-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c236,chiapas,143,Jiquipilas,Arriaga-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c237,chiapas,143,Montes Azules,Arriaga-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c238,chiapas,143,Ocozocoautla ,Arriaga-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c2e5,chiapas,158,Puente Inter. Rodolfo Robles,Ramal A Cd.Hidalgo (LIBRE),MEX,tematico_parent
+68798c739b36b04cf0b7c2fe,chiapas,169,Puente Inter. Shuchiate II (Ing. Luis Cabrera),T. C. (Tapachula-Pto. Madero)-Cd. Hidalgo,MEX,tematico_parent
+68798c739b36b04cf0b7bfe3,chihuahua,207,Villa Ahumada,El Sueco-Cd. Juárez,MEX-045,tematico_parent
+68798c739b36b04cf0b7bff4,chihuahua,215,Puente Inter. Zaragoza-Ysleta,El Sueco-Cd. Juárez (LIBRE),MEX-045,tematico_parent
+68798c739b36b04cf0b7bffd,chihuahua,227,Camargo,Jiménez-Chihuahua,MEX-045D,tematico_parent
+68798c739b36b04cf0b7bffe,chihuahua,199,Altavista,Jiménez-Chihuahua,MEX-045D,tematico_parent
+68798c739b36b04cf0b7bfff,chihuahua,199,Saucillo,Jiménez-Chihuahua,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c0ff,chihuahua,209,Bermejillo,Gómez Palacio-Corralitos,MEX-049D,tematico_parent
+68798c739b36b04cf0b7c100,chihuahua,209,Ceballos,Gómez Palacio-Corralitos,MEX-049D,tematico_parent
+68798c739b36b04cf0b7c271,chihuahua,215,Puente Inter. Guadalupe - Tornillo,Porvenir - Cd. Juárez,MEX-002,tematico_parent
+68798c739b36b04cf0b7c2ad,chihuahua,230,Jiménez,Libramiento Oriente de Chihuahua,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c2ae,chihuahua,230,Sacramento,Libramiento Oriente de Chihuahua,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c2c4,chihuahua,215,Guadalupe,Libramiento Oriente de Ciudad Juárez,CHIH-048D,tematico_parent
+68798c739b36b04cf0b7c2e2,chihuahua,220,Puente Inter. Ojinaga,Chihuahua-Ojinaga (LIBRE),MEX-016,tematico_parent
+68798c739b36b04cf0b7c2e3,chihuahua,215,Puente Inter. Paso del Norte,El Sueco-Cd. Juárez (LIBRE),MEX-045,tematico_parent
+68798c739b36b04cf0b7c079,coahuila,249,Los Chorros,Puerto  México-Ent. Ojo Caliente,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c07a,coahuila,276,La Carbonera (Ojo Caliente),Puerto  México-Ent. Ojo Caliente,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c07b,coahuila,249,Huachichil,Puerto  México-Ent. Ojo Caliente,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c07e,coahuila,289,La Cuchilla,Torreón-Saltillo,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c07f,coahuila,289,Plan de Ayala,Torreón-Saltillo,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c10c,coahuila,246,Puente Inter. Piedras Negras II (Coahuila 2000),Monclova-Piedras Negras,MEX-057,tematico_parent
+68798c739b36b04cf0b7c23a,coahuila,284,Playa 1,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c23d,coahuila,284,Playa 2,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c240,coahuila,290,Playa 3,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c25b,coahuila,251,San Pedro,Libramiento de la Laguna,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c2e6,coahuila,246,Puente Inter. Piedras Negras,Monclova-Piedras Negras (LIBRE),MEX-057,tematico_parent
+68798c739b36b04cf0b7c2e8,coahuila,257,Puente Inter. Acuña,Piedras Negras-Cd. Acuña (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7bfd2,colima,311,Acatlán de Juárez,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bfd3,colima,311,Sayula,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bfd4,colima,311,Sayula Remota,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bfd5,colima,311,San Marcos,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7c013,colima,307,Cuyutlán,Armería-Manzanillo,MEX-200D,tematico_parent
+68798c739b36b04cf0b7bfe4,distrito federal,352,Santa Fe,Constituyentes-La Marquesa,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfe5,distrito federal,352,Contadero,Constituyentes-La Marquesa,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfe6,distrito federal,352,La Venta,Constituyentes-La Marquesa,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c085,distrito federal,340,Tlalpan,México-Cuernavaca,MEX-095D,tematico_parent
+68798c739b36b04cf0b7c0f7,distrito federal,349,La Venta (GOB.EDO.),Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c01c,durango,364,Durango,Durango-Gómez Palacio,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c01d,durango,364,Yerbanis,Durango-Gómez Palacio,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c01e,durango,391,Cuencamé III,Durango-Gómez Palacio,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c021,durango,391,León Guzmán,Durango-Gómez Palacio,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c0ff,durango,376,Bermejillo,Gómez Palacio-Corralitos,MEX-049D,tematico_parent
+68798c739b36b04cf0b7c100,durango,376,Ceballos,Gómez Palacio-Corralitos,MEX-049D,tematico_parent
+68798c739b36b04cf0b7c22b,durango,363,Llano Grande,Durango-Villa Unión,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c22c,durango,363,Coscomate,Durango-Villa Unión,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c22d,durango,363,Mesillas,Durango-Villa Unión,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c037,guanajuato,408,León II,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c038,guanajuato,408,Cuerámaro,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c039,guanajuato,408,Plan de Ayala,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c03a,guanajuato,408,San Francisco del Rincón (Remotas),León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c03b,guanajuato,408,Las Joyas,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c03c,guanajuato,408,León,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c03d,guanajuato,409,Unión de San Antonio,León-Aguascalientes,MEX-045D,name_match
+68798c739b36b04cf0b7c03e,guanajuato,408,Encarnación,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c133,guanajuato,411,Querétaro,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c134,guanajuato,411,Querétaro Bis,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c136,guanajuato,411,Apaseo,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c137,guanajuato,411,Villagrán,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c138,guanajuato,411,Salamanca,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c13b,guanajuato,405,Cerro Gordo,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c214,guanajuato,405,Cuitzeo,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c215,guanajuato,405,La Cinta,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c218,guanajuato,405,Ent. La Cinta,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c21c,guanajuato,402,Uriangato,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c220,guanajuato,423,Valle de Santiago,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c224,guanajuato,410,Valtierrilla,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c225,guanajuato,405,Ent. Valtierrilla,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c230,guanajuato,444,Arandas,Libramiento Norponiente de Irapuato (Cuota),MEX-IRA-020D,tematico_parent
+68798c739b36b04cf0b7c233,guanajuato,444,Yostiro,Libramiento Norponiente de Irapuato (Cuota),MEX-IRA-020D,tematico_parent
+68798c739b36b04cf0b7c24a,guanajuato,429,El Saucillo,Lagos de Moreno - Villa de Arriaga,SLP-080D,tematico_parent
+68798c739b36b04cf0b7c24d,guanajuato,443,La Calera,Libramiento de la Piedad,MEX-110D,tematico_parent
+68798c739b36b04cf0b7c272,guanajuato,416,Mendoza,Salamanca - Léon,MEX-D,tematico_parent
+68798c739b36b04cf0b7c273,guanajuato,416,Romita,Salamanca - Léon,MEX-D,tematico_parent
+68798c739b36b04cf0b7c274,guanajuato,416,Puerto Interior Gto.,Salamanca - Léon,MEX-D,tematico_parent
+68798c739b36b04cf0b7c281,guanajuato,434,Huichapan,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c286,guanajuato,434,Amealco,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c290,guanajuato,434,Huimilpan,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c295,guanajuato,434,Apaseo el Alto,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c29a,guanajuato,434,Apaseo el Grande,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c2de,guanajuato,,Puente La Piedad,Irapuato-Guadalajara (LIBRE),MEX-090,unmatched
+68798c739b36b04cf0b7bfe9,guerrero,461,Central de Abastos,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfea,guerrero,461,Aeropuerto,Cuernavaca-Acapulco,MEX-095D,fuzzy_substring
+68798c739b36b04cf0b7bfeb,guerrero,461,Xochitepec,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfec,guerrero,461,Ing. Francisco Velasco Durán,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfed,guerrero,461,Alpuyeca,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfef,guerrero,461,Paso Morelos,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bff2,guerrero,461,Palo Blanco,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bff3,guerrero,461,La Venta,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7c08b,guerrero,466,Iguala,Puente de Ixtla-Iguala,MEX-D,tematico_parent
+68798c739b36b04cf0b7c08c,guerrero,491,Zacapalco,Zacapalco-Taxco,MEX-D,tematico_parent
+68798c739b36b04cf0b7c08d,guerrero,477,Taxco,Zacapalco-Taxco,MEX-D,tematico_parent
+68798c739b36b04cf0b7c116,guerrero,465,Feliciano,Nueva Italia-Lázaro Cárdenas,MEX-037D,tematico_parent
+68798c739b36b04cf0b7c229,guerrero,480,Técpan,Libramiento de Técpan,MEX-200D,tematico_parent
+68798c739b36b04cf0b7bfb5,hidalgo,521,Sahagún,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7bfc1,hidalgo,512,Calpulalpan,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c11d,hidalgo,519,San Alejo (Tejocotal),Ent. Tulancingo-Venta Grande,MEX-132D,tematico_parent
+68798c739b36b04cf0b7c14c,hidalgo,504,Atlacomulco,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c15b,hidalgo,,Acambay,Arco Norte Cd. México,MEX-M40D,unmatched
+68798c739b36b04cf0b7c16d,hidalgo,,Jilotepec,Arco Norte Cd. México,MEX-M40D,unmatched
+68798c739b36b04cf0b7c17b,hidalgo,504,Querétaro,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c189,hidalgo,504,Tula II,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c197,hidalgo,495,Tula I,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1a5,hidalgo,504,Atitalaquia,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1b3,hidalgo,504,Apaxco,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1c1,hidalgo,504,Ajoloapan,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1cf,hidalgo,504,Pachuca,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1dd,hidalgo,532,Tulancingo,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1f5,hidalgo,504,Sanctórum,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c203,hidalgo,504,San Martín Texmelucan,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c213,hidalgo,528,Nuevo Necaxa,Tejocotal-Nuevo Necaxa,MEX-130D,tematico_parent
+68798c739b36b04cf0b7bfd2,jalisco,537,Acatlán de Juárez,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bfd3,jalisco,537,Sayula,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bfd4,jalisco,537,Sayula Remota,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bfd5,jalisco,537,San Marcos,Acatlán de Juaréz-El Trapiche,MEX-054D,tematico_parent
+68798c739b36b04cf0b7bff5,jalisco,554,Arenal,Guadalajara-Tepic,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bff8,jalisco,554,Tequila,Guadalajara-Tepic,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bff9,jalisco,554,Plan de Barrancas,Guadalajara-Tepic,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bffa,jalisco,554,Santa Ma. Del Oro,Guadalajara-Tepic,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c000,jalisco,601,Acatic,Zapotlanejo-Lagos de Moreno,MEX-080D,tematico_parent
+68798c739b36b04cf0b7c001,jalisco,601,Tepatitlán,Zapotlanejo-Lagos de Moreno,MEX-080D,tematico_parent
+68798c739b36b04cf0b7c004,jalisco,601,San Miguel el Alto,Zapotlanejo-Lagos de Moreno,MEX-080D,tematico_parent
+68798c739b36b04cf0b7c005,jalisco,601,Jalostotitlán,Zapotlanejo-Lagos de Moreno,MEX-080D,tematico_parent
+68798c739b36b04cf0b7c008,jalisco,601,San Juan de los Lagos,Zapotlanejo-Lagos de Moreno,MEX-080D,tematico_parent
+68798c739b36b04cf0b7c03d,jalisco,551,Unión de San Antonio,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c03e,jalisco,549,Encarnación,León-Aguascalientes,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c05d,jalisco,556,Jeráhuaro,Maravatío-Zapotlanejo,MEX-015D,fuzzy_substring
+68798c739b36b04cf0b7c05e,jalisco,556,Zinapécuaro,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c061,jalisco,556,Copándaro,Maravatío-Zapotlanejo,MEX-015D,fuzzy_substring
+68798c739b36b04cf0b7c062,jalisco,556,Huaniqueo,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c063,jalisco,556,Panindícuaro,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c067,jalisco,556,Ecuandureo,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c06a,jalisco,556,Vista Hermosa,Maravatío-Zapotlanejo,MEX-015D,fuzzy_substring
+68798c739b36b04cf0b7c06b,jalisco,556,San Francisco de Rivas,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c06c,jalisco,556,Ocotlán,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c070,jalisco,556,La Suceda,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c080,jalisco,600,Zapotlanejo (La Joya),Zapotlanejo-Guadalajara,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c081,jalisco,600,Vado,Zapotlanejo-Guadalajara,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c082,jalisco,600,Cortijo,Zapotlanejo-Guadalajara,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c083,jalisco,600,Periférico,Zapotlanejo-Guadalajara,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c084,jalisco,600,Arroyo,Zapotlanejo-Guadalajara,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c24a,jalisco,555,El Saucillo,Lagos de Moreno - Villa de Arriaga,SLP-080D,tematico_parent
+68798c739b36b04cf0b7c26d,jalisco,575,La Laja,Libramiento Sur de Guadalajara,MEX-D,tematico_parent
+68798c739b36b04cf0b7c26f,jalisco,575,Chapala,Libramiento Sur de Guadalajara,MEX-D,tematico_parent
+68798c739b36b04cf0b7c270,jalisco,575,Santa Cecilia,Libramiento Sur de Guadalajara,MEX-D,tematico_parent
+68798c739b36b04cf0b7bfb5,mexico,608,Sahagún,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c02a,mexico,615,Ecatepec,Ecatepec-Pirámides,MEX-132D,tematico_parent
+68798c739b36b04cf0b7c02b,mexico,615,Tepexpan,Ecatepec-Pirámides,MEX-132D,tematico_parent
+68798c739b36b04cf0b7c05b,mexico,607,San Juanico,Atlácomulco-Maravatío,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c05c,mexico,607,Contepec,Atlácomulco-Maravatío,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c073,mexico,631,San Cristóbal,México-Tizayuca,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c074,mexico,631,Revolución,México-Tizayuca,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c076,mexico,631,Ojo de Agua,México-Tizayuca,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c077,mexico,631,Ent. Ojo de Agua,México-Tizayuca,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c078,mexico,678,Peñón y Texcoco,Peñón-Texcoco,MEX-136D,tematico_parent
+68798c739b36b04cf0b7c08e,mexico,653,Lechería,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c099,mexico,661,Ent. San Miguel,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0a2,mexico,653,Lago de Guadalupe,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0ae,mexico,708,Atizapán,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0b9,mexico,653,Madín,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0c3,mexico,653,San Mateo Nopala,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0cd,mexico,653,Cipreses,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0d4,mexico,659,Chamapa,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0dc,mexico,659,Huixquilucan,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0e4,mexico,659,Interlomas,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0ec,mexico,653,Lomas Verdes,Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c0f7,mexico,659,La Venta (GOB.EDO.),Lechería-La Venta,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c128,mexico,620,Tepotzotlán,México-Querétaro,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c129,mexico,620,Jorobas,México-Querétaro,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c12b,mexico,620,Polotitlán,México-Querétaro,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c12e,mexico,632,Ixtapaluca,México-Puebla,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c12f,mexico,636,Chalco,México-Puebla,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c130,mexico,632,San Marcos,México-Puebla,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c131,mexico,632,San Marcos Bis,México-Puebla,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c14c,mexico,616,Atlacomulco,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c15b,mexico,713,Acambay,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c169,mexico,616,Liverpool,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c16d,mexico,676,Jilotepec,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c17b,mexico,616,Querétaro,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1b3,mexico,616,Apaxco,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1c1,mexico,616,Ajoloapan,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c1dd,mexico,718,Tulancingo,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c253,mexico,660,Tepetlixpa,Libramiento Amecameca-Nepantla,MEX-115D,tematico_parent
+68798c739b36b04cf0b7c26c,mexico,669,La Marquesa T2,La Marquesa - Lerma,MEX-D,tematico_parent
+68798c739b36b04cf0b7c275,mexico,641,Nabor Carrillo,Texcoco - Pirámides,MEX-D,tematico_parent
+68798c739b36b04cf0b7c276,mexico,641,Tezoyuca,Texcoco - Pirámides,MEX-D,tematico_parent
+68798c739b36b04cf0b7c05c,michoacan,725,Contepec,Atlácomulco-Maravatío,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c05d,michoacan,727,Jeráhuaro,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c05e,michoacan,740,Zinapécuaro,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c061,michoacan,734,Copándaro,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c062,michoacan,740,Huaniqueo,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c063,michoacan,740,Panindícuaro,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c066,michoacan,740,Ent. Zamora-Ecuandureo,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c067,michoacan,740,Ecuandureo,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c06a,michoacan,736,Vista Hermosa,Maravatío-Zapotlanejo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c103,michoacan,738,Zirahuén,Pátzcuaro-Uruapan,MEX-126D,tematico_parent
+68798c739b36b04cf0b7c106,michoacan,738,Zurumucapio,Pátzcuaro-Uruapan,MEX-126D,tematico_parent
+68798c739b36b04cf0b7c10d,michoacan,781,Taretán,Uruapan-Nueva Italia,MEX-037D,tematico_parent
+68798c739b36b04cf0b7c110,michoacan,781,Santa Casilda,Uruapan-Nueva Italia,MEX-037D,tematico_parent
+68798c739b36b04cf0b7c113,michoacan,743,Las Cañas,Nueva Italia-Lázaro Cárdenas,MEX-037D,tematico_parent
+68798c739b36b04cf0b7c116,michoacan,743,Feliciano,Nueva Italia-Lázaro Cárdenas,MEX-037D,tematico_parent
+68798c739b36b04cf0b7c214,michoacan,761,Cuitzeo,Morelia-Salamanca,MEX-043D,tematico_parent
+68798c739b36b04cf0b7c25f,michoacan,734,Cuto,Cuitzeo - Pátzcuaro,MEX-014D,tematico_parent
+68798c739b36b04cf0b7c260,michoacan,734,Chapultepec,Cuitzeo - Pátzcuaro,MEX-014D,tematico_parent
+68798c739b36b04cf0b7bfe9,morelos,788,Central de Abastos,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfea,morelos,804,Aeropuerto,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfeb,morelos,788,Xochitepec,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfec,morelos,788,Ing. Francisco Velasco Durán,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7bfed,morelos,788,Alpuyeca,Cuernavaca-Acapulco,MEX-095D,tematico_parent
+68798c739b36b04cf0b7c086,morelos,801,Tres Marías,México-Cuernavaca,MEX-095D,tematico_parent
+68798c739b36b04cf0b7c087,morelos,805,Tepoztlán,La Pera-Cuautla,MEX-160D,tematico_parent
+68798c739b36b04cf0b7c089,morelos,805,Oacalco,La Pera-Cuautla,MEX-160D,tematico_parent
+68798c739b36b04cf0b7c2b0,morelos,813,Tlaltizapán,Jantetelco-El Higuerón,MEX-094D,tematico_parent
+68798c739b36b04cf0b7bfd6,nayarit,872,Ent. Trapichillo,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfd7,nayarit,873,Trapichillo,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfd8,nayarit,873,Yago,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfda,nayarit,873,Estación Ruíz,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfdd,nayarit,837,Acaponeta,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bfe0,nayarit,873,Rosario,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7bffa,nayarit,840,Santa Ma. Del Oro,Guadalajara-Tepic,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c25e,nayarit,841,La Cantera,Libramiento de Tepic,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c267,nayarit,858,Amado Nervo,Jala - Las Caleras,MEX-070D,tematico_parent
+68798c739b36b04cf0b7c268,nayarit,869,Compostela II,Tepic - Puerto Vallarta,MEX-200D,tematico_parent
+68798c739b36b04cf0b7c269,nayarit,869,La Peñita,Tepic - Puerto Vallarta,MEX-200D,tematico_parent
+68798c739b36b04cf0b7c2a7,nayarit,872,San Blas,Tepic-San Blas,MEX-D,tematico_parent
+68798c739b36b04cf0b7c2c0,nayarit,871,Bucerías,Ramal a Bucerías,MEX-200D,tematico_parent
+68798c739b36b04cf0b7c2e4,nayarit,836,Compostela,Chapalilla-Compostela,MEX-D,tematico_parent
+68798c739b36b04cf0b7c009,nuevo leon,886,Agualeguas,Monterrey-Nuevo Laredo,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c00b,nuevo leon,886,Sabinas,Monterrey-Nuevo Laredo,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c00d,nuevo leon,881,Sabinas Parás,Monterrey-Nuevo Laredo,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c00e,nuevo leon,887,Entronque Ex-Garita,Monterrey-Nuevo Laredo,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c00f,nuevo leon,885,Puente Inter. Solidaridad en Colombia,Monterrey-Colombia (LIBRE),NL-001,tematico_parent
+68798c739b36b04cf0b7c049,nuevo leon,875,Los Ramones,Cadereyta-La Sierrita,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c04d,nuevo leon,911,Los Herrera,Cadereyta-La Sierrita,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c051,nuevo leon,875,General Bravo,Cadereyta-La Sierrita,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c052,nuevo leon,902,Dr. Coss,Cadereyta-La Sierrita,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c079,nuevo leon,894,Los Chorros,Puerto  México-Ent. Ojo Caliente,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c102,nuevo leon,890,Puente Inter. Nuevo Amanecer,Monterrey-Reynosa (LIBRE),MEX-040,name_match
+68798c739b36b04cf0b7c108,nuevo leon,890,Puente Inter. Ignacio Zaragoza (Los Tomates),Monterrey-Reynosa (LIBRE),MEX-040,name_match
+68798c739b36b04cf0b7c240,nuevo leon,923,Playa 3,Saltillo - Monterrey y Libramiento Norponiente de Saltillo,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c251,nuevo leon,890,"Puente Inter. Reynosa - McAllen ""Anzalduas""",Monterrey-Reynosa (LIBRE),MEX-040,name_match
+68798c739b36b04cf0b7c2d4,nuevo leon,890,Puente Inter. Reynosa,Monterrey-Reynosa (LIBRE),MEX-040,name_match
+68798c739b36b04cf0b7c2d7,nuevo leon,890,Puente Cadereyta,Monterrey-Reynosa (LIBRE),MEX-040,tematico_parent
+68798c739b36b04cf0b7c2e9,nuevo leon,891,Puente Inter. Laredo (Las Américas),Monterrey-Nuevo Laredo (LIBRE),MEX-085,tematico_parent
+68798c739b36b04cf0b7c2ea,nuevo leon,891,Puente Inter. Juárez-Lincoln,Monterrey-Nuevo Laredo (LIBRE),MEX-085,tematico_parent
+68798c739b36b04cf0b7bfce,oaxaca,953,Tehuantepec,La Ventosa-Salina Cruz,MEX-185D,tematico_parent
+68798c739b36b04cf0b7bfcf,oaxaca,953,Ixtepec,La Ventosa-Salina Cruz,MEX-185D,tematico_parent
+68798c739b36b04cf0b7c2cb,oaxaca,929,Puente Papaloapan,Cd. Alemán-Sayula (LIBRE),MEX-145,tematico_parent
+68798c739b36b04cf0b7c2cc,oaxaca,945,Puente Caracol,Buenavista-Tuxtepec (LIBRE),MEX-175,tematico_parent
+68798c739b36b04cf0b7c2e7,oaxaca,945,Puente Tlacotalpan,Buenavista-Tuxtepec (LIBRE),MEX-175,tematico_parent
+68798c739b36b04cf0b7c2ee,oaxaca,927,Tehuacán,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c2ef,oaxaca,927,Miahuatlán,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c2f0,oaxaca,927,Coixtlahuaca,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c2f2,oaxaca,927,Huitzo,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c2f4,oaxaca,927,Huitzo Bis,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c132,puebla,971,San Martín Texmelucan,México-Puebla,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c13e,puebla,969,Ixtenco,Amozoc-Perote,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c13f,puebla,969,Audi,Amozoc-Perote,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c142,puebla,969,Cuapiaxtla,Amozoc-Perote,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c145,puebla,969,Cantona,Amozoc-Perote,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c213,puebla,1014,Nuevo Necaxa,Tejocotal-Nuevo Necaxa,MEX-130D,tematico_parent
+68798c739b36b04cf0b7c2d8,puebla,983,Amozoc,Puebla-Acatzingo,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c2db,puebla,985,Esperanza,Acatzingo-Cd. Mendoza,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c2ee,puebla,968,Tehuacán,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c2ef,puebla,968,Miahuatlán,Cuacnopalan-Oaxaca,MEX-135D,tematico_parent
+68798c739b36b04cf0b7c030,queretaro,1032,Chichimequillas,Libramiento Nororiente de Querétaro,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c12c,queretaro,1034,Palmillas,México-Querétaro,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c133,queretaro,1040,Querétaro,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c135,queretaro,1024,Querétaro Bis,Querétaro-Irapuato,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c281,queretaro,1034,Huichapan,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c286,queretaro,1034,Amealco,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c28b,queretaro,1048,Coroneo,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c290,queretaro,1034,Huimilpan,Palmillas-Apaseo,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c02c,quintana roo,1060,Chichén Itza,Kantunil-Cancún,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c02f,quintana roo,1060,Tintal,Kantunil-Cancún,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c27b,quintana roo,1057,Felipe Carrillo Puerto,Libramiento de Felipe Carrillo Puerto,MEX-307D,tematico_parent
+68798c739b36b04cf0b7c024,san luis potosi,1094,San Nicolás de los Jassos,Libramiento Oriente de San Luis Potosí,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c149,san luis potosi,1122,Matehuala,Libramiento de Matehuala,MEX-D,tematico_parent
+68798c739b36b04cf0b7c254,san luis potosi,1115,Vicente Rangel Lozano,Libramiento Norte de San Luis Potosí,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c255,san luis potosi,1115,Poniente SLP,Libramiento Poniente de San Luis Potosí,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c256,san luis potosi,1115,Horizontes,Libramiento Poniente de San Luis Potosí,MEX-057D,tematico_parent
+68798c739b36b04cf0b7c277,san luis potosi,1104,La Calera,Libramiento Cd. Valles-Tamuin,MEX-070D,tematico_parent
+68798c739b36b04cf0b7c29f,san luis potosi,1104,Rayón,Rioverde-Cd. Valles,MEX-070D,tematico_parent
+68798c739b36b04cf0b7c2a0,san luis potosi,1104,Tamasopo,Rioverde-Cd. Valles,MEX-070D,tematico_parent
+68798c739b36b04cf0b7c2a2,san luis potosi,1104,Tambaca,Rioverde-Cd. Valles,MEX-070D,tematico_parent
+68798c739b36b04cf0b7c2a4,san luis potosi,1104,La Pitahaya,Rioverde-Cd. Valles,MEX-070D,tematico_parent
+68798c739b36b04cf0b7bfe0,sinaloa,1170,Rosario,Tepic-Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c014,sinaloa,1154,Puente San Miguel,Los Mochis-Cd.Obregón,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c015,sinaloa,1154,Estación Don (La Jaula),Los Mochis-Cd.Obregón,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c016,sinaloa,1154,Fundición,Los Mochis-Cd.Obregón,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c040,sinaloa,1142,Mármol,Mazatlán-Culiacán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c041,sinaloa,1161,Quilá,Mazatlán-Culiacán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c043,sinaloa,1142,Costa Rica,Mazatlán-Culiacán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c22d,sinaloa,1153,Mesillas,Durango-Villa Unión,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c252,sinaloa,1165,San Pedro,Libramiento de Culiacán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c259,sinaloa,1156,El Vainillo,Libramiento de Mazatlán,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c2c5,sinaloa,1137,Puente Sinaloa,Culiacán-Los Mochis (LIBRE),MEX-015,tematico_parent
+68798c739b36b04cf0b7c2c8,sinaloa,1137,Puente Culiacán,Culiacán-Los Mochis (LIBRE),MEX-015,tematico_parent
+68798c739b36b04cf0b7c015,sonora,1181,Estación Don (La Jaula),Los Mochis-Cd.Obregón,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c016,sonora,1181,Fundición,Los Mochis-Cd.Obregón,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c017,sonora,1175,Esperanza,Cd. Obregón-Hermosillo,MEX-015D-015,tematico_parent
+68798c739b36b04cf0b7c018,sonora,1201,Guaymas,Cd. Obregón-Hermosillo,MEX-015D-015,tematico_parent
+68798c739b36b04cf0b7c019,sonora,1180,Hermosillo,Hermosillo-Nogales,MEX-015D-015,tematico_parent
+68798c739b36b04cf0b7c01a,sonora,1205,Magdalena,Libramiento de Magdalena,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c01b,sonora,1194,Nogales,Libramiento de Nogales,MEX-15D,tematico_parent
+68798c739b36b04cf0b7c054,sonora,1185,Puente Colorado,Sonoita-Mexicali (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c234,sonora,1185,Puente Inter. San Luis Río Colorado II (Cucapá),Sonoita - Mexicali,MEX-002,tematico_parent
+68798c739b36b04cf0b7c239,sonora,1184,Santa Ana,Santa Ana-Altar,MEX-002D-MEX,tematico_parent
+68798c739b36b04cf0b7c258,sonora,1202,Estación Doctor,San Luis Río Colorado - Golfo de Santa Clara,MEX-D,tematico_parent
+68798c739b36b04cf0b7c27a,sonora,1191,Esperanza-Hornos,Libramiento de Ciudad Obregón,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c2b3,sonora,1203,Sahuaripa,Libramiento de Hermosillo,MEX-015D,tematico_parent
+68798c739b36b04cf0b7c11a,tabasco,1235,La Venta (Sánchez Magallanes),Agua Dulce-Cárdenas,MEX-184D,tematico_parent
+68798c739b36b04cf0b7c124,tabasco,1228,Malpasito,Las Choapas-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c27e,tabasco,1217,Nacajuca,Libramiento de Villahermosa,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c2c7,tabasco,1213,Puente Coatzacoalcos,Coatzacoalcos-Villahermosa (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c2d5,tabasco,1255,Puente Grijalva,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,tematico_parent
+68798c739b36b04cf0b7c2d6,tabasco,1255,Puente Usumacinta,Villahermosa-Francisco Escárcega (LIBRE),MEX-186,tematico_parent
+68798c739b36b04cf0b7c00e,tamaulipas,1309,Entronque Ex-Garita,Monterrey-Nuevo Laredo,MEX-085D,tematico_parent
+68798c739b36b04cf0b7c010,tamaulipas,1276,Tampico,Libramiento Poniente de Tampico,MEX-184D,tematico_parent
+68798c739b36b04cf0b7c011,tamaulipas,1276,Loma Real,Libramiento Poniente de Tampico,MEX-184D,tematico_parent
+68798c739b36b04cf0b7c044,tamaulipas,1271,Puente Inter. Libre Comercio,Matamoros-Reynosa (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c102,tamaulipas,1296,Puente Inter. Nuevo Amanecer,Monterrey-Reynosa (LIBRE),MEX-040,tematico_parent
+68798c739b36b04cf0b7c108,tamaulipas,1270,Puente Inter. Ignacio Zaragoza (Los Tomates),Monterrey-Reynosa (LIBRE),MEX-040,tematico_parent
+68798c739b36b04cf0b7c109,tamaulipas,1271,Nuevo Progreso,Reynosa-Matamoros,MEX-002D,tematico_parent
+68798c739b36b04cf0b7c119,tamaulipas,1279,Puente Inter. Laredo III,Ramal de Acceso al Puente Internacional Laredo III,MEX-085,tematico_parent
+68798c739b36b04cf0b7c24b,tamaulipas,1290,San Fernando,Libramiento Sur II de Reynosa,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c24c,tamaulipas,1290,Lucio Blanco,Libramiento Sur II de Reynosa,MEX-040D,tematico_parent
+68798c739b36b04cf0b7c250,tamaulipas,1271,Puente Inter. Río Bravo-Donna,Matamoros-Reynosa (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c251,tamaulipas,1274,"Puente Inter. Reynosa - McAllen ""Anzalduas""",Monterrey-Reynosa (LIBRE),MEX-040,tematico_parent
+68798c739b36b04cf0b7c2ca,tamaulipas,1270,Puente Inter. Matamoros,Cd. Victoria-Matamoros (LIBRE),MEX-101-180,tematico_parent
+68798c739b36b04cf0b7c2cd,tamaulipas,1277,Puente Inter. Camargo,Reynosa-Nuevo Laredo (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c2d3,tamaulipas,1277,Puente Inter. Miguel Alemán,Reynosa-Nuevo Laredo (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c2d4,tamaulipas,1266,Puente Inter. Reynosa,Monterrey-Reynosa (LIBRE),MEX-040,tematico_parent
+68798c739b36b04cf0b7c2e0,tamaulipas,1271,Puente Inter. Las Flores,Matamoros-Reynosa (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c2e1,tamaulipas,1277,Puente San Juan,Reynosa-Nuevo Laredo (LIBRE),MEX-002,tematico_parent
+68798c739b36b04cf0b7c2e9,tamaulipas,1302,Puente Inter. Laredo (Las Américas),Monterrey-Nuevo Laredo (LIBRE),MEX-085,tematico_parent
+68798c739b36b04cf0b7c2ea,tamaulipas,1302,Puente Inter. Juárez-Lincoln,Monterrey-Nuevo Laredo (LIBRE),MEX-085,tematico_parent
+68798c739b36b04cf0b7c2ed,tamaulipas,1320,Puente Tampico,Túxpam-Tampico (LIBRE),MEX-180,name_match
+68798c739b36b04cf0b7bfc1,tlaxcala,1323,Calpulalpan,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c027,tlaxcala,1335,San Martín Texmelucan,San Martín Texmelucan-Tlaxcala,MEX-117D,tematico_parent
+68798c739b36b04cf0b7c142,tlaxcala,1344,Cuapiaxtla,Amozoc-Perote,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c1f5,tlaxcala,1334,Sanctórum,Arco Norte Cd. México,MEX-M40D,tematico_parent
+68798c739b36b04cf0b7c031,veracruz,1362,Cuitláhuac,Córdoba-Veracruz,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c034,veracruz,1362,Paso del Toro,Córdoba-Veracruz,MEX-150D,tematico_parent
+68798c739b36b04cf0b7c055,veracruz,1402,Cosamaloapan,La Tinaja-Cosoleacaque,MEX-145D,tematico_parent
+68798c739b36b04cf0b7c058,veracruz,1395,Acayucan (Sayula),La Tinaja-Cosoleacaque,MEX-145D,tematico_parent
+68798c739b36b04cf0b7c071,veracruz,1442,Puente Túxpam,Tihuatlán-Túxpam,MEX-132D,tematico_parent
+68798c739b36b04cf0b7c07c,veracruz,1376,La Antigua,Cardel-Veracruz,MEX-180,tematico_parent
+68798c739b36b04cf0b7c07d,veracruz,1383,San Julián,Cardel-Veracruz,MEX-180,tematico_parent
+68798c739b36b04cf0b7c120,veracruz,1368,Totomoxtle,Gutiérrez Zamora-Tihuatlán,VER-D,tematico_parent
+68798c739b36b04cf0b7c121,veracruz,1371,Las Choapas,Las Choapas-Ocozocoautla,MEX-187D,tematico_parent
+68798c739b36b04cf0b7c148,veracruz,1372,Perote,Libramiento de Perote,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c246,veracruz,1441,Puente Pantepec José López Portillo,Tihuatlán - Potrero del Llano,MEX-127,tematico_parent
+68798c739b36b04cf0b7c247,veracruz,1370,Puente Refinería Lázaro Cárdenas,Nuevo Teapa - Cosoleacaque,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c248,veracruz,1374,Las Vigas,Perote - Banderilla,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c249,veracruz,1381,Miradores,Libramiento de Xalapa,MEX-140D,tematico_parent
+68798c739b36b04cf0b7c2b6,veracruz,1445,Los Gil,Tuxpam-Tampico,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c2b7,veracruz,1445,Naranjos,Tuxpam-Tampico,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c2bc,veracruz,1420,Vega de Alatorre,Poza Rica-Cardel,MEX-180D,tematico_parent
+68798c739b36b04cf0b7c2c6,veracruz,1357,Puente Pánuco,Alazán-Canoas,MEX-127,tematico_parent
+68798c739b36b04cf0b7c2c7,veracruz,1398,Puente Coatzacoalcos,Coatzacoalcos-Villahermosa (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c2c9,veracruz,1387,Puente Alvarado,Paso del Toro-Acayucan (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c2ce,veracruz,1376,Puente Nautla,Poza Rica-Veracruz (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c2df,veracruz,1376,Puente Tecolutla,Poza Rica-Nautla (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c2e7,veracruz,1356,Puente Tlacotalpan,Buenavista-Tuxtepec (LIBRE),MEX-175,tematico_parent
+68798c739b36b04cf0b7c2eb,veracruz,1370,Puente Antonio Dovalí Jaime,Minatitlán-Nuevo Teapa,MEX-145D,tematico_parent
+68798c739b36b04cf0b7c2ec,veracruz,1370,Puente Antonio Dovalí Jaime Bis,Minatitlán-Nuevo Teapa,MEX-145D,tematico_parent
+68798c739b36b04cf0b7c2ed,veracruz,1411,Puente Tampico,Túxpam-Tampico (LIBRE),MEX-180,tematico_parent
+68798c739b36b04cf0b7c02c,yucatan,1470,Chichén Itza,Kantunil-Cancún,MEX-180D,tematico_parent
+68798c739b36b04cf0b7bfcc,zacatecas,1530,Zacatecas,Cuauhtémoc-Osiris,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c026,zacatecas,1536,Calera Víctor Rosales,Libramiento Calera Víctor Rosales,MEX-045D,tematico_parent
+68798c739b36b04cf0b7c048,zacatecas,1535,Morfín Chávez,Libramiento de Fresnillo,MEX-045D,tematico_parent

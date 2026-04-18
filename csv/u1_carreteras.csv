@@ -1,0 +1,1560 @@
+carretera_id,state_slug,carretera,clave_carretera,ruta,station_count
+1,aguascalientes,Aguascalientes - Ent. Cd. de Los Niños,01130,AGS,3
+2,aguascalientes,Aguascalientes - Jalpa,00095,MEX-070,20
+3,aguascalientes,Aguascalientes - Jesús María,01112,AGS-095,7
+4,aguascalientes,Aguascalientes - José María Morelos,01131,AGS,3
+5,aguascalientes,Ent. La Calavera - Ent. San Pedro,01102,AGS-043,7
+6,aguascalientes,Ent. Pabellón de Arteaga - San José de Gracia,01031,AGS-019,6
+7,aguascalientes,Carboneras - Villa Juárez,01111,AGS-004,3
+8,aguascalientes,Est. Coyotes - Ent. San Bartolo,01134,AGS-069,2
+9,aguascalientes,Fracc. Ojo Caliente - El Conejal,01129,AGS-079,5
+10,aguascalientes,Aguascalientes - Zacatecas,00524,MEX-045,45
+11,aguascalientes,Jesús María - Palomas,01018,AGS-018,4
+12,aguascalientes,Ent. Pabellón de Arteaga - California,01137,AGS,6
+13,aguascalientes,Libramiento Surponiente de Aguascalientes,00167,MEX-045,3
+14,aguascalientes,Providencia - Luis Moya,00112,MEX-071,8
+15,aguascalientes,Pilotos - Los Campos,00007,AGS-030,3
+16,aguascalientes,Acceso a Pabellón de Arteaga,01113,MEX-045,7
+17,aguascalientes,Ent. Penitenciaría - Villa Hidalgo,00120,MEX-071,6
+18,aguascalientes,Ent. San Carlos - Ent. El Milagro,01141,AGS-010,2
+19,aguascalientes,Ent. Rivier - San Marcos,00285,MEX-066,9
+20,aguascalientes,La Panadera - Palo Alto,01105,AGS-017,4
+21,aguascalientes,Ent. Rincón de Romos - La Boquilla,01139,AGS,2
+22,aguascalientes,Ent. El Novillo - Villa Juárez,01103,AGS-005,2
+23,aguascalientes,El Retoño - Ent. Asturias,01124,MEX-070,2
+24,aguascalientes,Libramiento de Calvillo, ,MEX-070,3
+25,aguascalientes,La Rinconada - El Terrero del Refugio,01133,AGS-007,2
+26,aguascalientes,La Punta - Mesillas,01104,AGS-026,3
+27,aguascalientes,Libramiento Rincón de Romos,00167,MEX-045,2
+28,aguascalientes,Las Norias de Ojo Caliente - La Luz,01122,AGS-068,3
+29,aguascalientes,Rincón de Romos - Ciénega Grande,01002,MEX-039,5
+30,aguascalientes,Ojuelos - Aguascalientes,00094,MEX-070,15
+31,aguascalientes,Libramiento Poniente de Aguascalientes (Cuota), ,AGS-D,3
+32,aguascalientes,San Gil - Jarillas,00527,AGS-012-ZAC,5
+33,aguascalientes,Ojo Caliente - Malpaso,01123,MEX-070,2
+34,aguascalientes,San Isidro El Grande - Bajío de San José,00526,AGS-036,4
+35,aguascalientes,Ent. Buenavista - Gracias a Dios,01138,AGS,2
+36,aguascalientes,Ent. Arellano - El Retoño,01121,AGS,4
+37,aguascalientes,Ent. Cosío - Ent. Cuauhtémoc,00579,MEX-045,3
+38,aguascalientes,Crucero Ojo de Agua de Crucitas - Santa Rosa,01140,AGS,2
+39,aguascalientes,Ent. La Chirida - San Francisco de Los Romo,01016,AGS,2
+40,aguascalientes,Cosío - Santa María de La Paz,01132,AGS,2
+41,aguascalientes,Ent. San Felipe - Jesús María,01144,AGS,2
+42,aguascalientes,El Taray - T. C.(Ramal Aeropuerto de Aguascalientes),01121,AGS-002,3
+43,aguascalientes,Ent. San Isidro - Ent. El Salitre,01142,AGS-016,2
+44,aguascalientes,León - Aguascalientes,00167,MEX-045,36
+45,aguascalientes,Pabellón de Hidalgo - Rincón de Romos,01136,AGS,2
+46,aguascalientes,El Tanque - San José de La Ordeña,01143,AGS,2
+47,aguascalientes,Ramal a Aeropuerto de Aguascalientes,01116,MEX-045,3
+48,aguascalientes,Ramal a San Pedro Piedra Gorda,00553,ZAC-AGS,4
+49,aguascalientes,Libramiento San Francisco de Los Romo,01137,AGS,4
+50,aguascalientes,Pocitos - Granja Miravalle,01109,AGS-053,4
+51,aguascalientes,San Rafael - Villa García,00525,AGS-ZAC,3
+52,aguascalientes,Viñedos de California - Adolfo López Mateos,01137,AGS,2
+53,aguascalientes,Santa Rosa - Pabellón de Hidalgo,01135,AGS,2
+54,aguascalientes,T. Caldera - Ent. Ojo de Agua de Los Montes,01137,AGS,6
+55,baja california,Ensenada - El Chinero,02009,MEX-003,10
+56,baja california,Corredor Tijuana 2000,02006,BC,6
+57,baja california,Ejido Monterrey - Mazón,02004,BC-003,5
+58,baja california,Ensenada - Lázaro Cárdenas,02098,MEX-001,21
+59,baja california,Algodones - Ent. Islas Agrarias Grupo B,02006,BC-008,5
+60,baja california,Ent. Punta Prieta - Bahía de Los Ángeles,02322,MEX-001,2
+61,baja california,La Puerta - T. C. (Mexicali - Estación Coahuila),02502,BC-010,4
+62,baja california,Lázaro Cárdenas - Ent. Punta Prieta,02319,MEX-001,10
+63,baja california,Ent. Punta Prieta - Guerrero Negro,00321,MEX-001,5
+64,baja california,Libramiento de Mexicali (Cuota),02319,MEX-002D,2
+65,baja california,Mexicali - Algodones,02012,BC-002,12
+66,baja california,Mexicali - Progreso,02507,BC-005,2
+67,baja california,Mexicali - Estación Coahuila,02016,BC-001,13
+68,baja california,San Felipe - Chapala,02503,MEX-005,4
+69,baja california,Mexicali - San Felipe,02096,MEX-005,11
+70,baja california,Mexicali - Tijuana,02082,MEX-002D-MEX,13
+71,baja california,El Centinela - La Rumorosa (Cuota),02011,MEX-002D,5
+72,baja california,Sonoita - Mexicali,263,MEX-002,21
+73,baja california,Ejido Benito Juárez - Ejido Chiapas,02501,BC-061,3
+74,baja california,El Faro - Estación Coahuila,02013,BC-004,6
+75,baja california,Libramiento de Tecate (Cuota),02082,MEX-002D,5
+76,baja california,Ent. Santa Rosa - Ent. Pachuca,02015,BC-006,4
+77,baja california,La Rumorosa - Tecate (Cuota),02011,MEX-002D,9
+78,baja california,Libramiento de Ensenada (Cuota), ,MEX-003D,2
+79,baja california,Ramal a Aeropuerto de Mexicali,02321,MEX-002,3
+80,baja california,Tecate - Tijuana (Cuota),02011,MEX-002D,10
+81,baja california,Tecate - El Sauzal,02097,MEX-003,10
+82,baja california,Tijuana - Ensenada (Cuota),02100,MEX-001D,48
+83,baja california,Tijuana - Ensenada (Libre),02099,MEX-001,19
+84,baja california sur,Cd. Insurgentes - La Purísima,03005,BCS-001,7
+85,baja california sur,La Paz - Ensenada de Muertos,03103,BCS-246,4
+86,baja california sur,Libramiento de Todos Santos, ,MEX-019,2
+87,baja california sur,Cabo San Lucas - La Paz,03102,MEX-001,32
+88,baja california sur,La Paz - Cd. Insurgentes,03101,MEX-001,24
+89,baja california sur,Libramiento de La Paz,03004,BCS,2
+90,baja california sur,Ramal a Ejido Ley Federal de Aguas Número Dos,03050,BCS-MEX-001,3
+91,baja california sur,Ramal a Bahía de Tortugas,03397,MEX-001-BCS,3
+92,baja california sur,Loreto - Santa Rosalía,03393,MEX-001,8
+93,baja california sur,Ramal a Ley Federal de Aguas Número Cinco,03407,BCS-MEX-001,4
+94,baja california sur,San Pedro - Cabo San Lucas,03003,MEX-019,18
+95,baja california sur,Santa Rosalía - Guerrero Negro,03095,MEX-001,16
+96,baja california sur,Ramal a Aeropuerto de La Paz,03396,MEX-001,3
+97,baja california sur,Ramal a Benito Juárez,03405,BCS,2
+98,baja california sur,Ramal a San Juan de La Costa,03403,BCS-163-MEX-001,3
+99,baja california sur,Cd. Constitución - Puerto San Carlos,03231,MEX-001,4
+100,baja california sur,Cd. Insurgentes - Loreto,03092,MEX-001,11
+101,baja california sur,Libramiento de Cabo San Lucas,03100,MEX-001,4
+102,baja california sur,La Paz - Pichilingue,03230,MEX-011,4
+103,baja california sur,Ramal a Miraflores,03407,MEX-001,3
+104,baja california sur,Libramiento San José del Cabo - Aeropuerto Los Cabos (Cuota),03392,MEX-001D,6
+105,baja california sur,Ramal a Santa Catarina,03052,BCS,2
+106,baja california sur,Ramal a Los Paredones,03407,MEX-001,2
+107,baja california sur,Ramal a Ejido Ley Federal de Aguas Número Cuatro,03007,BCS,2
+108,baja california sur,Ent. Campo Fisher - Punta Abreojos,03411,BCS,2
+109,baja california sur,Cd. Insurgentes - Pto. Adolfo López Mateos,03404,BCS,2
+110,baja california sur,Libramiento Norte de La Paz,03006,BCS,4
+111,baja california sur,Ramal a El Carrizal,03050,BCS,2
+112,baja california sur,Ramal a Aeropuerto de Los Cabos,03394,MEX-001,2
+113,baja california sur,Ramal a El Mangle (Cuota), ,MEX-001D,2
+114,baja california sur,Ramal a Santiago,03051,MEX-001,3
+115,baja california sur,Ramal Aeropista San Ignacio,03053,MEX-001,2
+116,baja california sur,San José del Cabo - Libramiento de Cabo San Lucas - (Cuota), ,MEX-001D,2
+117,baja california sur,Ramal a Melitón Albáñez,03407,BCS,2
+118,baja california sur,Ramal a Guerrero Negro,03395,BCS,2
+119,baja california sur,Ramal a La Ribera,03406,BCS,2
+120,baja california sur,Ramal a Puerto Escondido,03407,MEX-001,2
+121,baja california sur,Ramal a San Ignacio,03413,MEX-001,2
+122,campeche,Campeche - Tixmucuy,04575,MEX-180,6
+123,campeche,San Marcos - Palizada,00490,MEX-186,5
+124,campeche,Champotón - Campeche (Cuota),04014,MEX-180D,8
+125,campeche,Campeche - Mérida,00066,MEX-180,51
+126,campeche,Campeche - Umán,00164,MEX-261,17
+127,campeche,Cd. del Carmen - Campeche,04065,MEX-180,19
+128,campeche,Ramal a Ruíz Cortines,04101,MEX-180,3
+129,campeche,T. C. (Francisco Escárcega - Champotón) - Yohaltún,04581,CAM,4
+130,campeche,Dzitbalché - Ent. San Bernardo,00162,MEX-180,8
+131,campeche,Francisco Escárcega - Chetumal,00093,MEX-186-307,23
+132,campeche,Francisco Escárcega - Champotón,04103,MEX-201,4
+133,campeche,Libramiento de Pomuch,04579,CAM,3
+134,campeche,Chencoyi - Tenabo,04576,MEX-180,2
+135,campeche,Hopelchén - Dzibalchén,04572,CAM-261,2
+136,campeche,Haltunchén - San Antonio Cayal,04009,MEX-180,6
+137,campeche,Periférico Pablo García y Montilla (Libramiento de Campeche),04573,MEX-202,10
+138,campeche,Presidente Díaz Ordaz - Sabancuy,04570,MEX-186,3
+139,campeche,Ramal a Nuevo Coahuila,04015,MEX-186,6
+140,campeche,Libramiento de Becal,04010,CAM,2
+141,campeche,Villahermosa - Cd. del Carmen,00064,MEX-180,28
+142,campeche,Villahermosa - Francisco Escárcega,00092,MEX-186-307,42
+143,chiapas,Arriaga - Ocozocoautla (Cuota),00092,MEX-200D ,11
+144,chiapas,Benemérito de Las Américas - Palenque,07095,MEX-307,5
+145,chiapas,Ent. Suschilá - Comitán,00061,CHIS-TAB,12
+146,chiapas,Catazajá - T. C. (Tuxtla Gtz. - Cd. Cuauhtémoc),07582,MEX-199-307,16
+147,chiapas,Chiapa de Corzo - Amatenango del Valle,07024,CHIS,9
+148,chiapas,Huixtla - El Jocote,07577,MEX-211,8
+149,chiapas,El Suspiro - Tenosique,00276,MEX-203,9
+150,chiapas,Las Limas - La Concordia,07028,CHIS,3
+151,chiapas,Libramiento de Arriaga, ,MEX-200,4
+152,chiapas,Ent. Emiliano Zapata - La Libertad,00062,CHIS-TAB,3
+153,chiapas,Las Choapas - Ocozocoautla (Cuota),00077,MEX-187D,15
+154,chiapas,Libramiento Sur de Tuxtla Gutierrez (Dr. Manuel Velasco), ,MEX,4
+155,chiapas,Ocozocoautla - Revolución Mexicana,07571,CHIS-053-230,8
+156,chiapas,Libramiento de Huixtla, ,MEX-200,7
+157,chiapas,Las Cruces - Arriaga,07196,MEX-190,3
+158,chiapas,Ramal a Cd. Hidalgo,07274,MEX-200,6
+159,chiapas,Ramal a Paredón,07269,MEX-200,2
+160,chiapas,Ramal a Puerto Arista,07270,MEX-200,3
+161,chiapas,San Francisco Pujiltic - Ent. Comitán,07093,CHIS,2
+162,chiapas,Puerto Caté - San Cristóbal de Las Casas,07097,CHIS,4
+163,chiapas,La Trinitaria - Benemérito de Las Américas,07267,MEX-307,9
+164,chiapas,Malpaso - El Bellote,00137,MEX-187,26
+165,chiapas,Paso de Cunduacán - Estación Juárez,00588,TAB-CHIS,4
+166,chiapas,Ocosingo - Comitán,07092,CHIS,5
+167,chiapas,Ramal a La Gloria,07091,MEX-200,2
+168,chiapas,Gregorio Méndez Magaña - Reforma de Ocampo,00103,CHIS,4
+169,chiapas,Ent. Jaritas - Ciudad Hidalgo,07094,MEX-225,3
+170,chiapas,Independencia - Buenos Aires,07098,CHIS,3
+171,chiapas,Estación Palenque - La Libertad,07002,CHIS-010,2
+172,chiapas,Libramiento de Ocozocoautla,07583,MEX-190,5
+173,chiapas,"Ramal Zona Arqueológica "" Palenque """,07099,CHIS,2
+174,chiapas,Ramal a Unión Juárez,07273,MEX-200,3
+175,chiapas,Libramiento Sur de Tuxtla Gutiérrez,07578,CHIS,4
+176,chiapas,Libramiento de Ciudad Hidalgo Chis., ,MEX-225,2
+177,chiapas,Ocozocoautla - Ent. El Sabino,07579,MEX-190,3
+178,chiapas,Ramal a Salto del Agua,00069,TAB-CHIS,3
+179,chiapas,"Ramal Zona Arqueológica "" Bonampak """,07100,CHIS,2
+180,chiapas,Ramal a Huehuetán,07360,CHIS,3
+181,chiapas,Tapachula - Nueva Alemania,07581,CHIS-229,2
+182,chiapas,Ramal a Mazatán,07560,CHIS-219,3
+183,chiapas,Tapachula - Puerto Madero,07018,MEX-225,5
+184,chiapas,Tapanatepec - Talismán,00075,MEX-200,74
+185,chiapas,Tapanatepec - Tuxtla Gutiérrez,00060,MEX-190,23
+186,chiapas,Temo - Tila,07090,CHIS,3
+187,chiapas,Terán - Chicoasén,07072,MEX-190,3
+188,chiapas,Tierra y Libertad - Ent. Dr. Domingo Chanona,07096,CHIS,2
+189,chiapas,Tuxtla Gutiérrez - Angostura,07584,MEX-190,4
+190,chiapas,Tuxtla Gutiérrez - Cd. Cuauhtémoc,07061,MEX-190,24
+191,chiapas,Tuxtla Gutiérrez - Portillo Zaragoza,07574,CHIS-133,5
+192,chiapas,Tuxtla Gutiérrez - San Cristóbal de Las Casas (Cuota),07580,MEX-190D,4
+193,chiapas,Villahermosa - Francisco Escárcega,00092,MEX-186-307,42
+194,chiapas,Villahermosa - Escopetazo,00104,MEX-195,23
+195,chiapas,Zapatero - T. C. (Jalapa - Jonuta),00061,CHIS-TAB,3
+196,chihuahua,Cuauhtémoc - Buenaventura,08015,CHIH,8
+197,chihuahua,Chihuahua - Madera,08038,CHIH-D-MEX-001-CHIH,21
+198,chihuahua,Delicias - Saucillo,08007,CHIH-007,3
+199,chihuahua,Camargo - Delicias (Cuota),08418,MEX-045D,15
+200,chihuahua,El Sueco - Janos,08037,MEX-010,7
+201,chihuahua,Chihuahua - Sacramento (Cuota),08015,MEX-045D,7
+202,chihuahua,Cd. Juárez - Janos,08041,MEX-002,6
+203,chihuahua,Hidalgo del Parral - Guadalupe y Calvo,00802,MEX-024,8
+204,chihuahua,Chihuahua - Ojinaga,08042,MEX-016,11
+205,chihuahua,Chihuahua - El Sueco,08419,MEX-045,12
+206,chihuahua,Delicias - Chihuahua (Libre),08418,MEX-045,16
+207,chihuahua,El Sueco - Villa Ahumada (Cuota),08420,MEX-045D,5
+208,chihuahua,Ent. Nuevo Palomas - Hidalgo del Parral (Vía Corta),08811,MEX-024,4
+209,chihuahua,Gómez Palacio - Corralitos (Cuota),00016,MEX-049D,18
+210,chihuahua,Ent. Puerto Justo - Ent. Guachochic,08044,CHIH,2
+211,chihuahua,Hidalgo del Parral - Jiménez,08444,MEX-045,4
+212,chihuahua,Meoqui - Julimes,08005,CHIH-005,4
+213,chihuahua,Libramiento de Hidalgo del Parral,08221,CHIH,4
+214,chihuahua,Ramal a Palomas,08019,MEX-002,3
+215,chihuahua,Porvenir - Cd. Juárez,302,MEX-002,7
+216,chihuahua,Ramal a San Pedro Creel,08812,CHIH-025,3
+217,chihuahua,Ramal a Aeropuerto de Chihuahua,08421,MEX-016,3
+218,chihuahua,Ricardo Flores Magón - Galeana (Cuota),08019,CHIH-D,2
+219,chihuahua,Samachique - Batopilas, ,CHIH,2
+220,chihuahua,T. C. (Camargo - Jiménez) - Ojinaga,08009,CHIH-018,6
+221,chihuahua,T. C. (Chihuahua - Ojinaga) - La Mula (Cuota),08170,CHIH-D,2
+222,chihuahua,Ahumada - Ricardo Flores Magón,08804,CHIH,2
+223,chihuahua,Camargo - Jiménez,08021,CHIH-049,3
+224,chihuahua,Ent. Ciudad Camargo - Saucillo,08417,MEX-045,3
+225,chihuahua,Libramiento de Delicias - Meoqui,08813,MEX-045,10
+226,chihuahua,Ent. Agua Caliente - El Terrero,08170,CHIH-MEX,3
+227,chihuahua,Jiménez - Camargo (Cuota),08418,MEX-045D,8
+228,chihuahua,La Junta - Lim. Edos. Term. Chih. Ppia. Son (Yécora),00065,MEX-016,5
+229,chihuahua,Jerónimo - Sta. Teresa,08043,MEX-002,2
+230,chihuahua,Libramiento Oriente Chihuahua (Cuota), ,MEX-045D,6
+231,chihuahua,Gómez Palacio - Jiménez,00006,MEX-049,19
+232,chihuahua,Ent. La Zarca - Hidalgo del Parral,00488,MEX-045,9
+233,chihuahua,Ent. El Álamo - Ent. Ricardo Flores Magón (Cuota),08046,CHIH-D,2
+234,chihuahua,Libramiento de Jiménez,08047,CHIH,4
+235,chihuahua,Janos - Agua Prieta,00220,MEX-002,5
+236,chihuahua,Lázaro Cárdenas - Ent. Colonia San José,08004,CHIH-004,3
+237,chihuahua,San Pedro Creel - Guachochi, ,CHIH-025,4
+238,chihuahua,Ent. Peña Blanca - Ent. La Concha,08493,CHIH,2
+239,chihuahua,Samalayuca - San Jerónimo (Cuota),08019,CHIH-D,2
+240,chihuahua,San Juanito - Ent. Basaseachi,08045,CHIH,2
+241,chihuahua,T. Julimes - La Boquilla,08009,CHIH-018,2
+242,chihuahua,Villa Ahumada - Cd. Juárez (Libre),08420,MEX-045,9
+243,coahuila,Cuatro Ciénegas - Ocampo,05026,COA-048,2
+244,coahuila,Ent. Paila - Parras de La Fuente,05014,COA-102,3
+245,coahuila,Libramiento Allende - Nava,05518,MEX-057,6
+246,coahuila,Monclova - Piedras Negras,05407,MEX-057,32
+247,coahuila,Nuevo Laredo - Piedras Negras,00503,MEX-002,13
+248,coahuila,Monclova - San Pedro de Las Colonias,05062,MEX-030,14
+249,coahuila,Puerto México - La Carbonera (Cuota),00115,MEX-057D,14
+250,coahuila,Libramiento de Torreón-Gómez Palacio-Lerdo,05516,COA-DGO-MEX-040-049,8
+251,coahuila,Libramiento Norte de Torreón (Cuota), ,MEX-040D,5
+252,coahuila,Saltillo - Monclova,05406,MEX-057,22
+253,coahuila,Saltillo - Torreón,05086,MEX-040,25
+254,coahuila,San Buenaventura - Estación Hermanas,05004,COA-034,5
+255,coahuila,Saltillo - Arteaga,05008,COA-106,9
+256,coahuila,Saltillo - Monterrey,00087,MEX-040,18
+257,coahuila,Morelos - Cd. Acuña,05029,MEX-029,9
+258,coahuila,Saltillo - Torreón (Cuota) T2, ,MEX-040D,8
+259,coahuila,T. C. (Ent. Morelos - Saltillo) - Parras de La Fuente,05510,COA-105,5
+260,coahuila,Allende - Villa Unión,05001,COA-015,2
+261,coahuila,Ent. La Cuchilla - San Pedro de las Colonias,05021,MEX-040,5
+262,coahuila,Durango - Torreón,10085,MEX-040,36
+263,coahuila,Ent. Bella Unión - Saltillo,05003,MEX-057,5
+264,coahuila,Ent. Morelos - Saltillo,00149,MEX-054,32
+265,coahuila,Corredor Libramiento de San Pedro,05023,COA-087,2
+266,coahuila,Libramiento de Matamoros,05032,COA,5
+267,coahuila,Piedras Negras - Cd. Acuña,05061,MEX-002,3
+268,coahuila,Morelos - Ent. Las Corrientes,05500,COA-010,3
+269,coahuila,Nueva Rosita - Ent. Allende (Cuota),05502,MEX-057D,4
+270,coahuila,Puerto de Flores - El Hondable,05512,COA-112,3
+271,coahuila,Puerto México - La Encantada,05002,MEX-057,4
+272,coahuila,Nueva Rosita - Boquillas del Carmen,05028,MEX-053,10
+273,coahuila,Cd. Acuña - Presa de La Amistad,05085,MEX-002,5
+274,coahuila,Emiliano Zapata - Viesca,05521,COA-082,2
+275,coahuila,Libramiento de Saltillo J.L.P.,05031,COA,5
+276,coahuila,Libramiento Oriente de Saltillo (Cuota),00115,MEX-057D,6
+277,coahuila,El Sauz - Palau,05060,COA-022,6
+278,coahuila,Ent. La Rosa - General Cepeda,05034,COA-034,2
+279,coahuila,Matamoros - La Unión,05023,COA-070,8
+280,coahuila,Matamoros - El Fresno,05023,COA-078,2
+281,coahuila,Gregorio García - Francisco I. Madero,00110,MEX-040,3
+282,coahuila,Ramal a Lamadrid,05522,COA-042,2
+283,coahuila,Ramal a Hipólito,05509,COA-114,2
+284,coahuila,Libramiento Norponiente de Saltillo (Cuota),05022,MEX-054D,6
+285,coahuila,Ojo Caliente - Santa Cruz,05007,MEX-057,2
+286,coahuila,Monterrey - Castaños,00128,MEX-053,13
+287,coahuila,Sabinas - Don Martín,05501,COA-025,4
+288,coahuila,Monclova - Estación Candela,00501,COA-030-NL,5
+289,coahuila,Saltillo - Torreón (Cuota) T1, ,MEX-040D,5
+290,coahuila,Saltillo - Monterrey (Cuota),00087,MEX-040D,8
+291,coahuila,T. C. (Saltillo - Monclova) - Ramos Arizpe,05508,COA,2
+292,coahuila,Torreón - Escuadrón 201,05022,COA-011,4
+293,coahuila,Torreón - San Pedro de las Colonias,05021,COA-MEX-030,22
+294,colima,Colima - Cd. Guzmán,00117,MEX-054,17
+295,colima,Comala - San Antonio,06030,COL-016,4
+296,colima,Costera Laguna de Cuyutlán,06010,COL,2
+297,colima,Ent. Playa Azul - Manzanillo,00495,MEX-200,30
+298,colima,Manzanillo - Puerto Vallarta,00070,MEX-200,27
+299,colima,Libramiento de Manzanillo Norte,06122,MEX-200,6
+300,colima,Libramiento de Manzanillo (Libre),06574,MEX-200,3
+301,colima,Ramal a Tecuanillo,06009,COL-009,2
+302,colima,Libramiento Poniente Arco Sur de Tecomán, ,COL,4
+303,colima,Minatitlán - Ent. Pez Vela,06015,MEX-098,6
+304,colima,Ramal a Ixtlahuacán,06577,COL-005,2
+305,colima,Paso por Los Asmoles,06120,MEX-110,2
+306,colima,T. C. (Guadalajara - Colima Cuota) - Quesería,06001,COL-001,2
+307,colima,Armería - Manzanillo (Cuota),06585,MEX-200D,13
+308,colima,Colima - Ent. Tecomán,06119,MEX-110,12
+309,colima,Colima - Comala,06016,COL-016,4
+310,colima,Coquimatlán - Pueblo Juárez,06029,COL-034,2
+311,colima,Guadalajara - Colima (Cuota),00118,MEX-054D,25
+312,colima,Ramal a Aeropuerto de Colima,06224,COL,2
+313,colima,Ramal a Cuyutlán,06225,MEX-200,2
+314,colima,Ramal a Los Tepames,06004,COL-004,2
+315,colima,Armería - Playa El Paraíso,06580,COL,2
+316,colima,Colima - Coquimatlán,06034,COL-034,5
+317,colima,Cuauhtémoc - Colima,06019,COL-019,4
+318,colima,Jiquilpan - Colima,00156,MEX-110,20
+319,colima,Libramiento Poniente de Colima,06122,COL,3
+320,colima,Libramiento de Colima,06573,MEX-054,4
+321,colima,Libramiento Campos - Alameda, ,MEX,2
+322,colima,Ramal a Cerro de Los Juanes,06009,MEX-098,2
+323,colima,Ramal a Rincón de López,06578,COL,2
+324,colima,Libramiento de Comala, ,COL-016,2
+325,colima,Libramiento de Tecomán,06122,COL,4
+326,colima,Ramal a Camotlán de Miraflores,06009,COL,2
+327,colima,Los Limones - Loma de Juárez,06122,COL,2
+328,colima,Ramal a Cerro de Ortega,06009,MEX-200,2
+329,colima,Ramal a Aeropuerto Manzanillo,06582,COL,2
+330,colima,Paso por La Salada,06121,MEX-110,2
+331,colima,Puerta de Caleras - Madrid,06014,COL-014,2
+332,colima,Ramal a Las Brisas,06571,COL,4
+333,colima,Tecomán - Boca de Pascuales,06226,MEX-200,2
+334,colima,Ramal a Rancho Valle Nuevo,06583,COL,2
+335,colima,Tecomán - La Mascota,06572,COL,3
+336,colima,Trapichillos - Estación Alzada,06003,COL-003,2
+337,colima,Villa de Álvarez - Minatitlán,06040,COL,2
+338,distrito federal,México - Cuernavaca (Libre),00040,MEX-095,18
+339,distrito federal,México - Puebla (Cuota),00450,MEX-150D,62
+340,distrito federal,México - Cuernavaca (Cuota),00041,MEX-095D,16
+341,distrito federal,México - Toluca,00447,MEX-015,25
+342,distrito federal,México - Pachuca (Cuota),00432,MEX-085D,17
+343,distrito federal,San Gregorio - Oaxtepec,00901,MEX-113,11
+344,distrito federal,México - Puebla (Libre),00449,MEX-150,27
+345,distrito federal,T. C. (México - Mixquic) - San Pablo Atlazalpan,00044,EM-106-CDMX,3
+346,distrito federal,Chalco - Mixquic,00171,EM-CDMX,4
+347,distrito federal,Chalco - Tláhuac,00170,EM-CDMX,5
+348,distrito federal,México - Querétaro (Cuota),00411,MEX-057-MEX-057D,63
+349,distrito federal,La Venta - Chamapa (Cuota),15014,EM-D,10
+350,distrito federal,Xalatlaco - El Ajusco,00017,EM-CDMX,3
+351,distrito federal,México - Pachuca (Libre),00431,MEX-085,36
+352,distrito federal,México - Toluca (Cuota),00446,MEX-015D,15
+353,durango,Durango - Ent. La Zarca,10016,MEX-045,17
+354,durango,Durango - Mezquital,10423,MEX-023,8
+355,durango,Durango - Torreón,10085,MEX-040,36
+356,durango,Ent. La Zarca - Hidalgo del Parral,00488,MEX-045,9
+357,durango,Bermejillo - El Palmito,10105,MEX-030,6
+358,durango,Durango - Villa Unión,0083,MEX-040,12
+359,durango,Gómez Palacio - Jiménez,00006,MEX-049,19
+360,durango,Ent. Los Herrera - Topia,10090,MEX-036,3
+361,durango,Guadalupe Aguilera - Tepehuanes,10220,MEX-023,9
+362,durango,Durango - Aserradero La Flor,10422,DGO-115,7
+363,durango,Durango - Mazatlán (Cuota),00084,MEX-040D,14
+364,durango,Durango - Yerbanís (Cuota),10003,MEX-040D,10
+365,durango,Ent. La Chicharrona - Cuencamé,00152,MEX-049,17
+366,durango,Libramiento Sur de Durango, ,MEX-045,7
+367,durango,Gómez Palacio - Tlahualillo de Zaragoza,10005,MEX-040,8
+368,durango,La Torreña - Brittingham,10010,DGO-325,6
+369,durango,Libramiento Cuencamé,10006,DGO,4
+370,durango,Libramiento de Durango (Cuota),10006,MEX-040D,4
+371,durango,Ramal a Otinapa,10002,MEX,2
+372,durango,Ramal a Santa Clara,10287,MEX-049,2
+373,durango,Pedriceña - Ent. Rodeo,10002,MEX-034,4
+374,durango,Ramal Distribuidor Presa Peña del Águila,10016,MEX-045,3
+375,durango,Súchil - Villa Unión,10419,DGO-241,7
+376,durango,Gómez Palacio - Corralitos (Cuota),00016,MEX-049D,18
+377,durango,Gregorio García - Francisco I. Madero,00110,MEX-040,3
+378,durango,Libramiento Norte de Torreón (Cuota), ,MEX-040D,5
+379,durango,Ramal a San Juan del Río,10001,DGO-290,3
+380,durango,Libramiento de Torreón-Gómez Palacio-Lerdo,05516,COA-DGO-MEX-040-049,8
+381,durango,Ramal a Villa Juárez,10287,MEX-040,3
+382,durango,Mezquital - San Miguel de Temoaya,10006,DGO,2
+383,durango,Amado Nervo - La Ochoa,10012,DGO-542,3
+384,durango,Jabonoso - Esmeralda,10004,DGO-363,3
+385,durango,Ceballos - El Mirador,10417,DGO-044,2
+386,durango,Gómez Palacio - La Unión,10009,MEX-040,5
+387,durango,Hidalgo del Parral - Guadalupe y Calvo,00802,MEX-024,8
+388,durango,Libramiento Exterior Cuencamé,10006,MEX-049,2
+389,durango,Libramiento Oriente de Durango, ,MEX-045,4
+390,durango,Tlahualillo de Zaragoza - T.C. Gómez Palacio - Jiménez,10419,MEX-040-DGO,2
+391,durango,Yerbanís - Gómez Palicio (Cuota),10003,MEX-040D,16
+392,durango,Yerbanís - Peñón Blanco,10032,DGO-316,2
+393,durango,Zacatecas - Durango,00544,MEX-045,44
+394,guanajuato,Ent. San Miguel de Allende - Dr. Mora,11001,GTO-001,5
+395,guanajuato,Irapuato - León,11123,MEX-045,23
+396,guanajuato,Guanajuato - Los Infantes,11067,MEX-110-GTO,7
+397,guanajuato,Ent. Begoña - Ent. Presa de Manantiales,11812,GTO,2
+398,guanajuato,Dolores Hidalgo - Ojuelos de Jalisco,00107,MEX-051,6
+399,guanajuato,Celaya - Dolores Hidalgo,11109,MEX-051-GTO,17
+400,guanajuato,La Noria - Acámbaro,00131,MEX-120,8
+401,guanajuato,Irapuato - Zapotlanejo,00114,MEX-090,37
+402,guanajuato,Morelia - Salamanca,00124,MEX-043,24
+403,guanajuato,Libramiento de San Felipe Torres Mochas,11012,GTO,2
+404,guanajuato,Ent. Santa Teresa - Silao,11070,MEX-110,5
+405,guanajuato,Morelia - Salamanca (Cuota),00124,MEX-043D,13
+406,guanajuato,Libramiento de Salamanca,11002,GTO,4
+407,guanajuato,Libramiento de Salvatierra,11012,GTO,5
+408,guanajuato,León - Aguascalientes (Cuota),00013,MEX-045D,27
+409,guanajuato,León - Aguascalientes,00167,MEX-045,36
+410,guanajuato,Querétaro - Irapuato (Libre),00154,MEX-045,26
+411,guanajuato,Querétaro - Irapuato (Cuota),00423,MEX-045D,32
+412,guanajuato,Munguía - Las Adjuntas,11815,MEX-084,6
+413,guanajuato,León - Manuel Doblado,11069,GTO-037,12
+414,guanajuato,Salamanca - Juventino Rosas,11817,GTO,2
+415,guanajuato,San Luis de La Paz - Guanajuato,11108,MEX-110,14
+416,guanajuato,Salamanca - León (Cuota), ,MEX-045D,21
+417,guanajuato,San Luis de La Paz - San José Iturbide,11046,GTO,4
+418,guanajuato,Querétaro - San Luis Potosí,00165,MEX-057,48
+419,guanajuato,Acámbaro - Celaya,11066,MEX-051,10
+420,guanajuato,Nuevo Libramiento de León,11133,GTO,8
+421,guanajuato,Acámbaro - Zinapécuaro,00417,MEX-120,3
+422,guanajuato,Ent. Buenavista - San Miguel de Allende,00111,MEX-057,4
+423,guanajuato,Cortázar - Valle de Santiago,11016,MEX-GTO-017,2
+424,guanajuato,Ent. La Fortaleza - Cortázar,11017,MEX-045,3
+425,guanajuato,Guanajuato - Santa Rita,11810,GTO,13
+426,guanajuato,Coroneo - La Sabanilla,00155,GTO,2
+427,guanajuato,Huimilpan - El Lindero,00155,QRO-GTO,5
+428,guanajuato,Guanajuato - Silao (Cuota),11810,GTO-110D,4
+429,guanajuato,Lagos de Moreno - Villa de Arriaga (Cuota), ,MEX-080D,6
+430,guanajuato,Manuel Doblado - La Piedad,11028,MEX-084,6
+431,guanajuato,Maravatío - Acámbaro,00418,MEX-061,4
+432,guanajuato,León - San Felipe Torres Mochas,11036,GTO,6
+433,guanajuato,Libramiento de Abasolo,11011,GTO,3
+434,guanajuato,Palmillas - Apaseo el Grande (Cuota), ,MEX-045D,13
+435,guanajuato,Las Adjuntas - T. C. (Manuel Doblado - La Piedad),11820,MEX-084,2
+436,guanajuato,Manuel Doblado - Plan de Ayala,11028,GTO,3
+437,guanajuato,San Luis de La Paz - Cañada de Moreno,11134,MEX-110,2
+438,guanajuato,Romita - El Saucillo,11201,GTO,2
+439,guanajuato,Ent. de Zaragoza - San Felipe,00240,MEX-037,4
+440,guanajuato,Ramal a San Diego de La Unión,11818,GTO,2
+441,guanajuato,Libramiento de Celaya (Cuota),11011,GTO-D,4
+442,guanajuato,Libramiento de Villa de Reyes (Poniente), ,MEX-037,3
+443,guanajuato,Libramiento Norte de la Piedad (Cuota), ,MEX-110D,10
+444,guanajuato,Libramiento Poniente de Irapuato (Cuota),11014,MEX-045D,6
+445,guanajuato,Jalostotitlán - Purísima de Bustos,00142,JAL-GTO,5
+446,guanajuato,Libramiento de San Miguel de Allende, ,MEX-057,6
+447,guanajuato,Libramiento de Uriangato, ,MEX-043,4
+448,guanajuato,Ramal a San José Iturbide,11201,MEX-057,4
+449,guanajuato,Libramiento de San Luis de La Paz,11014,GTO,4
+450,guanajuato,Salvatierra - Ent. Yuriria,11013,MEX-043,5
+451,guanajuato,Nuevo Libramiento de Irapuato,11132,MEX-045,4
+452,guanajuato,Salvatierra - Cortázar,11327,GTO,2
+453,guanajuato,Silao - Los Arrastres,11029,GTO,3
+454,guanajuato,Silao - La Romita,11029,GTO,3
+455,guanajuato,T. C. (Villa del Pueblito - Huimilpan) - La Sabanilla,00155,QRO-GTO,6
+456,guanajuato,Tepatitlán - Las Adjuntas,00141,JAL/MEX-084,9
+457,guerrero,Chilpancingo - Acapulco,12045,MEX-095,20
+458,guerrero,Chilpancingo - Jilotepec,12002,MEX-093,8
+459,guerrero,Chilpancingo - Chichihualco,12426,MEX-095,3
+460,guerrero,Cuernavaca - Chilpancingo,00042,MEX-095,41
+461,guerrero,Cuernavaca - Acapulco (Cuota),00045,MEX-095D,49
+462,guerrero,Las Cruces - Pinotepa Nacional,00073,MEX-200,33
+463,guerrero,Las Petaquillas - Quechultenango, ,GRO,2
+464,guerrero,Milpillas - T. C. (Acapulco - Zihuatanejo),12012,MEX-196,5
+465,guerrero,Nueva Italia - Lázaro Cárdenas (Cuota),00032,MEX-037D,12
+466,guerrero,Puente de Ixtla - Iguala (Cuota),00043,MEX-091D,8
+467,guerrero,Pie de La Cuesta - Barra de Coyuca,12427,GRO,3
+468,guerrero,San Juan de Los Llanos - Ometepec,12011,MEX-200,3
+469,guerrero,Puerto Marqués - La Venta (Cuota),00043,GRO-D,6
+470,guerrero,Acapulco - Aeropuerto Acapulco,12292,GRO,8
+471,guerrero,T. C. (Iguala - Chilpancingo) - Atenango del Río,12001,GRO-001,5
+472,guerrero,Acapulco - Zihuatanejo,12072,MEX-200,24
+473,guerrero,Iguala - Cd. Altamirano,12195,MEX-051,8
+474,guerrero,Ent. Alpuyeca - Grutas de Cacahuamilpa,00421,MEX-166,11
+475,guerrero,Cd. Altamirano - T. C. (Zihuatanejo - La Mira),12422,MEX-134,4
+476,guerrero,Ramal a Aeropuerto Zihuatanejo,12423,MEX-200,2
+477,guerrero,Rancho Viejo - Taxco (Cuota),12010,MEX-092D,3
+478,guerrero,Libramiento Norte de Acapulco,12421,MEX-095,3
+479,guerrero,Ent. Potrero - Lomas de Chapultepec,12293,GRO,3
+480,guerrero,Libramiento de Técpan (Cuota),00073,MEX-200D,3
+481,guerrero,La Sabana - Puerto Marqués,12291,MEX-200,5
+482,guerrero,Ramal a Cocula,12082,GRO,2
+483,guerrero,Libramiento Poniente de Acapulco (Cuota), ,MEX-200D,4
+484,guerrero,Ramal a La Unión, ,MEX-200,2
+485,guerrero,Taxco - Ixcateopan,12083,GRO,2
+486,guerrero,Teloloapan - Apaxtla de Castrejón,12081,GRO,2
+487,guerrero,Tierra Colorada - Cruz Grande,12420,MEX-198,6
+488,guerrero,Tlapa de Comonfort - Marquelia, ,GRO,2
+489,guerrero,Toluca - Axixintla,00122,EM-MEX-055,27
+490,guerrero,Toluca - Cd. Altamirano,00020,MEX-134,19
+491,guerrero,Zacapalco - Rancho Viejo (Cuota),12010,MEX-092D,3
+492,guerrero,Zihuatanejo - La Mira,00121,MEX-200,25
+493,hidalgo,Álamo - Huejutla de Reyes,00116,MEX-127,5
+494,hidalgo,Ent. Colonia - Portezuelo,13257,MEX-085,17
+495,hidalgo,Ent. Tepeji del Río - Tlahuelilpan,13017,HGO-017,8
+496,hidalgo,Francisco I. Madero - Tula de Allende,13043,HGO,3
+497,hidalgo,Ent. Jorobas - Tula,00159,MEX-087,7
+498,hidalgo,Jilotepec - Maravillas,00015,EM-HGO,7
+499,hidalgo,Libramiento de Huichapan, ,MEX-045,5
+500,hidalgo,México - Pachuca (Cuota),00432,MEX-085D,17
+501,hidalgo,Los Reyes - El Tephé,00021,EM-HGO,20
+502,hidalgo,Pachuca - Tempoal,00113,MEX-105,23
+503,hidalgo,Portezuelo - Palmillas,00194,MEX-045,10
+504,hidalgo,Libramiento Norte de la Ciudad de México (Cuota),0902,MEX-055D,57
+505,hidalgo,México - Pachuca (Libre),00431,MEX-085,36
+506,hidalgo,Pachuca - Túxpam,00608,MEX-130,32
+507,hidalgo,Portezuelo - Cd. Valles,00023,MEX-085,21
+508,hidalgo,San Alejo - Huayacocotla,00132,HGO-051-VER-113,5
+509,hidalgo,México - Querétaro (Cuota),00411,MEX-057-MEX-057D,63
+510,hidalgo,Pachuca - Cd. Sahagún,13088,MEX,13
+511,hidalgo,T. C. (Los Reyes - El Tephé) - Tizayuca,00014,EM-HGO,3
+512,hidalgo,Calpulalpan - El Ocote,00054,MEX-HGO,12
+513,hidalgo,Cd. Sahagún - Ent. Emiliano Zapata,13255,HGO,7
+514,hidalgo,Huichapan - Tecozautla,13030,HGO-030,2
+515,hidalgo,Otumba - Tizayuca,00012,EM-HGO,8
+516,hidalgo,El Saucillo - Amealco,13103,HGO-103,5
+517,hidalgo,Apizaco - Tejocotal,00430,MEX-119,12
+518,hidalgo,Actopan - Progreso,13038,HGO,4
+519,hidalgo,Ent. Tulancingo - Venta Grande (Cuota),00026,MEX-132D,6
+520,hidalgo,Lolotla - Atlapexco,13238,HGO,3
+521,hidalgo,Ent. Tolman - Cd. Sahagún,00119,EM-009-HGO,5
+522,hidalgo,Libramiento de Atotonilco El Grande,13238,HGO,4
+523,hidalgo,San Felipe Orizatlán - Huejutla de Reyes,13258,HGO,2
+524,hidalgo,Santo Domingo - T. C. (México - Querétaro),00433,EM-011-HGO,9
+525,hidalgo,Ramal a El Chico,13256,HGO,2
+526,hidalgo,Ramal a Pachuca,13254,HGO,3
+527,hidalgo,Tamazunchale - San Felipe Orizatlán,00609,MEX-085,3
+528,hidalgo,Tejocotal - Nuevo Necaxa (Cuota),00211,MEX-132D,6
+529,hidalgo,Tepeji del Río - T.C. (México - Querétaro),13104,HGO,2
+530,hidalgo,Tlahuelilpan - San Agustín Tlaxiaca,13435,HGO,3
+531,hidalgo,Tlaxco - Tejocotal (Cuota),00209,PUE-TLAX-HGO-D,5
+532,hidalgo,Venta de Carpio - T. C. (Pachuca - Túxpam),00455,MEX-132,27
+533,jalisco,Autlán de Navarro - T. C. (Colima - Cd. Guzmán),14589,JAL,8
+534,jalisco,Encarnación de Díaz - San Juan de los Lagos, ,JAL-212,4
+535,jalisco,Ameca - Mascota,14071,MEX-070,3
+536,jalisco,Ent. Penitenciaría - Villa Hidalgo,00120,MEX-071,6
+537,jalisco,Guadalajara - Colima (Cuota),00118,MEX-054D,25
+538,jalisco,Ent. Santa Cruz - Melaque,14118,MEX-080,15
+539,jalisco,Colima - Cd. Guzmán,00117,MEX-054,17
+540,jalisco,Irapuato - Zapotlanejo,00114,MEX-090,37
+541,jalisco,Guadalajara - Tepic,00031,MEX-015,37
+542,jalisco,Guadalajara - Zacatecas,00150,MEX-054,17
+543,jalisco,Jiquilpan - Colima,00156,MEX-110,20
+544,jalisco,Lagos de Moreno - Guadalajara,14115,MEX-080,33
+545,jalisco,El Desperdicio - Encarnación de Díaz, ,JAL-307,4
+546,jalisco,El Refugio - San Marcos,14027,JAL-004,4
+547,jalisco,Ent. Tesistán - Ent. Malpaso,00584,MEX-023,13
+548,jalisco,Ent. Jalostotitlán - Villa Hidalgo,14009,JAL-009,4
+549,jalisco,León - Aguascalientes (Cuota),00013,MEX-045D,27
+550,jalisco,Manzanillo - Puerto Vallarta,00070,MEX-200,27
+551,jalisco,Lagos de Moreno - Unión de San Antonio,14581,JAL,2
+552,jalisco,León - Aguascalientes,00167,MEX-045,36
+553,jalisco,Jiquilpan - Guadalajara,00429,MEX-015,18
+554,jalisco,Guadalajara - Tepic (Cuota),00033,MEX-015D,29
+555,jalisco,Lagos de Moreno - Villa de Arriaga (Cuota), ,MEX-080D,6
+556,jalisco,Maravatío - Zapotlanejo (Cuota),00018,MEX-015D,48
+557,jalisco,San Isidro El Grande - Bajío de San José,00526,AGS-036,4
+558,jalisco,San Luis Potosí - Lagos de Moreno,00133,MEX-070-080,14
+559,jalisco,Ojuelos - Aguascalientes,00094,MEX-070,15
+560,jalisco,Ramal a Teocuitatlán de Corona,14566,JAL,2
+561,jalisco,Santa Rosa - La Barca,14007,MEX-035,12
+562,jalisco,T. C. (Jiquilpan - Colima) - Est. Huescalapa,14225,MEX-110,4
+563,jalisco,Acatlán de Juárez - Cd. Guzmán,14221,JAL,6
+564,jalisco,Guadalajara - Ent. Jocotepec,14222,MEX-023,16
+565,jalisco,Atenquique - San Pedro,14224,MEX-054,2
+566,jalisco,Ixtlahuacán del Río - T. C. (Tepatitlán - Yahualica),14582,JAL,3
+567,jalisco,Crucero de Santa María - Ameca,14573,JAL,3
+568,jalisco,Libramiento de Lagos de Moreno, ,MEX-080,3
+569,jalisco,La Barca - San Miguel El Alto,14005,JAL-005-MEX-071,6
+570,jalisco,Ent. Ojo Caliente - Ent. Ojuelos de Jalisco,00126,ZAC,4
+571,jalisco,Guadalajara - Tesistán,14012,MEX-023,13
+572,jalisco,Jalostotitlán - Purísima de Bustos,00142,JAL-GTO,5
+573,jalisco,Libramiento Valle de Guadalupe,14115,MEX-080,2
+574,jalisco,Libramiento de Mazamitla,14014,JAL,2
+575,jalisco,Libramiento Sur de Guadalajara (Cuota), ,MEX-090D,19
+576,jalisco,Ramal a Ameca,14223,MEX-070,8
+577,jalisco,Ramal a Tomatlán,14558,MEX-200,2
+578,jalisco,Libramiento Norte de la Piedad (Cuota), ,MEX-110D,10
+579,jalisco,Pilotos - Los Campos,00007,AGS-030,3
+580,jalisco,Sayula - Venustiano Carranza,14585,JAL,3
+581,jalisco,Ramal a Cerca Lisa, ,MEX-054,2
+582,jalisco,Dolores Hidalgo - Ojuelos de Jalisco,00107,MEX-051,6
+583,jalisco,León - San Felipe Torres Mochas,11036,GTO,6
+584,jalisco,Mazamitla - Tuxcueca,14011,JAL,2
+585,jalisco,Libramiento de Zapotlanejo,14013,JAL,2
+586,jalisco,Manuel Doblado - La Piedad,11028,MEX-084,6
+587,jalisco,Libramiento de Melaque, ,MEX-200,2
+588,jalisco,Mascota - Puerto Vallarta,00070,JAL,3
+589,jalisco,Ramal a Jesús María,14004,JAL-004,2
+590,jalisco,Ramal a Tapalpa,14022,JAL-022,2
+591,jalisco,San Juan de los Lagos - Encarnación de Díaz (Cuota), ,MEX-080D,2
+592,jalisco,San Clemente - Ent. Las Cruces,14070,JAL,2
+593,jalisco,Tepatitlán - Las Adjuntas,00141,JAL/MEX-084,9
+594,jalisco,Tepatitlán - Yahualica,00146,MEX-071,3
+595,jalisco,Tepic - Puerto Vallarta (Cuota), ,MEX-200D,10
+596,jalisco,Tepic - Puerto Vallarta,296,MEX-200D,35
+597,jalisco,Valle de Guadalupe - Mexticacán,14593,JAL,2
+598,jalisco,Tototlán - Ocotlán,14583,JAL,2
+599,jalisco,Yahualica - Jaralillo, ,JAL-ZAC,8
+600,jalisco,Zapotlanejo - Guadalajara (Cuota),14114,MEX-090D,12
+601,jalisco,Zapotlanejo - Lagos de Moreno (Cuota),14116,MEX-080D,23
+602,mexico,Autlán de Navarro - T. C. (Colima - Cd. Guzmán),14589,JAL,8
+603,mexico,Circuito Exterior Mexiquense (Cuota), ,EM-D-MEX-057-D,16
+604,mexico,Amomolulco - Texcalyacac,15059,EM,10
+605,mexico,El Monumento - Tingambato,15039,MEX-EM,7
+606,mexico,Amomolulco - T. C. (Toluca - Palmillas),15022,EM-036,18
+607,mexico,Atlacomulco - Maravatío (Cuota),00018,MEX-015D,15
+608,mexico,Ent. Tolman - Cd. Sahagún,00119,EM-009-HGO,5
+609,mexico,Ent. La Puerta - San Miguel Totolmaloya,15003,EM-010,6
+610,mexico,Chalco - Tláhuac,00170,EM-CDMX,5
+611,mexico,Chalco - Mixquic,00171,EM-CDMX,4
+612,mexico,Cuadrilla de López - Zacazonapan, ,EM-050,3
+613,mexico,Ixtlahuaca de Rayón - Naucalpan,15004,EM-003,13
+614,mexico,Jilotepec - Maravillas,00015,EM-HGO,7
+615,mexico,Ecatepec - Pirámides (Cuota),15061,MEX-132D,13
+616,mexico,Libramiento Norte de la Ciudad de México (Cuota),0902,MEX-055D,57
+617,mexico,Ent. Cruz de La Misión - San Nicolás Coatepec,15009,EM-005,3
+618,mexico,Los Reyes - Zacatepec,00052,MEX-136,61
+619,mexico,Lerma - Tenango (Cuota), ,EM-D,3
+620,mexico,México - Querétaro (Cuota),00411,MEX-057-MEX-057D,63
+621,mexico,México - Toluca,00447,MEX-015,25
+622,mexico,Naucalpan - Toluca,15056,MEX-134,17
+623,mexico,Libramiento Sur de Acambay, ,MEX-055,2
+624,mexico,Las Juntas - Ixtapan de La Sal,15023,EM-012,5
+625,mexico,La Marquesa - Tenango de Arista,15008,EM-006,6
+626,mexico,Polotitlán - Taxhie, ,EM-623,3
+627,mexico,Puente Grande - San José del Vidrio,15016,EM-021,4
+628,mexico,Otumba - Tizayuca,00012,EM-HGO,8
+629,mexico,San Bernardino - Tepexpan,15053,MEX-142,12
+630,mexico,México - Pachuca (Libre),00431,MEX-085,36
+631,mexico,México - Pachuca (Cuota),00432,MEX-085D,17
+632,mexico,México - Puebla (Cuota),00450,MEX-150D,62
+633,mexico,San Felipe del Progreso - Carmona,15036,EM-003,3
+634,mexico,San Alejo - Los Sabinos,15038,EM-007,2
+635,mexico,Santo Domingo - T. C. (México - Querétaro),00433,EM-011-HGO,9
+636,mexico,Santa Bárbara - Izúcar de Matamoros,00451,MEX-115-160,56
+637,mexico,Santiago Tianguistenco - Chalma,15013,EM-004,7
+638,mexico,San Pedro Barrientos - Ecatepec,15015,EM,10
+639,mexico,Ocoyoacac - Santiago Tianguistenco,15021,EM,9
+640,mexico,Santa Elena - Coacalco,15057,EM,4
+641,mexico,T. Aut. (Peñón-Texcoco) - Ent. Acolman, ,MEX-136D,4
+642,mexico,T. C. (Atlacomulco - Morelia) - Temascalcingo,15019,EM-033,4
+643,mexico,T. C. (Chalco - Mixquic) - Temamatla,15075,EM,3
+644,mexico,T. C. (Dos Casas - Ixtapan del Oro) - Donato Guerra,15034,EM-057,2
+645,mexico,T. C. (El Monumento - Tingambato) - Donato Guerra,15035,EM,2
+646,mexico,T. C. (Ixtlahuaca de Rayón - Naucalpan) - Mayorazgo,15067,EM-004,4
+647,mexico,T. C. (Ixtlahuaca de Rayón - Naucalpan) - Temoaya,15577,EM,4
+648,mexico,T. C. (Los Reyes - El Tephé) - Tianguistongo,15051,EM,4
+649,mexico,T. C. (Los Reyes - El Tephé) - Tizayuca,00014,EM-HGO,3
+650,mexico,Acambay - San José Ixtapa,15037,EM,3
+651,mexico,Atlacomulco - Morelia,00151,EM-005-MEX-126,16
+652,mexico,Ent. Jorobas - Tula,00159,MEX-087,7
+653,mexico,Chamapa - Lechería (Cuota),15003,MEX-057D,8
+654,mexico,La Marquesa - Río Hondo,15007,EM-005,4
+655,mexico,Lechería - Apaxco,15018,EM-006,9
+656,mexico,Ixtlahuaca de Rayón - San Felipe del Progreso,15005,EM,3
+657,mexico,Libramiento Nororiente de Toluca (Cuota), ,EM-D,8
+658,mexico,Los Reyes - El Tephé,00021,EM-HGO,20
+659,mexico,La Venta - Chamapa (Cuota),15014,EM-D,10
+660,mexico,Libramiento Amecameca - Nepantla (Cuota), ,MEX-115D,7
+661,mexico,Ramal al Circuito Exterior Mexiquense (Cuota), ,EM-D,8
+662,mexico,México - Puebla (Libre),00449,MEX-150,27
+663,mexico,San Gregorio - Oaxtepec,00901,MEX-113,11
+664,mexico,San Luis Mextepec - Valle de Bravo,15001,EM-001,5
+665,mexico,Ramal al AIFA (Cuota), ,MEX-057D,3
+666,mexico,Chalco - San Mateo Tezoquiapan,15171,EM,8
+667,mexico,Cuautitlán - Zumpango de Ocampo,15020,EM-035,5
+668,mexico,Dos Casas - Ixtapan del Oro,15033,EM-002,2
+669,mexico,La Marquesa - Lerma (Cuota), ,MEX-015D,5
+670,mexico,Nicolás Romero - T. C. (Ixtlahuaca de R. - Naucalpan),15026,EM-043,3
+671,mexico,Libramiento de Amecameca, ,MEX-115,3
+672,mexico,Ramal a C.I.C.I.T.E.C.,00143,EM,2
+673,mexico,Ramal a Valle de Bravo (Cuota), ,EM-D,3
+674,mexico,Libramiento San Martín de Las Pirámides, ,MEX-132,7
+675,mexico,San Martín de Las Pirámides - San Miguel Atlamajac,15012,EM,3
+676,mexico,Jilotepec - San Agustín,15046,EM,3
+677,mexico,Mexicalcingo - Xalatlaco,15028,EM-044,6
+678,mexico,Peñón - Texcoco (Cuota),15010,MEX-136D,5
+679,mexico,Ramal a Base Militar Santa Lucía, ,MEX-085,3
+680,mexico,Libramiento de Tlalmanalco de Velázquez, ,MEX-115,4
+681,mexico,Santa María Ajoloapan - Tianguistongo,15058,EM,2
+682,mexico,México - Toluca (Cuota),00446,MEX-015D,15
+683,mexico,T. C. (San Gregorio - Oaxtepec) - Juchitepec,15575,MEX-113,2
+684,mexico,T. C. (México - Puebla (Libre)) - San Vicente,15041,EM,5
+685,mexico,T. C. (Santa Bárbara - Huajuapan) - Tepetlixpa,15570,EM,7
+686,mexico,T. C. (México - Mixquic) - San Pablo Atlazalpan,00044,EM-106-CDMX,3
+687,mexico,T. C. (Atlacomulco - Morelia) - San Felipe del Progreso,15006,EM,4
+688,mexico,T. C. (Santa Bárbara - Huajuapan) - Tlamacas,15073,MEX-115,4
+689,mexico,T. C. (Toluca - Cd. Altamirano) - Valle de Bravo,15572,EM,3
+690,mexico,T. C. (Toluca - Morelia) - Almoloya de Juárez,15029,EM-046,3
+691,mexico,T. C. (Toluca - Morelia) - San Nicolás Guadalupe, ,EM-383,6
+692,mexico,T. C. (Toluca - Palmillas) - Agostadero,15049,EM,2
+693,mexico,T. C. (Toluca - Palmillas) - Jocotitlán,15052,EM,4
+694,mexico,T. C. (V. Victoria - El Oro de Hidalgo) - Angangueo,00195,EM-003-MICH,4
+695,mexico,T. C. (Toluca - Palmillas) - Jiquipilco,15032,EM-053,12
+696,mexico,Tecámac - Ent. Atlatongo,15070,EM,3
+697,mexico,Tejupilco de Hidalgo - Tlatlaya,15060,EM-008,2
+698,mexico,Temascaltepec de González - El Fresno, ,EM-086,4
+699,mexico,Temascaltepec de González - Zuluapan, ,EM-071,4
+700,mexico,Tenancingo de Degollado - San Andrés Nicolás Bravo,15043,EM,5
+701,mexico,Tenancingo - San Simón El Alto,15042,EM,3
+702,mexico,Tenancingo - Chalma,15024,EM,3
+703,mexico,Tenango del Aire - Amecameca,15074,EM,2
+704,mexico,Teoloyucan - Jaltenco,15076,EM,2
+705,mexico,Tepexpan - San Juan Teotihuacán,15055,EM,3
+706,mexico,Texcaltitlán - Zacualpan,15031,EM-007,3
+707,mexico,Texcoco - San Miguel Tlaixpan,15040,EM,4
+708,mexico,Tlalnepantla - San Gabriel,15002,EM-005-004,14
+709,mexico,Toluca - Axixintla,00122,EM-MEX-055,27
+710,mexico,Toluca - Ixtapan de La Sal (Cuota), ,EM-D,4
+711,mexico,Toluca - Cd. Altamirano,00020,MEX-134,19
+712,mexico,Toluca - Morelia,00448,MEX-015,40
+713,mexico,Toluca - Palmillas,00496,EM(D)-MEX-055,41
+714,mexico,Toluca - Naucalpan (Cuota), ,EM-D,10
+715,mexico,Toluca - Zitácuaro (Cuota), ,EM-D,6
+716,mexico,Tres Marías - Santa Martha,00172,MEX-106-EM,4
+717,mexico,Ramal al Aeropuerto Internacional Felipe Angeles, ,MEX-085,3
+718,mexico,Venta de Carpio - T. C. (Pachuca - Túxpam),00455,MEX-132,27
+719,mexico,Via Perimetral AIFA, ,MEX-085,7
+720,mexico,Villa del Carbón - Atlacomulco,15011,EM-005,6
+721,mexico,Viaducto Bicentenario, ,EM-D,4
+722,mexico,Villa Victoria - El Oro de Hidalgo,15025,EM-014-004,3
+723,mexico,Xalatlaco - El Ajusco,00017,EM-CDMX,3
+724,michoacan,Carapan - Playa Azul,16126,MEX-037,26
+725,michoacan,Atlacomulco - Maravatío (Cuota),00018,MEX-015D,15
+726,michoacan,Ent. Playa Azul - Manzanillo,00495,MEX-200,30
+727,michoacan,Atlacomulco - Morelia,00151,EM-005-MEX-126,16
+728,michoacan,Cotija - Emiliano Zapata,16024,MICH,2
+729,michoacan,Gabriel Zamora - Dr. Miguel Silva,00032,MICH,2
+730,michoacan,Jacona - Buenavista Tomatlán,16016,MICH-016,7
+731,michoacan,La Noria - Acámbaro,00131,MEX-120,8
+732,michoacan,Cuitzeo - Zináparo,16027,MICH-027,6
+733,michoacan,Libramiento de Ciudad Hidalgo, ,MEX-015,3
+734,michoacan,Libramiento Poniente de Morelia (Cuota), ,MEX-014D,6
+735,michoacan,Jiquilpan - Guadalajara,00429,MEX-015,18
+736,michoacan,Ent. Patti - Sahuayo,16181,MEX-110,11
+737,michoacan,Morelia - Jiquilpan,16029,MEX-015,38
+738,michoacan,Pátzcuaro - Uruapan (Cuota),16011,MEX-014D,11
+739,michoacan,Opopeo - Puruarán,16241,MEX-041-MICH,3
+740,michoacan,Maravatío - Zapotlanejo (Cuota),00018,MEX-015D,48
+741,michoacan,Libramiento Oriente de Zamora, ,MEX-015,4
+742,michoacan,Morelia - Salamanca,00124,MEX-043,24
+743,michoacan,Nueva Italia - Lázaro Cárdenas (Cuota),00032,MEX-037D,12
+744,michoacan,Rinconada - La Piedad,16243,MEX-015,12
+745,michoacan,San Juan Tumbio - Cherán,16556,MICH,3
+746,michoacan,Quiroga - Tepalcatepec,16125,MEX-120,26
+747,michoacan,Acámbaro - Zinapécuaro,00417,MEX-120,3
+748,michoacan,T. C. (Carapan - Playa Azul) - Peribán de Ramos,16556,MICH,2
+749,michoacan,Apatzingán - Aguililla,16591,MICH,2
+750,michoacan,El Temascal - El Limón,16014,MICH,2
+751,michoacan,Jiquilpan - Colima,00156,MEX-110,20
+752,michoacan,Libramiento de Yurécuaro, ,MEX-110,2
+753,michoacan,Irapuato - Zapotlanejo,00114,MEX-090,37
+754,michoacan,La Paz - Tepetongo,16557,MICH,3
+755,michoacan,Libramiento de la Piedad,280-01,MEX-110D,5
+756,michoacan,Pátzcuaro - Uruapan,16484,MEX-014,9
+757,michoacan,Morelia - Pátzcuaro,16009,MEX-014,16
+758,michoacan,Pátzcuaro - Chupícuaro,16241,MICH,3
+759,michoacan,La Piedad - Carapan,16476,MEX-037,7
+760,michoacan,Maravatío - Acámbaro,00418,MEX-061,4
+761,michoacan,Morelia - Salamanca (Cuota),00124,MEX-043D,13
+762,michoacan,Ramal a Infiernillo,16010,MICH-010,2
+763,michoacan,El Correo - Lagunillas,16014,MICH,2
+764,michoacan,Comanja - Huaniqueo,16024,MICH-024,2
+765,michoacan,Libramiento de Uruapan,16425,MICH,4
+766,michoacan,Huajúmbaro - San José,16555,MEX-051-120,7
+767,michoacan,La Orilla - Las Truchas,16557,MEX-200,5
+768,michoacan,Libramiento Norte de la Piedad (Cuota), ,MEX-110D,10
+769,michoacan,San Felipe Alzati - Angangueo,16556,MICH-044,2
+770,michoacan,Ramal a Coahuayana,16069,MICH-069,2
+771,michoacan,T. C. (Toluca - Morelia) - Maravatío,16584,MICH-122,5
+772,michoacan,Tepalcatepec - Aquila,16421,MICH,3
+773,michoacan,T. C. (Zihuatanejo - La Mira) - Lázaro Cárdenas,16421,MEX-200,4
+774,michoacan,Tiripetío - Eréndira,16422,MICH,4
+775,michoacan,Tocumbo - Cotija,16042,MICH-042,2
+776,michoacan,Toluca - Cd. Altamirano,00020,MEX-134,19
+777,michoacan,T. C. (V. Victoria - El Oro de Hidalgo) - Angangueo,00195,EM-003-MICH,4
+778,michoacan,Toluca - Morelia,00448,MEX-015,40
+779,michoacan,Ucareo - T. C. (Toluca - Morelia),00448,MICH,5
+780,michoacan,Uruapan - El Copetiro,00448,MICH,3
+781,michoacan,Uruapan - Nueva Italia (Cuota),00032,MEX-037D,8
+782,michoacan,Zamora - Vista Hermosa,16242,MEX-035,4
+783,michoacan,Zacapu - Villachuato,16039,MICH-039,5
+784,michoacan,Zicuirán - Churumuco,16242,MICH,2
+785,michoacan,Zihuatanejo - La Mira,00121,MEX-200,25
+786,michoacan,Zitácuaro - Cd. Altamirano,16006,MEX-051,8
+787,morelos,Atlatlahucan - Tlayacapan,17301,MOR-002,5
+788,morelos,Cuernavaca - Acapulco (Cuota),00045,MEX-095D,49
+789,morelos,Cuernavaca - Chilpancingo,00042,MEX-095,41
+790,morelos,Amayuca - Izúcar de Matamoros,00030,MOR-031-PUE,15
+791,morelos,Cuernavaca - Cuautlixco,17199,MEX-138,25
+792,morelos,Alpuyeca - Jojutla,17021,MOR-021,8
+793,morelos,Amayuca - Tlacotepec,17020,MOR-017,4
+794,morelos,Ent. Alpuyeca - Grutas de Cacahuamilpa,00421,MEX-166,11
+795,morelos,Ent. C. (Cuernavaca - Acapulco Cuota) - Tepetzingo,00421,MOR,2
+796,morelos,Galeana - Cuautla,17004,MOR-004,11
+797,morelos,Cuernavaca - Tepoztlán,17198,MEX-162,6
+798,morelos,Ent. Chiverías - Ent. El Abanico,17302,MOR,3
+799,morelos,Jojutla - Chinameca,17310,MOR,3
+800,morelos,Los Alacranes - Ocuituco, ,MOR,2
+801,morelos,México - Cuernavaca (Cuota),00041,MEX-095D,16
+802,morelos,Libramiento de Cuautla,17309,MEX-160,3
+803,morelos,Libramiento de Cuernavaca,17400,MEX-095,21
+804,morelos,Ramal a Aeropuerto de Cuernavaca,17250,MOR,2
+805,morelos,La Pera - Cuautla (Cuota),17161,MEX-160D,24
+806,morelos,Moyotepec - San Rafael,17306,MOR,2
+807,morelos,Ramal a Coatetelco,17304,MOR,2
+808,morelos,Santa Bárbara - Izúcar de Matamoros,00451,MEX-115-160,56
+809,morelos,San Gregorio - Oaxtepec,00901,MEX-113,11
+810,morelos,T. C. (México - Cuernavaca (Libre)) - Huitzilac,00451,MOR,2
+811,morelos,Coatetelco - Miacatlán, ,MOR,2
+812,morelos,Cocoyoc - Oaxtepec,17001,MOR,5
+813,morelos,Jantetelco - El Higuerón (Cuota), ,MEX-094D,5
+814,morelos,Libramiento Amecameca - Nepantla (Cuota), ,MEX-115D,7
+815,morelos,México - Cuernavaca (Libre),00040,MEX-095,18
+816,morelos,Michapa - T. C. (Cuernavaca - Chilpancingo),17303,MEX-166,2
+817,morelos,Jojutla - El Higuerón,17039,MOR-039,2
+818,morelos,Paso por Yautepec,17025,MOR,4
+819,morelos,Atlixco - Jantetelco (Cuota),00430,PUE-D,3
+820,morelos,Ent. C. (Cuernavaca - Cuautlixco) - Oacalco,00421,MOR,2
+821,morelos,Puente de Ixtla - Iguala (Cuota),00043,MEX-091D,8
+822,morelos,Ramal a Tetela del Volcán,17010,MOR-010,5
+823,morelos,Mazatepec - T. C. Ramal a Michapa, ,MOR,2
+824,morelos,Ramal a Jolalpan,00143,MOR-PUE,3
+825,morelos,T. C. (Coatetelco - Miacatlán) - Mazatepec, ,MOR,2
+826,morelos,Pilares - T. C. (Xoxocotla - Tilzapotla),17008,MOR-008,3
+827,morelos,Tehuixtla - Puente de Ixtla,17307,MOR,3
+828,morelos,T. C. (San Gregorio - Oaxtepec) - Jojutla,17002,MOR-002,9
+829,morelos,Tejalpa - Jojutla,17014,MOR-014,10
+830,morelos,Temilpa - Tepalcingo,17009,MOR-009,2
+831,morelos,Tepoztlán - Yautepec,17013,MOR-013,2
+832,morelos,Tequesquitengo - Jojutla,17013,MOR,3
+833,morelos,Tres Marías - Santa Martha,00172,MEX-106-EM,4
+834,morelos,Xoxocotla - Tilzapotla,17005,MOR-006,5
+835,morelos,Zacatepec - Tlaquiltenango,17300,MOR,2
+836,nayarit,Chapalilla - Compostela (Cuota),18004,MEX-068D,5
+837,nayarit,Ent. Acaponeta - El Novillero,18023,MEX-015,4
+838,nayarit,Guadalajara - Tepic,00031,MEX-015,37
+839,nayarit,Ent. Santiago Ixcuintla - Playa Los Corchos,18016,MEX-015,8
+840,nayarit,Guadalajara - Tepic (Cuota),00033,MEX-015D,29
+841,nayarit,Libramiento de Tepic (Cuota), ,MEX-015D,4
+842,nayarit,Ramal a Estación Ruíz,18026,MEX-015,2
+843,nayarit,Ramal a Nuevo Aeropuerto de Tepic,18012,MEX-015,2
+844,nayarit,Ramal a La Laguna de Santa María,18005,MEX-015,4
+845,nayarit,Ramal a Estación Nanchi,18068,MEX-015,2
+846,nayarit,Ramal a Ixtapa de La Concepción,18233,NAY,2
+847,nayarit,Ramal a Volcán del Ceboruco,18003,NAY,2
+848,nayarit,San Blas - Santa Cruz,18230,MEX-015,4
+849,nayarit,El Carrizo - La Batanga,18107,NAY-078,3
+850,nayarit,Ramal a Acaponeta,18038,MEX-015,3
+851,nayarit,Libramiento de Tepic,290,MEX-015D,5
+852,nayarit,Ramal a Santa Cruz,18030,MEX-015,2
+853,nayarit,Ramal a Punta Mita,18020,MEX-200,3
+854,nayarit,Ramal a Bellavista,18059,NAY-059,2
+855,nayarit,Ramal a Villa Hidalgo,18031,NAY,2
+856,nayarit,Ramal a Estación Yago,18224,NAY,2
+857,nayarit,Crucero de San Blas - San Blas,18229,MEX-015,3
+858,nayarit,Jala - Las Caleras (Cuota), ,MEX-070D,5
+859,nayarit,Ramal a Amado Nervo,18011,NAY,2
+860,nayarit,Ramal a Mecatán,18010,MEX-015,2
+861,nayarit,Peñitas - Tuxpan,18019,MEX-015,2
+862,nayarit,Navarrete - Sauta,18013,NAY-013,2
+863,nayarit,Ramal a El Colomo,18014,NAY,4
+864,nayarit,Ramal a Milpas Viejas,18007,NAY,2
+865,nayarit,Ramal a Tequepexpan,00068,MEX-015D,2
+866,nayarit,Tepic - Francisco I. Madero,18009,NAY-MEX-015,3
+867,nayarit,Tepic - Presa Aguamilpa,18029,MEX-015,4
+868,nayarit,Tepic - Ixtapa de La Concepción,18028,MEX-015,6
+869,nayarit,Tepic - Puerto Vallarta (Cuota), ,MEX-200D,10
+870,nayarit,Tepic - Mazatlán,00499,MEX-015,43
+871,nayarit,Tepic - Puerto Vallarta,296,MEX-200D,35
+872,nayarit,Tepic - San Blas (Cuota), ,MEX-D,2
+873,nayarit,Tepic - Villa Unión (cuota),00500,MEX-015D,28
+874,nuevo leon,Apodaca - Villa Juárez,00087,NL,12
+875,nuevo leon,Cadereyta - Reynosa (Cuota),19002,MEX-040D,11
+876,nuevo leon,Cadereyta de Jiménez - Doctor González,19473,NL,3
+877,nuevo leon,Cd. Benito Juárez - Villa de Santiago,00087,NL,5
+878,nuevo leon,Cadereyta de Jiménez - Allende,19009,MEX-009,6
+879,nuevo leon,Ciudad Victoria - Monterrey,00462,MEX-085,41
+880,nuevo leon,Libramiento Noroeste de Monterrey,19085,MEX-040,14
+881,nuevo leon,Gral. Treviño - Villaldama,19003,NL-003,5
+882,nuevo leon,China - Méndez,00191,NL-TAM,3
+883,nuevo leon,Matehuala - Ent. Puerto México,00405,MEX-057,19
+884,nuevo leon,Monterrey - Cadereyta (Cuota),19281,NL-D,6
+885,nuevo leon,Monterrey - Colombia,19001,NL-001,13
+886,nuevo leon,Monterrey - Nuevo Laredo (Cuota),19086,MEX-085D,16
+887,nuevo leon,Monterrey - Nuevo Laredo (Libre),00463,MEX-085,28
+888,nuevo leon,Monterrey - Mier,00127,MEX-054,17
+889,nuevo leon,Libramiento de China, ,MEX-040,2
+890,nuevo leon,Monterrey - Reynosa (Libre),00088,MEX-040,19
+891,nuevo leon,Nuevo Laredo - Piedras Negras,00503,MEX-002,13
+892,nuevo leon,Salinas Victoria - Ciénega de Flores,19007,NL,3
+893,nuevo leon,Monterrey - Castaños,00128,MEX-053,13
+894,nuevo leon,Puerto México - La Carbonera (Cuota),00115,MEX-057D,14
+895,nuevo leon,Montemorelos - China,19280,MEX-035,4
+896,nuevo leon,Santa Rosa - Mezquital,00087,NL,3
+897,nuevo leon,Anillo Periférico de Monterrey (Cuota),19004,NL-D,7
+898,nuevo leon,Aeropuerto de Monterrey (Cuota), ,NL-D,4
+899,nuevo leon,Hacienda Guadalupe - Higueras,19006,NL-006,4
+900,nuevo leon,Doctor Arroyo - Mier y Noriega,19088,NL-088,2
+901,nuevo leon,Matehuala - La Poza,00086,SLP-029-NL-061,5
+902,nuevo leon,Gral. Bravo - Los Aldamas,19030,NL-030,2
+903,nuevo leon,Libramiento de Montemorelos,19492,NL,3
+904,nuevo leon,Libramiento de Linares,19506,NL,3
+905,nuevo leon,Puerto México - La Encantada,05002,MEX-057,4
+906,nuevo leon,Paras - Nueva Ciudad Guerrero,00476,MEX-030,3
+907,nuevo leon,Linares - Ent. San Roberto,19031,MEX-058,4
+908,nuevo leon,Monclova - Estación Candela,00501,COA-030-NL,5
+909,nuevo leon,Peña Blanca - Cd. Camargo,00102,NL-TAM,3
+910,nuevo leon,Santa Rosa - Salinas Victoria,19037,NL,4
+911,nuevo leon,Ramal a Cerralvo,19013,NL-013,3
+912,nuevo leon,Palo Alto - Vallecillos,19036,NL,2
+913,nuevo leon,Atongo - Lazarillos, ,NL,2
+914,nuevo leon,Agualeguas - El Ébano,19004,NL-023,2
+915,nuevo leon,Ent. Hacienda del Cielo - T. Der. Cadereyta, ,NL,2
+916,nuevo leon,Ent. Huisachito - Nuevo Laredo,00074,NL-001-TAM,4
+917,nuevo leon,Libramiento de Dr. González,00127,MEX-054,2
+918,nuevo leon,Libramiento Poniente de Cadereyta,19085,NL,2
+919,nuevo leon,Los Guerra - Los Herreras,19031,TAM-NL,3
+920,nuevo leon,La Unión - El Encadenado, ,MEX,2
+921,nuevo leon,Saltillo - Monterrey,00087,MEX-040,18
+922,nuevo leon,Ramal a Marín,19007,NL,2
+923,nuevo leon,Saltillo - Monterrey (Cuota),00087,MEX-040D,8
+924,nuevo leon,Libramiento de Sabinas Hidalgo,19492,NL,2
+925,nuevo leon,Ramal a Aeropuerto Mariano Escobedo,19510,MEX-054,3
+926,nuevo leon,Ramal a 18 de Marzo,19475,NL,2
+927,oaxaca,Cuacnopalan - Oaxaca (Cuota),00109,MEX-135D,19
+928,oaxaca,Coatzacoalcos - Salina Cruz,00147,MEX-185,53
+929,oaxaca,Cd. Alemán - Sayula,00301,MEX-145,13
+930,oaxaca,Cd. Ixtepec - Guevea de Humboldt,00301,OAX,5
+931,oaxaca,Ent. La Ventosa - San Pedro Tapanatepec,20059,MEX-190,9
+932,oaxaca,Huajuapan de León - El Carrizal,00109,OAX,5
+933,oaxaca,Huajuapan de León - Oaxaca,20056,MEX-190,16
+934,oaxaca,Libramiento de Ejutla, ,MEX-175,3
+935,oaxaca,Mitla - Tehuantepec (Cuota), ,MEX-190D,9
+936,oaxaca,Libramiento de Santa María del Tule, ,MEX-190,2
+937,oaxaca,Loma Bonita - Mixtán,20043,OAX,6
+938,oaxaca,Oaxaca - Puerto Ángel,20091,MEX-175,27
+939,oaxaca,Libramiento de San Pedro Tapanatepec, ,MEX-200,3
+940,oaxaca,Ramal a Monte Albán, ,MEX,4
+941,oaxaca,Oaxaca - Tehuantepec,20057,MEX-190,25
+942,oaxaca,Ramal a Unión Hidalgo,20044,OAX,3
+943,oaxaca,Santiago Pinotepa Nacional - Salina Cruz,20074,MEX-200,59
+944,oaxaca,El Zapote - Copalita,00109,OAX,3
+945,oaxaca,Buenavista - Tuxtepec,00624,MEX-175,14
+946,oaxaca,San Antonio - Puerto Angel, ,OAX,4
+947,oaxaca,Acceso al Puerto Salina Cruz, ,MEX-090,2
+948,oaxaca,Libramiento de Ocotlán Oax., ,MEX-175,3
+949,oaxaca,Juchitán - Ixtepec,20359,MEX-185,9
+950,oaxaca,Las Cruces - Pinotepa Nacional,00073,MEX-200,33
+951,oaxaca,Libramiento de Pochutla, ,MEX-200,4
+952,oaxaca,La Granja - Temascal,00275,MEX-145,3
+953,oaxaca,Salina Cruz - La Ventosa (Cuota),00275,MEX-185D,9
+954,oaxaca,Ramal a Refinería Pemex (Refinería del Pacifico), ,MEX,3
+955,oaxaca,Puebla - Huajuapan de León,00049,MEX-190,23
+956,oaxaca,San Pablo Villa de Mitla - T. C. (Tuxtepec - Palomares),00106,MEX-179,5
+957,oaxaca,Ramal a Reforma de Pineda,20010,OAX,2
+958,oaxaca,T. C. (Oaxaca - Puerto Ángel) - Puerto Escondido,20009,MEX-OAX-161,11
+959,oaxaca,Ramal a Asunción Ixtaltepec,20624,MEX-185,2
+960,oaxaca,Tapanatepec - Talismán,00075,MEX-200,74
+961,oaxaca,Tehuacán - Huitzo,00211,PUE-MEX-135,10
+962,oaxaca,Tapanatepec - Tuxtla Gutiérrez,00060,MEX-190,23
+963,oaxaca,Tehuacán - Huajuapan de León,00211,MEX-125,8
+964,oaxaca,Tuxtepec - Ent. Palomares,00180,MEX-147,10
+965,oaxaca,Teotitlán de Flores Magón - Tuxtepec,00108,OAX-PUE-MEX-182,6
+966,oaxaca,Yucudaa - Santiago Pinotepa Nacional,20030,MEX-125,7
+967,oaxaca,Tuxtepec - T. C. (Oaxaca - Tehuantepec),20090,MEX-175,12
+968,puebla,Cuacnopalan - Oaxaca (Cuota),00109,MEX-135D,19
+969,puebla,Amozoc - Perote (Cuota),00030,MEX-140D,13
+970,puebla,Amozoc - Teziutlán,00210,MEX-129,20
+971,puebla,México - Puebla (Cuota),00450,MEX-150D,62
+972,puebla,Izúcar de Matamoros - Tepexi de Rodríguez,21014,PUE,3
+973,puebla,México - Puebla (Libre),00449,MEX-150,27
+974,puebla,Puebla - Huajuapan de León,00049,MEX-190,23
+975,puebla,Libres - Teziutlán (Cuota),21014,PUE-D,5
+976,puebla,Puebla - Tehuacán,21047,MEX-150,28
+977,puebla,Ramal a Tulcingo del Valle,21578,PUE-MEX-093,4
+978,puebla,San Hipólito - Xalapa,00486,MEX-140,22
+979,puebla,San Juan Ixcaquixtla - Pino Suárez,00486,PUE,4
+980,puebla,San Martín Texmelucan - Tlaxcala,00158,MEX-117,12
+981,puebla,San Martin Texmelucan - Tlaxcala - El Molinito (Cuota),00212,MEX-117D,16
+982,puebla,Pachuca - Túxpam,00608,MEX-130,32
+983,puebla,Puebla - Acatzingo (Cuota),00485,MEX-150D,11
+984,puebla,Apizaco - Tejocotal,00430,MEX-119,12
+985,puebla,Acatzingo - Cd. Mendoza (Cuota),00485,MEX-150D,17
+986,puebla,Atlixco - Jantetelco (Cuota),00430,PUE-D,3
+987,puebla,Azumbilla - Alcomunga,21001,PUE,2
+988,puebla,Cuapiaxtla - Acatlán de Osorio,21014,PUE,6
+989,puebla,Amayuca - Izúcar de Matamoros,00030,MOR-031-PUE,15
+990,puebla,Puebla - Tlaxcala (Cuota), ,PUE-D,5
+991,puebla,Ramal a Zihuateutla,21590,PUE,3
+992,puebla,San Salvador El Seco - Azumbilla,21004,MEX-144,4
+993,puebla,Ramal Villa Avila Camacho (Cuota), ,MEX-132D,2
+994,puebla,Cuacnopalan - Santa Catarina Los Reyes,00109,PUE,2
+995,puebla,Cholula - Puebla (Vía Quetzalcóatl),21203,PUE,4
+996,puebla,Puebla - Atlixco (Cuota),21585,PUE-D,4
+997,puebla,Los Reyes - Zacatepec,00052,MEX-136,61
+998,puebla,Ramal a Zoquitlán,21003,PUE,2
+999,puebla,Ramal a Tetela de Ocampo,21587,PUE,2
+1000,puebla,Puebla - Belem,00055,MEX-121,10
+1001,puebla,Nuevo Necaxa - Tihuatlán (Cuota), ,MEX-132D,9
+1002,puebla,Libramiento Norte de la Ciudad de México (Cuota),0902,MEX-055D,57
+1003,puebla,Puebla - Tlaxcala,00475,MEX-119,22
+1004,puebla,Ramal a Jolalpan,00143,MOR-PUE,3
+1005,puebla,Ramal a Aeropuerto Hnos. Serdán,21591,PUE,2
+1006,puebla,Santa Bárbara - Izúcar de Matamoros,00451,MEX-115-160,56
+1007,puebla,Tecamachalco - Quecholac,21002,PUE,5
+1008,puebla,Tecamachalco - Cañada Morelos,21002,PUE,5
+1009,puebla,Ramal a Nuevo Necaxa,21592,MEX-130,2
+1010,puebla,Tehuacán - Córdoba,00534,MEX-150,16
+1011,puebla,Tehuacán - Huitzo,00211,PUE-MEX-135,10
+1012,puebla,Teotitlán de Flores Magón - Tuxtepec,00108,OAX-PUE-MEX-182,6
+1013,puebla,Tehuacán - Huajuapan de León,00211,MEX-125,8
+1014,puebla,Tejocotal - Nuevo Necaxa (Cuota),00211,MEX-132D,6
+1015,puebla,Teziutlán - Nautla,00144,MEX-129,7
+1016,puebla,Tlaxco - Tejocotal (Cuota),00209,PUE-TLAX-HGO-D,5
+1017,puebla,Zacatepec - Oriental,21189,MEX-136,2
+1018,puebla,Teziutlán - Perote,00209,MEX-131,7
+1019,puebla,Zacatlán - Zapotitlán,21580,PUE,2
+1020,queretaro,Ajuchitlán - Ezequiel Montes,22005,QRO-005,3
+1021,queretaro,Hacienda Paraíso - Chichimequillas,22001,QRO-001,6
+1022,queretaro,El Colorado - Higuerillas,22004,QRO-004,12
+1023,queretaro,Jalpan de Serra - Rioverde,00265,MEX-069,7
+1024,queretaro,Libramiento Surponiente de Querétaro,22501,QRO,37
+1025,queretaro,México - Querétaro (Cuota),00411,MEX-057-MEX-057D,63
+1026,queretaro,La Culata - San Joaquín,22021,QRO-021,2
+1027,queretaro,Libramiento Norte de Querétaro,22500,QRO,7
+1028,queretaro,La Noria - Acámbaro,00131,MEX-120,8
+1029,queretaro,Querétaro - Ent. San Martín,22067,QRO,5
+1030,queretaro,Querétaro - Tequisquiapan,22502,QRO,11
+1031,queretaro,Querétaro - San Luis Potosí,00165,MEX-057,48
+1032,queretaro,Libramiento Nororiente de Querétaro (Cuota),22266,MEX-057D,6
+1033,queretaro,Portezuelo - Palmillas,00194,MEX-045,10
+1034,queretaro,Palmillas - Apaseo el Grande (Cuota), ,MEX-045D,13
+1035,queretaro,San Juan del Río - Xilitla,00183,MEX-120,24
+1036,queretaro,Querétaro - Estación Chichimequillas,22270,QRO,5
+1037,queretaro,Ent. Buenavista - San Miguel de Allende,00111,MEX-057,4
+1038,queretaro,Libramiento de San Juan del Río,22266,QRO,4
+1039,queretaro,San Juan del Río - Amealco,22011,QRO,2
+1040,queretaro,Querétaro - Irapuato (Cuota),00423,MEX-045D,32
+1041,queretaro,Querétaro - Irapuato (Libre),00154,MEX-045,26
+1042,queretaro,Ramal a Tolimán,22265,QRO,2
+1043,queretaro,Ajuchitlán - Colón,22010,QRO-005,4
+1044,queretaro,Huimilpan - El Lindero,00155,QRO-GTO,5
+1045,queretaro,Peña Colorada - El Rodeo,22002,QRO,5
+1046,queretaro,Ramal a La Estancia,22504,QRO,2
+1047,queretaro,Querétaro - Tlacote El Bajo,22069,QRO,3
+1048,queretaro,T. C. (Villa del Pueblito - Huimilpan) - La Sabanilla,00155,QRO-GTO,6
+1049,queretaro,Rayón - Arroyo Seco,24008,SLP-011,4
+1050,queretaro,Villa del Pueblito - Huimilpan,22503,QRO,3
+1051,queretaro,Toluca - Palmillas,00496,EM(D)-MEX-055,41
+1052,quintana roo,El Ideal - Chiquila,23005,QR-005,4
+1053,quintana roo,Bacalar - Miguel Alemán,20030,QR,5
+1054,quintana roo,Francisco Escárcega - Chetumal,00093,MEX-186-307,23
+1055,quintana roo,Chemax - Cobá, ,YUC-MEX-180,3
+1056,quintana roo,El Cedral - Playa del Carmen (Cuota), ,MEX-180D,5
+1057,quintana roo,Libramiento de Felipe Carrillo Puerto (Cuota), ,MEX-307D,4
+1058,quintana roo,Ramal a Mahahual,23583,QR,2
+1059,quintana roo,Mérida - Puerto Juárez,00067,MEX-180,56
+1060,quintana roo,Mérida - Cancún (Cuota),00071,MEX-180D,17
+1061,quintana roo,Ramal a Punta Sam,23582,QR,2
+1062,quintana roo,Ramal a Subteniente López,23567,MEX-186,5
+1063,quintana roo,Reforma Agraria - Puerto Juárez,23132,MEX-307,54
+1064,quintana roo,Ramal a El Naranjal,23579,QR,2
+1065,quintana roo,Ramal a Reforma,23016,QR-016,2
+1066,quintana roo,Ramal a Tres Garantías,23585,QR,2
+1067,quintana roo,Muna - Felipe Carrillo Puerto,00148,MEX-184,17
+1068,quintana roo,Ramal a Punta Allen,23015,QR-015,3
+1069,quintana roo,Perimetral Cozumel,00148,QR,6
+1070,quintana roo,Chetumal - Calderitas,23004,QR-004,4
+1071,quintana roo,Cancún - Punta Cancún,23581,QR,6
+1072,quintana roo,Central Vallarta - Leona Vicario, ,QR,3
+1073,quintana roo,Ramal a Puerto Morelos,23569,MEX,2
+1074,quintana roo,Ramal a Petcacab,23018,QR-018,2
+1075,quintana roo,Punta Nizuc - Cancún,23014,QR,3
+1076,quintana roo,Libramiento de Chetumal,23130,QR,3
+1077,quintana roo,Ramal a Aeropuerto Cancún,23574,QR,4
+1078,quintana roo,Ramal a Laguna de Kaná,23213,QR,2
+1079,quintana roo,Ramal a Punta Piedra,23575,MEX,3
+1080,quintana roo,Ramal a Candelaria,23027,QR,2
+1081,quintana roo,T. C. (Reforma Agraria - Puerto Juárez) - Polyuc,23014,MEX-293,9
+1082,quintana roo,Tihosuco - Dziuche,23576,QR,2
+1083,quintana roo,Transversal de Cozumel,23577,QR,3
+1084,quintana roo,Tulum - Nuevo X-Can,23570,QR,7
+1085,quintana roo,Ucum - Unión,23571,QR,6
+1086,quintana roo,Valladolid - Felipe Carrillo Puerto,00010,MEX-295,13
+1087,san luis potosi,Cerritos - Ent. Tula (Cuota), ,SLP-075D,5
+1088,san luis potosi,Cd. Valles - San Luis Potosí,24135,MEX-070,30
+1089,san luis potosi,Ent. El Huizache - Antiguo Morelos,00136,MEX-080,8
+1090,san luis potosi,Cd. Valles - Cd. Victoria,00509,MEX-085,10
+1091,san luis potosi,Lagos de Moreno - Villa de Arriaga (Cuota), ,MEX-080D,6
+1092,san luis potosi,Jalpan de Serra - Rioverde,00265,MEX-069,7
+1093,san luis potosi,Ent. Ahualulco - Ent. La Bonita,24258,MEX-063,6
+1094,san luis potosi,Libramiento Oriente de San Luis Potosí (Cuota),24009,MEX-057D,7
+1095,san luis potosi,Libramiento de Villa de Reyes,24010,MEX-037,2
+1096,san luis potosi,Rayón - Cd. del Maíz,24206,MEX-070-SLP-005,3
+1097,san luis potosi,Matehuala - La Poza,00086,SLP-029-NL-061,5
+1098,san luis potosi,Matehuala - Ent. Puerto México,00405,MEX-057,19
+1099,san luis potosi,San Luis Potosí - Ent. Arcinas,00134,MEX-049,22
+1100,san luis potosi,Querétaro - San Luis Potosí,00165,MEX-057,48
+1101,san luis potosi,San Luis Potosí - Matehuala,24508,MEX-057,27
+1102,san luis potosi,San Luis Potosí - Lagos de Moreno,00133,MEX-070-080,14
+1103,san luis potosi,Ramal a Cerritos,24615,SLP-007,2
+1104,san luis potosi,Rayón - Ent. Tamuín (Cuota), ,MEX-070D,12
+1105,san luis potosi,Portezuelo - Cd. Valles,00023,MEX-085,21
+1106,san luis potosi,El Clarín - Agua Buena,24283,MEX-070,2
+1107,san luis potosi,Cd. Valles - Tampico,00138,MEX-070,18
+1108,san luis potosi,Carbonera - T. C. (Ent. Morelos - Saltillo),00218,MEX-062,5
+1109,san luis potosi,T. C. (Ent. El Huizache- Ant. Morelos)-El Salto,24204,MEX-080,2
+1110,san luis potosi,Ent. de Zaragoza - San Felipe,00240,MEX-037,4
+1111,san luis potosi,Libramiento Villa de Arriaga,24009,MEX-080,2
+1112,san luis potosi,Ramal a Aeropuerto de S. L. P.,24206,MEX-057,3
+1113,san luis potosi,Periférico de San Luis Potosí,24618,SLP-032,9
+1114,san luis potosi,Ramal a Ojo de Agua,24023,MEX-062,2
+1115,san luis potosi,Libramiento Norponiente de San Luis Potosí (Cuota), ,MEX-057D,7
+1116,san luis potosi,Rayón - Arroyo Seco,24008,SLP-011,4
+1117,san luis potosi,Ramal a Rayón,24626,MEX-070,2
+1118,san luis potosi,Ébano - Estación Manuel,24624,SLP-TAM,5
+1119,san luis potosi,Charcas - Villa Santo Domingo,24624,SLP-017,2
+1120,san luis potosi,Ent. Tula - Cd. Victoria,00179,MEX-101,9
+1121,san luis potosi,Libramiento de Cd. Valles,24205,MEX-070,2
+1122,san luis potosi,Libramiento de Matehuala (Cuota),24205,MEX-057D,6
+1123,san luis potosi,Matehuala - La Paz,24621,SLP-020,4
+1124,san luis potosi,Rioverde - Cerritos (Cuota),00138,SLP-D,3
+1125,san luis potosi,San Lorenzo - Moctezuma,24016,MEX-063-SLP-012,3
+1126,san luis potosi,San Luis Potosí - Villa de Arriaga (Cuota),24209,SLP-D,2
+1127,san luis potosi,San Juan del Río - Xilitla,00183,MEX-120,24
+1128,san luis potosi,Libramiento de Villa de Reyes (Poniente), ,MEX-037,3
+1129,san luis potosi,Santo Domingo - Cerro Gordo,24614,SLP-022,2
+1130,san luis potosi,Ramal a Pozo de Acuña,24626,SLP-009,2
+1131,san luis potosi,T. C. (Qro - S.L.P.) - Tierra Nueva,24203,MEX-057,2
+1132,san luis potosi,T. C. (S.L.P. - Matehuala) - Villa Hidalgo,24619,MEX-057,2
+1133,san luis potosi,Tamazunchale - San Felipe Orizatlán,00609,MEX-085,3
+1134,san luis potosi,Tamuín - Estación F.F.C.C. Tamuín,24022,SLP-040,2
+1135,san luis potosi,Tamuín - Xolol,24027,SLP-014,4
+1136,sinaloa,Culiacán - Altata,25013,SIN-030,15
+1137,sinaloa,Culiacán - Los Mochis,25502,MEX-015,26
+1138,sinaloa,Guasave - Sinaloa de Leyva,25023,SIN-023,5
+1139,sinaloa,Culiacán - Las Brisas (Cuota),25503,SIN-001D,15
+1140,sinaloa,Mazatlán - Culiacán,25501,MEX-015,18
+1141,sinaloa,Ramal a La Reforma,25041,SIN-004,3
+1142,sinaloa,Mazatlán - Culiacán (Cuota),25045,MEX-015D,13
+1143,sinaloa,Ramal a Cosalá,25008,SIN-008,2
+1144,sinaloa,San Pedro - Campo Aníbal,25600,SIN,3
+1145,sinaloa,Pericos - Los Naranjos,25598,MEX-024,3
+1146,sinaloa,Navolato - El Castillo,25004,SIN-004,2
+1147,sinaloa,Ramal a La Noria,25592,SIN,2
+1148,sinaloa,El Limoncito - Cinco Hermanos,25016,SIN-016,2
+1149,sinaloa,Rosario - Caimanero,25003,SIN-003,2
+1150,sinaloa,Carrizal - Campo Aníbal,25585,SIN-019,4
+1151,sinaloa,Estación Dimas - San Ignacio,25007,SIN-006,4
+1152,sinaloa,Escuinapa de Hidalgo - Teacapan,25001,SIN-001,2
+1153,sinaloa,Durango - Mazatlán (Cuota),00084,MEX-040D,14
+1154,sinaloa,Los Mochis - Cd. Obregón (Cuota),26444,MEX-015D,39
+1155,sinaloa,Libramiento de Mazatlán,288-01,MEX-015D,4
+1156,sinaloa,Libramiento de Mazatlán (Cuota), ,MEX-015D,10
+1157,sinaloa,Ramal a Estación Bamoa,25022,SIN-022,2
+1158,sinaloa,Ramal a El Quelite,25060,SIN-060,2
+1159,sinaloa,Culiacán - El Dorado,25044,SIN-005,9
+1160,sinaloa,Durango - Villa Unión,0083,MEX-040,12
+1161,sinaloa,El Salado - El Dorado,25010,SIN-010,2
+1162,sinaloa,Ramal a La Cruz,25043,SIN,2
+1163,sinaloa,Guamuchil - Mocorito,25021,SIN-021,3
+1164,sinaloa,Pozole - Cofradía,25080,SIN-080,2
+1165,sinaloa,Libramiento de Culiacán (Cuota), ,MEX-015D,5
+1166,sinaloa,Libramiento Sur de Culiacán,25500,MEX-015,4
+1167,sinaloa,Ramal a Chametla,25002,SIN-002,2
+1168,sinaloa,Tepic - Mazatlán,00499,MEX-015,43
+1169,sinaloa,Topolobampo - Choix,25032,SIN-023,16
+1170,sinaloa,Tepic - Villa Unión (cuota),00500,MEX-015D,28
+1171,sinaloa,Villa Unión - El Walamo,25081,SIN-081,2
+1172,sinaloa,Villa Unión - Siqueiros,25063,SIN-063,2
+1173,sonora,Altar - Sáric,26233,SON-064,2
+1174,sonora,Caborca - El Desemboque,26225,SON-037,6
+1175,sonora,Cd. Obregón - Guaymas (Cuota),26444,MEX-015D,28
+1176,sonora,Hermosillo - Lim. Edos. Term. Son. Ppia. Chih. (Yécora),26251,MEX-016,7
+1177,sonora,Guaymas - Hermosillo,26444,MEX-015,14
+1178,sonora,Esperanza - Presa Álvaro Obregón,26242,SON-117,3
+1179,sonora,Hermosillo - Bahía Kino,26109,SON-100,11
+1180,sonora,Hermosillo - Magdalena de Kino (Cuota),26444,MEX-015D,25
+1181,sonora,Los Mochis - Cd. Obregón (Cuota),26444,MEX-015D,39
+1182,sonora,Magdalena de Kino - Nogales,26444,MEX-015,17
+1183,sonora,Mazocahui - Cananea,26118,SON-118,4
+1184,sonora,Santa Ana - Sonoita,26080,MEX-002D-MEX,15
+1185,sonora,Sonoita - Mexicali,263,MEX-002,21
+1186,sonora,Agua Prieta - Imuris,26079,MEX-002,7
+1187,sonora,T. C. (Hermosillo - Nogales) - Huásabas,26231,MEX-014-SON,7
+1188,sonora,Calle 36 Norte - Puerto de La Libertad,26117,SON-029,3
+1189,sonora,Huatabampo - Bacabachi,26237,SON-176,2
+1190,sonora,Sonoita - Puerto Peñasco,26232,MEX-002,2
+1191,sonora,Libramiento de Ciudad Obregón (Cuota), ,MEX-015D,5
+1192,sonora,Hornos - San Nicolás,26243,SON-012,3
+1193,sonora,Janos - Agua Prieta,00220,MEX-002,5
+1194,sonora,Libramiento de Nogales (Cuota),26100,MEX-15D,6
+1195,sonora,Ramal a Aeropuerto de Guaymas,26568,SON,3
+1196,sonora,Moctezuma - Agua Prieta,26027,MEX-017,4
+1197,sonora,Navojoa - Álamos,26240,SON-013,2
+1198,sonora,Ramal a Naco,26579,MEX-002,2
+1199,sonora,Nogales - San Antonio,26110,SON,2
+1200,sonora,Hermosillo - Sahuaripa,26230,SON-020,6
+1201,sonora,Libramiento de Empalme - Guaymas (Cuota),26256,MEX-015D,4
+1202,sonora,San Luis Río Colorado - Golfo de Santa Clara (Cuota), ,SON-D,3
+1203,sonora,Libramiento de Hermosillo (Cuota), ,MEX-015D,4
+1204,sonora,Navojoa - Yavaros,26229,SON-056,3
+1205,sonora,Libramiento de Magdalena de Kino (Cuota), ,MEX-015D,4
+1206,sonora,La Alameda - El Sahuaro,26234,SON-037,2
+1207,sonora,Sonoita - Pitiquito,26022,SON,2
+1208,sonora,San Luis Río Colorado - Golfo de Santa Clara,287,MEX-D,4
+1209,sonora,Ramal a Puerta de México,26577,MEX-002,2
+1210,tabasco,Chichicapa - Ent. La Libertad,27100,TAB,3
+1211,tabasco,Benito Juárez - Tepetitán,27204,TAB,5
+1212,tabasco,Benito Juárez - Agua Dulce,00202,TAB-VER,4
+1213,tabasco,Coatzacoalcos - Villahermosa,00528,MEX-180,37
+1214,tabasco,El Bellote - Santa Cruz,27105,TAB,5
+1215,tabasco,Comalcalco - El Golpe,27102,TAB,9
+1216,tabasco,Libramiento Sur de Comalcalco, ,TAB,2
+1217,tabasco,Libramiento de Villahermosa (Cuota), ,MEX-180D,10
+1218,tabasco,Malpaso - El Bellote,00137,MEX-187,26
+1219,tabasco,Frontera - T. C. (Jalapa - Jonuta),27081,TAB,3
+1220,tabasco,Jalapa - Jonuta,27107,TAB,9
+1221,tabasco,Ramal a San Antonio,27003,TAB,4
+1222,tabasco,Reforma - Dos Bocas,27200,TAB,5
+1223,tabasco,Ramal a Tapijulapa,27200,TAB,2
+1224,tabasco,San Marcos - Palizada,00490,MEX-186,5
+1225,tabasco,Playas del Rosario - Teapa,27203,TAB-001,11
+1226,tabasco,T. C. (Cárdenas - Paraíso) - Carlos Green,27111,TAB,3
+1227,tabasco,El Suspiro - Tenosique,00276,MEX-203,9
+1228,tabasco,Las Choapas - Ocozocoautla (Cuota),00077,MEX-187D,15
+1229,tabasco,Estación Macuspana - Vernet,27091,TAB-041,8
+1230,tabasco,Pailebot - Cuauhtemotzin,27112,TAB,2
+1231,tabasco,Nicolás Bravo - T. C. (El Bellote - Santa Cruz),27010,TAB,2
+1232,tabasco,Samaria - Amatitán,27114,TAB,4
+1233,tabasco,Ramal a Balancan,27078,TAB,2
+1234,tabasco,Ramal a Tamulte de Las Sabanas,27080,TAB,2
+1235,tabasco,Ent. Agua Dulce - Cárdenas (Cuota),00010,MEX-180D,9
+1236,tabasco,Cárdenas - Paraíso,27117,TAB,5
+1237,tabasco,Cacaos - La Granja,27002,TAB,3
+1238,tabasco,Ent. Emiliano Zapata - La Libertad,00062,CHIS-TAB,3
+1239,tabasco,Gregorio Méndez Magaña - Reforma de Ocampo,00103,CHIS,4
+1240,tabasco,Ramal a Sánchez Magallanes,27016,TAB,4
+1241,tabasco,Paso de Cunduacán - Estación Juárez,00588,TAB-CHIS,4
+1242,tabasco,Ramal a Salto del Agua,00069,TAB-CHIS,3
+1243,tabasco,Ramal a La Venta,27078,TAB,2
+1244,tabasco,Paraíso - El Limón,27108,TAB,2
+1245,tabasco,Reyes Hernández - Villa Aldama,27119,TAB,2
+1246,tabasco,Ramal a Libertad,27205,TAB,2
+1247,tabasco,Ramal a Lázaro Cárdenas,27208,TAB,2
+1248,tabasco,Tierra Nueva - Francisco Rueda,27110,TAB,5
+1249,tabasco,Tenosique - El Ceibo, ,MEX-203,2
+1250,tabasco,Tulipán - Cunduacán,27115,TAB,3
+1251,tabasco,Villahermosa - Cd. del Carmen,00064,MEX-180,28
+1252,tabasco,Villahermosa - Comalcalco,27021,TAB,12
+1253,tabasco,Villahermosa - Escopetazo,00104,MEX-195,23
+1254,tabasco,Villahermosa - Luis Gil Pérez,27206,TAB,2
+1255,tabasco,Villahermosa - Francisco Escárcega,00092,MEX-186-307,42
+1256,tabasco,Villahermosa - T. C. (P. de Cunduacán - Estación Juárez),27106,TAB,4
+1257,tabasco,Zapatero - T. C. (Jalapa - Jonuta),00061,CHIS-TAB,3
+1258,tamaulipas,Ent. El Huizache - Antiguo Morelos,00136,MEX-080,8
+1259,tamaulipas,Cd. Victoria - Matamoros,28139,MEX-101-180,30
+1260,tamaulipas,Cd. Valles - Cd. Victoria,00509,MEX-085,10
+1261,tamaulipas,Ciudad Victoria - Monterrey,00462,MEX-085,41
+1262,tamaulipas,La Joya - Méndez,28623,TAM,2
+1263,tamaulipas,González - Llera de Canales,28578,MEX-081,3
+1264,tamaulipas,Ent. Tula - Cd. Victoria,00179,MEX-101,9
+1265,tamaulipas,Estación Manuel - T. C. (Cd. Victoria - Soto La Marina),28294,MEX-180,5
+1266,tamaulipas,Matamoros - Reynosa,28077,MEX-002,15
+1267,tamaulipas,Libramiento de Cd. Victoria,28282,TAM,10
+1268,tamaulipas,Monterrey - Reynosa (Libre),00088,MEX-040,19
+1269,tamaulipas,Ignacio Zaragoza - T. C. (Ciudad Victoria - Monterrey),28625,MEX-083,4
+1270,tamaulipas,Matamoros - Playa Lauro Villar,28078,MEX-002,3
+1271,tamaulipas,Matamoros - Reynosa (Cuota),28079,MEX-002D,10
+1272,tamaulipas,Las Yescas - Valle Hermoso,28614,TAM,2
+1273,tamaulipas,Ramal a Xicoténcatl,28619,TAM,2
+1274,tamaulipas,Ramal de Acceso a Puente Anzaldúas,28619,MEX,3
+1275,tamaulipas,Libramiento de San Fernando, ,MEX-101-180,4
+1276,tamaulipas,Libramiento Poniente de Tampico (Cuota),28051,MEX-070D,3
+1277,tamaulipas,Reynosa - Nuevo Laredo,28076,MEX-002,8
+1278,tamaulipas,Los Guerra - Los Herreras,19031,TAM-NL,3
+1279,tamaulipas,Ramal de Acceso al Puente Internacional Laredo III,202,MEX-085,2
+1280,tamaulipas,Paras - Nueva Ciudad Guerrero,00476,MEX-030,3
+1281,tamaulipas,Potrero Nuevo - Rancho El Mezquital,28615,TAM,2
+1282,tamaulipas,Santander Jiménez - Abasolo,28579,MEX-107-TAM,2
+1283,tamaulipas,Barretal - Nueva Villa de Padilla,28001,TAM-001,2
+1284,tamaulipas,Ent. Huisachito - Nuevo Laredo,00074,NL-001-TAM,4
+1285,tamaulipas,Cd. Victoria - Soto La Marina,28009,MEX-070,4
+1286,tamaulipas,El Limón - Ocampo,28019,TAM-019,2
+1287,tamaulipas,Las Urracas - T. C. (Matamoros - Reynosa),28029,MEX-097,5
+1288,tamaulipas,Libramiento de San Germán, ,MEX-101-180,2
+1289,tamaulipas,Libramiento de Nuevo Laredo II,28626,TAM,3
+1290,tamaulipas,Libramiento de Reynosa Sur II, ,MEX-040D,5
+1291,tamaulipas,Libramiento de Nuevo Laredo,28030,TAM,4
+1292,tamaulipas,Petrocel - Puerto Industrial Altamira, ,MEX-080,5
+1293,tamaulipas,Aldama - Barra El Tordo,28620,TAM,2
+1294,tamaulipas,Corredor Internacional Reynosa, ,MEX,2
+1295,tamaulipas,Cd. Valles - Tampico,00138,MEX-070,18
+1296,tamaulipas,Acceso a Puente Internacional Reynosa - Pharr, ,MEX-002,3
+1297,tamaulipas,Altamira - T. C. (Petrocel -Puerto Industrial Altamira), ,MEX-080,3
+1298,tamaulipas,Ent. Las Blancas - Río Bravo,28003,TAM-003,4
+1299,tamaulipas,Libramiento de Santander Jiménez, ,MEX-101,3
+1300,tamaulipas,Ébano - Estación Manuel,24624,SLP-TAM,5
+1301,tamaulipas,Ent. El Ojito - Abasolo,28579,MEX-107-TAM,2
+1302,tamaulipas,Nuevo Laredo - Piedras Negras,00503,MEX-002,13
+1303,tamaulipas,Libramiento de Río Bravo,28002,TAM,4
+1304,tamaulipas,China - Méndez,00191,NL-TAM,3
+1305,tamaulipas,Libramiento General Francisco Villa, ,MEX-101-180,2
+1306,tamaulipas,Libramiento Estación Manuel - González,28002,MEX-081,2
+1307,tamaulipas,Peña Blanca - Cd. Camargo,00102,NL-TAM,3
+1308,tamaulipas,Libramiento de Mier,28282,TAMPS,2
+1309,tamaulipas,Monterrey - Nuevo Laredo (Libre),00463,MEX-085,28
+1310,tamaulipas,Monterrey - Mier,00127,MEX-054,17
+1311,tamaulipas,Ramal a Gómez Farías,28020,TAM-020,2
+1312,tamaulipas,Libramiento de Reynosa,28008,MEX-002,4
+1313,tamaulipas,Ramal a Puente Tampico,28020,MEX-180,6
+1314,tamaulipas,Soto La Marina - La Coma,28052,MEX-180,2
+1315,tamaulipas,San Fernando - Carboneras,28618,TAM,2
+1316,tamaulipas,Soto La Marina - La Pesca,28049,TAM-070,2
+1317,tamaulipas,T. C. (Valle Hermoso - Empalme) - Matamoros,28005,TAM-005,4
+1318,tamaulipas,T. C. Libramiento Cd. Victoria - San Antonio, ,TAM-126,2
+1319,tamaulipas,Tampico - Cd. Mante,28163,MEX-080,19
+1320,tamaulipas,Túxpam - Tampico,00529,MEX-180,26
+1321,tamaulipas,Valle Hermoso - Empalme,28004,TAM-004,2
+1322,tamaulipas,Viaducto de Reynosa, ,MEX,2
+1323,tlaxcala,Calpulalpan - El Ocote,00054,MEX-HGO,12
+1324,tlaxcala,Huamantla - La Venta,29564,MEX-136,9
+1325,tlaxcala,Apizaco - Tejocotal,00430,MEX-119,12
+1326,tlaxcala,Apizaco - Emiliano Zapata,29033,TLAX-MEX-136,3
+1327,tlaxcala,Los Reyes - Zacatepec,00052,MEX-136,61
+1328,tlaxcala,Calpulalpan - Nanacamilpa,29034,TLAX-MEX-136,3
+1329,tlaxcala,Libramiento de Apizaco,29567,MEX-136,7
+1330,tlaxcala,Puebla - Tlaxcala,00475,MEX-119,22
+1331,tlaxcala,Paso por Santo Tomás, ,MEX-136,3
+1332,tlaxcala,Libramiento Hueyotlipan,29567,MEX-136,4
+1333,tlaxcala,San Martín Texmelucan - Tlaxcala,00158,MEX-117,12
+1334,tlaxcala,Libramiento Norte de la Ciudad de México (Cuota),0902,MEX-055D,57
+1335,tlaxcala,San Martin Texmelucan - Tlaxcala - El Molinito (Cuota),00212,MEX-117D,16
+1336,tlaxcala,Ramal a San Felipe de Hidalgo,29565,MEX-136,2
+1337,tlaxcala,San Pablo Apetatitlán - Apizaco,29035,MEX-119,6
+1338,tlaxcala,Puebla - Belem,00055,MEX-121,10
+1339,tlaxcala,Ramal a Altzayanca de Hidalgo,29562,TLAX,3
+1340,tlaxcala,Puebla - Tlaxcala (Cuota), ,PUE-D,5
+1341,tlaxcala,Amozoc - Teziutlán,00210,MEX-129,20
+1342,tlaxcala,México - Puebla (Cuota),00450,MEX-150D,62
+1343,tlaxcala,Acocotla - Vicente Guerrero,29560,MEX-TLAX,2
+1344,tlaxcala,Amozoc - Perote (Cuota),00030,MEX-140D,13
+1345,tlaxcala,Libramiento de Santiago Tlalpan, ,MEX-136,3
+1346,tlaxcala,Huamantla - Terrenate,29036,MEX-136,3
+1347,tlaxcala,Libramiento Huamantla,29567,MEX-136,4
+1348,tlaxcala,Ramal a Xalostoc,29563,TLAX,2
+1349,tlaxcala,Libramiento de Tlaxcala (Cuota), ,MEX-117D,8
+1350,tlaxcala,Ramal a San Pedro Ecatepec,29561,TLAX,2
+1351,tlaxcala,T. C. (Puebla - Tlaxcala) - Villa Alta,29566,MEX-119,3
+1352,tlaxcala,Tetlatlahuca - Santa Ana Chiautempan,00158,MEX-119,9
+1353,tlaxcala,Tlaxcala - Belem,29389,MEX-119,10
+1354,tlaxcala,Xalostoc - Terrenate,29390,TLAX,3
+1355,veracruz,Córdoba - Ent. Boticaria,30525,MEX-150,18
+1356,veracruz,Buenavista - Tuxtepec,00624,MEX-175,14
+1357,veracruz,Alazán - Canoas,30141,MEX-127,12
+1358,veracruz,Cd. Valles - Tampico,00138,MEX-070,18
+1359,veracruz,Cosoleacaque - Soteapan,30068,MEX-185,4
+1360,veracruz,Coatzacoalcos - Salina Cruz,00147,MEX-185,53
+1361,veracruz,Fortín - Conejos,30143,MEX-125,7
+1362,veracruz,Córdoba - Veracruz (Cuota),30066,MEX-150D,12
+1363,veracruz,Libramiento de Plan del Río (Cuota),30747,MEX-140D,3
+1364,veracruz,La Tinaja - Santa Cruz,30153,MEX-145,10
+1365,veracruz,Libramiento de Cuitláhuac,30738,MEX-150,3
+1366,veracruz,Ent. La Laguna - Ent. El Callejón,30705,VER,2
+1367,veracruz,Libramiento de Papantla, ,MEX-180,2
+1368,veracruz,Gutiérrez Zamora - Tihuatlán (Cuota),30009,MEX-130D,6
+1369,veracruz,La Granja - Temascal,00275,MEX-145,3
+1370,veracruz,Nuevo Teapa - Cosoleacaque (Cuota),30007,MEX-180D,15
+1371,veracruz,Las Choapas - Ocozocoautla (Cuota),00077,MEX-187D,15
+1372,veracruz,Libramiento de Perote (Cuota),30737,MEX-140D,8
+1373,veracruz,Peñuela - Santa Rita,30058,VER,6
+1374,veracruz,Perote - Banderilla (Cuota), ,MEX-140D,6
+1375,veracruz,Poza Rica - María de La Torre,30234,MEX-127-VER,9
+1376,veracruz,Poza Rica - Veracruz,30146,MEX-180-180D,37
+1377,veracruz,Ramal a Agua Dulce,30739,VER,2
+1378,veracruz,Mata Redonda - Joachín,30095,VER-095,2
+1379,veracruz,Ramal a Jamapa,30744,VER,4
+1380,veracruz,Ramal a Puente Tampico,28020,MEX-180,6
+1381,veracruz,Libramiento de Xalapa (Cuota), ,MEX-140D,6
+1382,veracruz,Nuevo Teapa - Agua Dulce,30007,VER,2
+1383,veracruz,Paso del Toro - Laguna de San Julián,30745,MEX-VER,10
+1384,veracruz,Papantla - El Chote,30740,MEX-180,2
+1385,veracruz,San Hipólito - Xalapa,00486,MEX-140,22
+1386,veracruz,Puerto Rico - Totutla,30067,VER,4
+1387,veracruz,Paso del Toro - Acayucan,30527,MEX-180,14
+1388,veracruz,Ramal a Estación Ochoa,30712,VER,2
+1389,veracruz,Sierra de Agua - Magueyitos,30716,VER,2
+1390,veracruz,San Sebastián - Chicontepec,30083,VER-083,3
+1391,veracruz,Ramal a Zapotlalillo,30734,MEX,2
+1392,veracruz,T. C. (Coatzacoalcos - Villahermosa) - Las Choapas,30749,VER,2
+1393,veracruz,Amozoc - Perote (Cuota),00030,MEX-140D,13
+1394,veracruz,Acatzingo - Cd. Mendoza (Cuota),00485,MEX-150D,17
+1395,veracruz,Acayucan - Cosoleacaque (Cuota),30144,MEX-145D,7
+1396,veracruz,Cd. Mendoza - Córdoba (Cuota),00485,MEX-150D,14
+1397,veracruz,Banderilla - Martínez de La Torre,30065,VER-065,5
+1398,veracruz,Coatzacoalcos - Villahermosa,00528,MEX-180,37
+1399,veracruz,Álamo - Huejutla de Reyes,00116,MEX-127,5
+1400,veracruz,Altotonga - Tlapacoyan,30741,MEX-131,3
+1401,veracruz,Cd. Alemán - Sayula,00301,MEX-145,13
+1402,veracruz,La Tinaja - Acayucan (Cuota),30144,MEX-145D,15
+1403,veracruz,Las Trancas - Coatepec,30717,VER,3
+1404,veracruz,Ébano - Estación Manuel,24624,SLP-TAM,5
+1405,veracruz,Libramiento de Túxpam,30714,VER,3
+1406,veracruz,Libramiento de Yanga,30737,MEX-150,2
+1407,veracruz,Libramiento de Córdoba (Cuota),30742,MEX-150D,4
+1408,veracruz,Libramiento de Coatepec, ,MEX,2
+1409,veracruz,Pachuca - Túxpam,00608,MEX-130,32
+1410,veracruz,San Alejo - Huayacocotla,00132,HGO-051-VER-113,5
+1411,veracruz,Pueblo Viejo - T. C. (Cd. Valles - Tampico),30017,VER,2
+1412,veracruz,Ramal a Hueyapan de Ocampo,30712,MEX-180,2
+1413,veracruz,Benito Juárez - Agua Dulce,00202,TAB-VER,4
+1414,veracruz,José Cardel - Playa Chachalacas,30038,VER,2
+1415,veracruz,Libramiento de Acayucan,30736,VER,2
+1416,veracruz,Minatitlán - Coatzacoalcos (Vía Cantica),30007,MEX-172,2
+1417,veracruz,Libramiento de Cardel (Cuota),30729,MEX-180D,4
+1418,veracruz,Mata de Espino - Ignacio de La Llave,30733,VER,5
+1419,veracruz,Libramiento Rinconada,30737,MEX,3
+1420,veracruz,Poza Rica - Cardel (Cuota), ,MEX-180D,3
+1421,veracruz,Ramal a Zempoala,30192,VER-192,2
+1422,veracruz,Poza Rica - Cazones,30075,VER-075,3
+1423,veracruz,Santiago Tuxtla - Playa Vicente,30025,VER,5
+1424,veracruz,San Pablo Villa de Mitla - T. C. (Tuxtepec - Palomares),00106,MEX-179,5
+1425,veracruz,Orizaba - Zongolica,30708,MEX-150,2
+1426,veracruz,Ramal a El Higo,30013,MEX,2
+1427,veracruz,Ramal a Actopan,30739,VER,2
+1428,veracruz,Ramal a Antón Lizardo,30277,MEX-150,3
+1429,veracruz,Ramal a Chontla,30728,VER,2
+1430,veracruz,Ramal a Suchilapan,30721,VER,2
+1431,veracruz,Pachuca - Tempoal,00113,MEX-105,23
+1432,veracruz,Nuevo Necaxa - Tihuatlán (Cuota), ,MEX-132D,9
+1433,veracruz,Ramal a Jesús Carranza,30720,VER,2
+1434,veracruz,Ramal a Tecolutla,30531,MEX-180,2
+1435,veracruz,Tamarindo - José Cardel,30193,MEX-180,4
+1436,veracruz,Tantoyuca - Platón Sánchez,30193,VER,2
+1437,veracruz,Teziutlán - Nautla,00144,MEX-129,7
+1438,veracruz,Tehuacán - Córdoba,00534,MEX-150,16
+1439,veracruz,Teziutlán - Perote,00209,MEX-131,7
+1440,veracruz,Tihuatlán - Castillo de Teayo,30700,MEX-130,2
+1441,veracruz,Tihuatlán - Potrero del Llano,273,MEX-127,4
+1442,veracruz,Tihuatlán - Túxpam (Cuota),30008,MEX-130D,11
+1443,veracruz,Túxpam - Barra de Túxpam,30743,VER,3
+1444,veracruz,Túxpam - Tampico,00529,MEX-180,26
+1445,veracruz,Túxpam - Tampico (Cuota), ,MEX-D,4
+1446,veracruz,Tuxtepec - Ent. Palomares,00180,MEX-147,10
+1447,veracruz,Xalapa - Coatepec,30718,VER,4
+1448,veracruz,Xalapa - Veracruz,30526,MEX-140,26
+1449,yucatan,Dzitbalché - Ent. San Bernardo,00162,MEX-180,8
+1450,yucatan,Campeche - Mérida,00066,MEX-180,51
+1451,yucatan,Cansahcab - Tizimín,31014,MEX-176,4
+1452,yucatan,Citilcum - Tixkochoh,31064,YUC,3
+1453,yucatan,Campeche - Umán,00164,MEX-261,17
+1454,yucatan,Holcá - Sotuta,31626,YUC,3
+1455,yucatan,Hunucmá - Sisal,31021,MEX-281,2
+1456,yucatan,Ent. Poxilá - Mérida,31003,MEX-180,6
+1457,yucatan,Libramiento Norte de Motul,31610,YUC,5
+1458,yucatan,Kantunil - Izamal,31012,YUC,2
+1459,yucatan,Mérida - Celestún,31025,MEX-281,12
+1460,yucatan,Mérida - Progreso,31091,MEX-261,11
+1461,yucatan,Mérida - Puerto Juárez,00067,MEX-180,56
+1462,yucatan,Muna - Felipe Carrillo Puerto,00148,MEX-184,17
+1463,yucatan,Hunucmá - Umán,31610,YUC,6
+1464,yucatan,Mérida - Acanceh,31023,YUC,5
+1465,yucatan,Izamal - Dzilam González,31605,YUC,3
+1466,yucatan,Mérida - Oxkutzcab,31018,YUC-018,15
+1467,yucatan,Mérida - Timucuy,31024,YUC,4
+1468,yucatan,Libramiento de Conkal, ,MEX,3
+1469,yucatan,Libramiento de Tahmek - Hoctun - Xocchel, ,MEX-180,5
+1470,yucatan,Mérida - Cancún (Cuota),00071,MEX-180D,17
+1471,yucatan,Mérida - Dzilam de Bravo,31001,MEX-176,14
+1472,yucatan,Progreso - Telchac Puerto,31616,YUC-027,8
+1473,yucatan,Mérida - Tekanto,31587,MEX-180,8
+1474,yucatan,Progreso - Celestún,31040,MEX-YUC,4
+1475,yucatan,Acanceh - Estación Polabán,31615,YUC,3
+1476,yucatan,Baca - Dzidzantún,31591,YUC,6
+1477,yucatan,Calotmul - Sucilá,31617,YUC,3
+1478,yucatan,Kinchil - Umán,31009,YUC,2
+1479,yucatan,Dzidzantún - Santa Clara,31592,YUC,2
+1480,yucatan,Hoctún - Cenotillo,31011,YUC-011,5
+1481,yucatan,Ramal a Chankom,31049,YUC,2
+1482,yucatan,Libramiento de Progreso,31631,MEX-261,2
+1483,yucatan,Ramal a Dzonot Carretero,31614,YUC,2
+1484,yucatan,Muna - Maxcanú,31053,YUC,3
+1485,yucatan,Oxkutzcab - Xul,31051,YUC-031,3
+1486,yucatan,Ramal a Tedzidz,31600,YUC,2
+1487,yucatan,Ramal a Yaxcabá,31111,YUC-289,2
+1488,yucatan,Mérida - Tetiz,31610,MEX-281,4
+1489,yucatan,Chemax - Cobá, ,YUC-MEX-180,3
+1490,yucatan,Motul - Puerto Telchac,31006,YUC-172,3
+1491,yucatan,Sinanché - Xitibcanul,31619,YUC,2
+1492,yucatan,Conkal - Puerto Chicxulub,31004,MEX-176,2
+1493,yucatan,Dzemul - Xtampú,31608,YUC,2
+1494,yucatan,Libramiento Conkal - Mococha - Baca, ,MEX-176,8
+1495,yucatan,Piste - Dzitás,31013,YUC-013,2
+1496,yucatan,Libramiento de Peto, ,YUC-018,2
+1497,yucatan,Ramal a San Felipe,31628,YUC,2
+1498,yucatan,Ramal a Panabá,31609,MEX-295,2
+1499,yucatan,Suma - Izamal,31081,YUC-081,2
+1500,yucatan,Telchac Puerto - Dzilam de Bravo,31042,YUC,8
+1501,yucatan,Teya -Peto,31042,MEX-184,14
+1502,yucatan,Thul - Becanchén,31104,YUC-281,2
+1503,yucatan,Ticul - Chapab,31623,YUC,2
+1504,yucatan,Ticul - Dzan,31621,YUC,3
+1505,yucatan,Tixkokob - Baca,31010,YUC,2
+1506,yucatan,Tixkokob - Sotuta,31106,YUC,5
+1507,yucatan,Tizimín - Yucatán,31588,YUC,3
+1508,yucatan,Tzucacab - Santa Rosa,31017,MEX,4
+1509,yucatan,Valladolid - Felipe Carrillo Puerto,00010,MEX-295,13
+1510,yucatan,Yobaín - Chabihau,31610,YUC,2
+1511,yucatan,Valladolid - Río Lagartos,31035,MEX-295,7
+1512,yucatan,Yaxché - Sierra Papacal,31620,YUC,2
+1513,zacatecas,Aguascalientes - Zacatecas,00524,MEX-045,45
+1514,zacatecas,Ent. Morelos - Saltillo,00149,MEX-054,32
+1515,zacatecas,Ent. La Chicharrona - Cuencamé,00152,MEX-049,17
+1516,zacatecas,Guadalajara - Zacatecas,00150,MEX-054,17
+1517,zacatecas,Cieneguillas - Zacatecas,32579,ZAC,4
+1518,zacatecas,Ent. Tesistán - Ent. Malpaso,00584,MEX-023,13
+1519,zacatecas,Ent. Morelos - Ent. Noria de Gringos,00544,MEX-045,5
+1520,zacatecas,Libramiento de Tabasco, ,MEX-054,2
+1521,zacatecas,Fresnillo - Valparaíso,32547,MEX-044,6
+1522,zacatecas,San Luis Potosí - Ent. Arcinas,00134,MEX-049,22
+1523,zacatecas,Ramal a San Pedro Piedra Gorda,00553,ZAC-AGS,4
+1524,zacatecas,Ramal a Aeropuerto Zacatecas,32546,MEX-045,3
+1525,zacatecas,San Rafael - Villa García,00525,AGS-ZAC,3
+1526,zacatecas,Sombrerete - González Ortega,32568,ZAC,2
+1527,zacatecas,Santa Mónica - Pozo de Gamboa,32568,ZAC,3
+1528,zacatecas,Blvd. Guadalupe - Zacatecas - La Escondida,00544,MEX-045,10
+1529,zacatecas,Fresnillo - Plateros,32022,ZAC-022,4
+1530,zacatecas,Ent. Cuauhtémoc - Ent. Osiris (Cuota),32558,MEX-045D,3
+1531,zacatecas,Fresnillo - Ent. Bañón,32070,ZAC,7
+1532,zacatecas,Ent. Cosío - Ent. Cuauhtémoc,00579,MEX-045,3
+1533,zacatecas,Libramiento de Guadalupe - Zacatecas,32582,MEX-045,10
+1534,zacatecas,Guadalupe - Ent. Cuauhtémoc,00579,ZAC-118,6
+1535,zacatecas,Libramiento de Fresnillo (Cuota),32581,MEX-045D,10
+1536,zacatecas,Libramiento de Víctor Rosales (Cuota),32015,MEX-045D,8
+1537,zacatecas,Providencia - Luis Moya,00112,MEX-071,8
+1538,zacatecas,Ramal a Ruinas de Chicomostoc,00544,MEX-045,2
+1539,zacatecas,Corral de Piedras - Tlaltenango,32579,ZAC,2
+1540,zacatecas,Aguascalientes - Jalpa,00095,MEX-070,20
+1541,zacatecas,Ent. Ojo Caliente - Ent. Ojuelos de Jalisco,00126,ZAC,4
+1542,zacatecas,Calera de Víctor Rosales - Santiaguillo,32016,ZAC-016,2
+1543,zacatecas,Carbonera - T. C. (Ent. Morelos - Saltillo),00218,MEX-062,5
+1544,zacatecas,Ent. Rivier - San Marcos,00285,MEX-066,9
+1545,zacatecas,Libramiento Noreste de Zacatecas (Cuota),32582,ZAC-D,2
+1546,zacatecas,Jerez - Fresnillo,32542,MEX-023,2
+1547,zacatecas,Ramal a Concepción del Oro,32565,MEX-054,2
+1548,zacatecas,Libramiento de Sombrerete, ,MEX-045,2
+1549,zacatecas,Ramal a Gral. Pánfilo Natera,32559,MEX-049,3
+1550,zacatecas,Ramal a San Martín,00544,MEX-045,2
+1551,zacatecas,Libramiento de Río Grande, ,MEX-049,2
+1552,zacatecas,Ramal a Loreto,32067,ZAC,2
+1553,zacatecas,San Gil - Jarillas,00527,AGS-012-ZAC,5
+1554,zacatecas,San Luis Potosí - Lagos de Moreno,00133,MEX-070-080,14
+1555,zacatecas,Ramal a Villa de Cos,32564,MEX-054,4
+1556,zacatecas,Ramal a Francisco Murguía (Nieves),32541,MEX-049,2
+1557,zacatecas,Ramal a Nochistlán,32545,ZAC,4
+1558,zacatecas,Yahualica - Jaralillo, ,JAL-ZAC,8
+1559,zacatecas,Zacatecas - Durango,00544,MEX-045,44
